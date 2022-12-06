@@ -1,0 +1,96 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/f7273b3c-533f-47e2-8c3e-b1d5604b24ed>
+        rdf:type             schema:Organization ;
+        schema:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/f05cf6cf-23c8-4c9c-b40d-2568069ecf99> ;
+        schema:email         "servizio.innovazionedigitale@comune.trento.it" ;
+        schema:identifier    "Trento municipality" ;
+        schema:legalName     "Trento municipality" ;
+        schema:logo          "https://it.wikipedia.org/wiki/Trento#/media/File:Trento_CoA.svg"^^xsd:anyURI ;
+        schema:url           "https://www.comune.trento.it"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/438fc7f3-5533-4d30-9d54-d017939ff50f>
+        rdf:type                dcat:Dataset ;
+        dct:accessRights        "public" ;
+        dct:accrualPeriodicity  "Continued"^^xsd:anyURI ;
+        dct:description         "Car sharing station position dataset dedicated to the collection and delivery of Car sharing vehicles." ;
+        dct:identifier          "c_l378-1157737" ;
+        dct:issued              "2018-05-04T13:14:51Z"^^xsd:dateTime ;
+        dct:language            "ita" ;
+        dct:modified            "2021-07-08T13:14:51Z"^^xsd:dateTime ;
+        dct:publisher           <https://www.epos-eu.org/epos-dcat-ap#Organization/f7273b3c-533f-47e2-8c3e-b1d5604b24ed> ;
+        dct:spatial             <https://www.epos-eu.org/epos-dcat-ap#Location/312fadb6-e8be-496f-8e4a-744b4cebfd41> ;
+        dct:title               "Car sharing (Open Data)" ;
+        dct:type                "table"^^xsd:anyURI ;
+        adms:sample             <https://www.epos-eu.org/epos-dcat-ap#Distribution/c8b98666-3f41-4364-85d5-22d9098ce5d4> ;
+        dcat:contactPoint       <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/f05cf6cf-23c8-4c9c-b40d-2568069ecf99> ;
+        dcat:distribution       <https://www.epos-eu.org/epos-dcat-ap#Distribution/c8b98666-3f41-4364-85d5-22d9098ce5d4> ;
+        dcat:keyword            "Place" ;
+        dcat:landingPage        "https://dati.trentino.it/dataset/car-sharing-open-data" ;
+        dcat:theme              <https://www.epos-eu.org/epos-dcat-ap#Concept/bce722a1-5c6f-4fc8-a488-9e06e30500b7> , <https://www.epos-eu.org/epos-dcat-ap#Concept/6a89f94c-cd8c-4ddb-a45a-7b1cf44e1946> .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/3f4f102d-403d-416d-ac16-627826e03c45>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Trentino means of trsnsport" ;
+        dct:title        "Trensport" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/bce722a1-5c6f-4fc8-a488-9e06e30500b7>
+        rdf:type         skos:Concept ;
+        skos:definition  "Dataset theme" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/3f4f102d-403d-416d-ac16-627826e03c45> ;
+        skos:prefLabel   "Cities" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/c8b98666-3f41-4364-85d5-22d9098ce5d4>
+        rdf:type          dcat:Distribution ;
+        dct:description   "Car sharing station position resource dedicated to the collection and delivery of Car sharing vehicles." ;
+        dct:format        "gml" ;
+        dct:identifier    "resource_car_sharing_1" ;
+        dct:language      "ita" ;
+        dct:license       "Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)" ;
+        dct:title         "Car sharing (Open Data)" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://dati.trentino.it/dataset/car-sharing-open-data/resource/4f0e4ee2-ebc8-4cda-a87a-9f3bf358ad9d"^^xsd:anyURI ;
+        dcat:byteSize     "4.508"^^xsd:double ;
+        dcat:downloadURL  "https://webapps.comune.trento.it/cartodownload/cartografia/gis/dbexport?db=base&sc=mobilita&ly=car_sharing&fr=gml"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/f05cf6cf-23c8-4c9c-b40d-2568069ecf99>
+        rdf:type                  schema:ContactPoint ;
+        schema:availableLanguage  "it" ;
+        schema:contactType        "Official" ;
+        schema:email              "servizio.innovazionedigitale@comune.trento.it" ;
+        schema:telephone          "0461884111" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Location/312fadb6-e8be-496f-8e4a-744b4cebfd41>
+        rdf:type       dct:Location ;
+        locn:geometry  "POLYGON((9.7119140625 46.69466730777293,10.01953125 45.321254361171306,11.9091796875 45.460130637920834,11.84326171875 46.64943616335008,9.7119140625 46.69466730777293))"^^gsp:wktLiteral .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/6a89f94c-cd8c-4ddb-a45a-7b1cf44e1946>
+        rdf:type         skos:Concept ;
+        skos:definition  "Dataset theme" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/3f4f102d-403d-416d-ac16-627826e03c45> ;
+        skos:prefLabel   "Regions" .
