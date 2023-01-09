@@ -1,0 +1,640 @@
+<http://localhost:8080/source/STR042101010102S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38033" .
+<http://localhost:8080/source/STR042101010102S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.29017" .
+<http://localhost:8080/source/STR042101010102S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101010102S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "4" .
+<http://localhost:8080/source/STR042101010102S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22050" .
+<http://localhost:8080/source/STR042101010102S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101010102S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO SALUTE MENTALE CAVALESE" .
+<http://localhost:8080/source/STR042101010102S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA ROMA" .
+<http://localhost:8080/source/STR042101010102S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101010102S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "CAVALESE" .
+<http://localhost:8080/source/STR042101010102S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101010102S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.463946" .
+
+<http://localhost:8080/source/STR042101030402S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101030402S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIALE VICENZA" .
+<http://localhost:8080/source/STR042101030402S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO SALUTE MENTALE BORGO E TONADICO" .
+<http://localhost:8080/source/STR042101030402S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101030402S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "BORGO VALSUGANA" .
+<http://localhost:8080/source/STR042101030402S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101030402S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22022" .
+<http://localhost:8080/source/STR042101030402S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.4646" .
+<http://localhost:8080/source/STR042101030402S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38051" .
+<http://localhost:8080/source/STR042101030402S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "9" .
+<http://localhost:8080/source/STR042101030402S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101030402S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.0568" .
+
+<http://localhost:8080/source/STR042101030403S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "BORGO VALSUGANA" .
+<http://localhost:8080/source/STR042101030403S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101030403S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.4646" .
+<http://localhost:8080/source/STR042101030403S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38051" .
+<http://localhost:8080/source/STR042101030403S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101030403S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO DIURNO PSICHIATRICO BORGO/TONADICO" .
+<http://localhost:8080/source/STR042101030403S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101030403S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIALE VICENZA" .
+<http://localhost:8080/source/STR042101030403S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22022" .
+<http://localhost:8080/source/STR042101030403S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "9" .
+<http://localhost:8080/source/STR042101030403S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101030403S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.0568" .
+
+<http://localhost:8080/source/STR042101030404S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA ROMA" .
+<http://localhost:8080/source/STR042101030404S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22245" .
+<http://localhost:8080/source/STR042101030404S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO SALUTE MENTALE BORGO E TONADICO - AMB. TONADICO" .
+<http://localhost:8080/source/STR042101030404S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101030404S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101030404S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.831519" .
+<http://localhost:8080/source/STR042101030404S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101030404S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101030404S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.177751" .
+<http://localhost:8080/source/STR042101030404S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "PRIMIERO SAN MARTINO DI CASTROZZA" .
+<http://localhost:8080/source/STR042101030404S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "1" .
+<http://localhost:8080/source/STR042101030404S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38054" .
+
+<http://localhost:8080/source/STR042101040103S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA S  PIETRO" .
+<http://localhost:8080/source/STR042101040103S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.0633" .
+<http://localhost:8080/source/STR042101040103S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101040103S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO SALUTE MENTALE PERGINE" .
+<http://localhost:8080/source/STR042101040103S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101040103S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101040103S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101040103S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22139" .
+<http://localhost:8080/source/STR042101040103S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101040103S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38057" .
+<http://localhost:8080/source/STR042101040103S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.2449" .
+<http://localhost:8080/source/STR042101040103S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "14" .
+
+<http://localhost:8080/source/STR042101040104S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101040104S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38057" .
+<http://localhost:8080/source/STR042101040104S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "11.2449" .
+<http://localhost:8080/source/STR042101040104S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101040104S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22139" .
+<http://localhost:8080/source/STR042101040104S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101040104S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA S  PIETRO" .
+<http://localhost:8080/source/STR042101040104S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101040104S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "46.0633" .
+<http://localhost:8080/source/STR042101040104S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "APSS - RSA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101040104S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "2" .
+<http://localhost:8080/source/STR042101040104S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+
+<http://localhost:8080/source/STR042101040105S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101040105S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101040105S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101040105S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA SAN PIETRO" .
+<http://localhost:8080/source/STR042101040105S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22139" .
+<http://localhost:8080/source/STR042101040105S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38057" .
+<http://localhost:8080/source/STR042101040105S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101040105S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.0607017" .
+<http://localhost:8080/source/STR042101040105S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "14" .
+<http://localhost:8080/source/STR042101040105S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.2351627" .
+<http://localhost:8080/source/STR042101040105S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101040105S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO DIURNO PSICHIATRICO PERGINE" .
+
+<http://localhost:8080/source/STR042101040501S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.2189907" .
+<http://localhost:8080/source/STR042101040501S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA SAN PIETRO" .
+<http://localhost:8080/source/STR042101040501S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22139" .
+<http://localhost:8080/source/STR042101040501S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "RESIDENZA PSICHIATRICA PERUSINI" .
+<http://localhost:8080/source/STR042101040501S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38057" .
+<http://localhost:8080/source/STR042101040501S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101040501S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101040501S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101040501S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101040501S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101040501S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "2" .
+<http://localhost:8080/source/STR042101040501S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.0517181" .
+
+<http://localhost:8080/source/STR042101040502S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22139" .
+<http://localhost:8080/source/STR042101040502S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101040502S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "RESIDENZE PSICHIATRICHE" .
+<http://localhost:8080/source/STR042101040502S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA SAN PIETRO" .
+<http://localhost:8080/source/STR042101040502S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101040502S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101040502S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "11.2449" .
+<http://localhost:8080/source/STR042101040502S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101040502S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "46.0633" .
+<http://localhost:8080/source/STR042101040502S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38057" .
+<http://localhost:8080/source/STR042101040502S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101040502S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "2" .
+
+<http://localhost:8080/source/STR042101040503S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101040503S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "RESIDENZA PSICHIATRICA LEVICO - I RODODENDRI" .
+<http://localhost:8080/source/STR042101040503S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA SLUCCA DE MATTEONI" .
+<http://localhost:8080/source/STR042101040503S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38056" .
+<http://localhost:8080/source/STR042101040503S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22104" .
+<http://localhost:8080/source/STR042101040503S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101040503S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "LEVICO TERME" .
+<http://localhost:8080/source/STR042101040503S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101040503S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101040503S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.009549" .
+<http://localhost:8080/source/STR042101040503S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.303954" .
+<http://localhost:8080/source/STR042101040503S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "10" .
+
+<http://localhost:8080/source/STR042101040504S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "46.0633" .
+<http://localhost:8080/source/STR042101040504S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101040504S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101040504S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101040504S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101040504S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "RESIDENZA PER L'ESECUZIONE DELLE MISURE DI SICUREZZA - REMS PERGINE" .
+<http://localhost:8080/source/STR042101040504S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101040504S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "2" .
+<http://localhost:8080/source/STR042101040504S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22139" .
+<http://localhost:8080/source/STR042101040504S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA SAN PIETRO" .
+<http://localhost:8080/source/STR042101040504S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38057" .
+<http://localhost:8080/source/STR042101040504S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "11.2449" .
+
+<http://localhost:8080/source/STR042101050402S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.215351" .
+<http://localhost:8080/source/STR042101050402S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.121026" .
+<http://localhost:8080/source/STR042101050402S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101050402S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "MEZZOCORONA" .
+<http://localhost:8080/source/STR042101050402S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101050402S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22116" .
+<http://localhost:8080/source/STR042101050402S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101050402S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101050402S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO SALUTE MENTALE MEZZOCORONA" .
+<http://localhost:8080/source/STR042101050402S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA CANE" .
+<http://localhost:8080/source/STR042101050402S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "13" .
+<http://localhost:8080/source/STR042101050402S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38016" .
+
+<http://localhost:8080/source/STR042101050403S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "13" .
+<http://localhost:8080/source/STR042101050403S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "MEZZOCORONA" .
+<http://localhost:8080/source/STR042101050403S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.121026" .
+<http://localhost:8080/source/STR042101050403S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO DIURNO PSICHIATRICO MEZZOCORONA" .
+<http://localhost:8080/source/STR042101050403S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38016" .
+<http://localhost:8080/source/STR042101050403S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA CANE" .
+<http://localhost:8080/source/STR042101050403S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101050403S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101050403S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22116" .
+<http://localhost:8080/source/STR042101050403S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101050403S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101050403S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.215351" .
+
+<http://localhost:8080/source/STR042101050802S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101050802S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22205" .
+<http://localhost:8080/source/STR042101050802S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101050802S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38122" .
+<http://localhost:8080/source/STR042101050802S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "TRENTO" .
+<http://localhost:8080/source/STR042101050802S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA SAN GIOVANNI BOSCO" .
+<http://localhost:8080/source/STR042101050802S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101050802S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.064674" .
+<http://localhost:8080/source/STR042101050802S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.126155" .
+<http://localhost:8080/source/STR042101050802S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101050802S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO SALUTE MENTALE TRENTO" .
+
+<http://localhost:8080/source/STR042101050803S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101050803S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.07241" .
+<http://localhost:8080/source/STR042101050803S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22205" .
+<http://localhost:8080/source/STR042101050803S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.12383" .
+<http://localhost:8080/source/STR042101050803S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101050803S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101050803S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "1" .
+<http://localhost:8080/source/STR042101050803S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38122" .
+<http://localhost:8080/source/STR042101050803S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101050803S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "TRENTO" .
+<http://localhost:8080/source/STR042101050803S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO DIURNO PSICHIATRICO TRENTO" .
+<http://localhost:8080/source/STR042101050803S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA PETRARCA" .
+
+<http://localhost:8080/source/STR042101050804S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22205" .
+<http://localhost:8080/source/STR042101050804S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIALE TRIESTE" .
+<http://localhost:8080/source/STR042101050804S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101050804S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38122" .
+<http://localhost:8080/source/STR042101050804S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "TRENTO" .
+<http://localhost:8080/source/STR042101050804S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "APP.TO DEL FARE INSIEME 'VIALE TRIESTE'" .
+<http://localhost:8080/source/STR042101050804S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.065273" .
+<http://localhost:8080/source/STR042101050804S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101050804S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.136137" .
+<http://localhost:8080/source/STR042101050804S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101050804S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101050804S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "29" .
+
+<http://localhost:8080/source/STR042101050805S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101050805S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22205" .
+<http://localhost:8080/source/STR042101050805S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.125939" .
+<http://localhost:8080/source/STR042101050805S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "7" .
+<http://localhost:8080/source/STR042101050805S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.070842" .
+<http://localhost:8080/source/STR042101050805S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101050805S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "PIAZZA MOSTRA" .
+<http://localhost:8080/source/STR042101050805S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "TRENTO" .
+<http://localhost:8080/source/STR042101050805S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38122" .
+<http://localhost:8080/source/STR042101050805S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "APP.TO DEL FARE INSIEME 'P.ZZA MOSTRA NORD'" .
+<http://localhost:8080/source/STR042101050805S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101050805S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+
+<http://localhost:8080/source/STR042101050806S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101050806S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101050806S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "PIAZZA MOSTRA" .
+<http://localhost:8080/source/STR042101050806S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101050806S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "TRENTO" .
+<http://localhost:8080/source/STR042101050806S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.125939" .
+<http://localhost:8080/source/STR042101050806S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38122" .
+<http://localhost:8080/source/STR042101050806S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "7" .
+<http://localhost:8080/source/STR042101050806S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22205" .
+<http://localhost:8080/source/STR042101050806S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "APP.TO DEL FARE INSIEME 'P.ZZA MOSTRA SUD'" .
+<http://localhost:8080/source/STR042101050806S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101050806S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.070842" .
+
+<http://localhost:8080/source/STR042101050807S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101050807S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "TRENTO" .
+<http://localhost:8080/source/STR042101050807S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA MENGUZZATO" .
+<http://localhost:8080/source/STR042101050807S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.135236" .
+<http://localhost:8080/source/STR042101050807S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.039027" .
+<http://localhost:8080/source/STR042101050807S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22205" .
+<http://localhost:8080/source/STR042101050807S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101050807S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "50" .
+<http://localhost:8080/source/STR042101050807S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38123" .
+<http://localhost:8080/source/STR042101050807S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "COMUNITA' 'CASA DEL SOLE'" .
+<http://localhost:8080/source/STR042101050807S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101050807S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+
+<http://localhost:8080/source/STR042101050808S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22205" .
+<http://localhost:8080/source/STR042101050808S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.069696" .
+<http://localhost:8080/source/STR042101050808S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "10" .
+<http://localhost:8080/source/STR042101050808S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101050808S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38121" .
+<http://localhost:8080/source/STR042101050808S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101050808S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CASA DELL'AUTO AIUTO" .
+<http://localhost:8080/source/STR042101050808S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.130921" .
+<http://localhost:8080/source/STR042101050808S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101050808S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "TRENTO" .
+<http://localhost:8080/source/STR042101050808S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA DELLA COLLINA" .
+<http://localhost:8080/source/STR042101050808S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+
+<http://localhost:8080/source/STR042101060202S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101060202S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO SALUTE MENTALE CLES" .
+<http://localhost:8080/source/STR042101060202S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22062" .
+<http://localhost:8080/source/STR042101060202S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "47" .
+<http://localhost:8080/source/STR042101060202S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.36036" .
+<http://localhost:8080/source/STR042101060202S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101060202S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38023" .
+<http://localhost:8080/source/STR042101060202S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101060202S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "CLES" .
+<http://localhost:8080/source/STR042101060202S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.0302308" .
+<http://localhost:8080/source/STR042101060202S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101060202S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIALE DEGASPERI" .
+
+<http://localhost:8080/source/STR042101060204S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.3608" .
+<http://localhost:8080/source/STR042101060204S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "CLES" .
+<http://localhost:8080/source/STR042101060204S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101060204S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101060204S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101060204S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101060204S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38023" .
+<http://localhost:8080/source/STR042101060204S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22062" .
+<http://localhost:8080/source/STR042101060204S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.0323" .
+<http://localhost:8080/source/STR042101060204S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIALE DEGASPERI" .
+<http://localhost:8080/source/STR042101060204S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO DIURNO PSICHIATRICO CLES" .
+<http://localhost:8080/source/STR042101060204S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "31" .
+
+<http://localhost:8080/source/STR042101060801S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "CLES" .
+<http://localhost:8080/source/STR042101060801S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101060801S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101060801S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38023" .
+<http://localhost:8080/source/STR042101060801S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA TRENTO" .
+<http://localhost:8080/source/STR042101060801S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.3558562" .
+<http://localhost:8080/source/STR042101060801S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101060801S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.0386847" .
+<http://localhost:8080/source/STR042101060801S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "APPARTAMENTO PROTETTO \"IL MELO\"" .
+<http://localhost:8080/source/STR042101060801S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22062" .
+<http://localhost:8080/source/STR042101060801S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "42" .
+<http://localhost:8080/source/STR042101060801S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+
+<http://localhost:8080/source/STR042101060901S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA  SAN VITO" .
+<http://localhost:8080/source/STR042101060901S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.362225" .
+<http://localhost:8080/source/STR042101060901S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101060901S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101060901S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38023" .
+<http://localhost:8080/source/STR042101060901S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.0263984" .
+<http://localhost:8080/source/STR042101060901S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22062" .
+<http://localhost:8080/source/STR042101060901S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101060901S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "APPARTAMENTO PROTETTO" .
+<http://localhost:8080/source/STR042101060901S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "CLES" .
+<http://localhost:8080/source/STR042101060901S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+
+<http://localhost:8080/source/STR042101070301S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA MILANO" .
+<http://localhost:8080/source/STR042101070301S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "MALÈ" .
+<http://localhost:8080/source/STR042101070301S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101070301S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "APPARTAMENTO PROTETTO" .
+<http://localhost:8080/source/STR042101070301S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101070301S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22110" .
+<http://localhost:8080/source/STR042101070301S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101070301S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101070301S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38027" .
+<http://localhost:8080/source/STR042101070301S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "4" .
+<http://localhost:8080/source/STR042101070301S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "10.910357" .
+<http://localhost:8080/source/STR042101070301S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.349042" .
+
+<http://localhost:8080/source/STR042101080102S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "10.725921" .
+<http://localhost:8080/source/STR042101080102S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38079" .
+<http://localhost:8080/source/STR042101080102S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101080102S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101080102S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22199" .
+<http://localhost:8080/source/STR042101080102S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101080102S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.041425" .
+<http://localhost:8080/source/STR042101080102S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA OSPEDALE" .
+<http://localhost:8080/source/STR042101080102S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "TIONE DI TRENTO" .
+<http://localhost:8080/source/STR042101080102S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "8" .
+<http://localhost:8080/source/STR042101080102S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101080102S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO SALUTE MENTALE TIONE" .
+
+<http://localhost:8080/source/STR042101080106S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "TIONE DI TRENTO" .
+<http://localhost:8080/source/STR042101080106S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.0413" .
+<http://localhost:8080/source/STR042101080106S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA OSPEDALE" .
+<http://localhost:8080/source/STR042101080106S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101080106S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38080" .
+<http://localhost:8080/source/STR042101080106S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "10" .
+<http://localhost:8080/source/STR042101080106S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101080106S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22199" .
+<http://localhost:8080/source/STR042101080106S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101080106S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "10.7244" .
+<http://localhost:8080/source/STR042101080106S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101080106S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO DIURNO PSICHIATRICO TIONE" .
+
+<http://localhost:8080/source/STR042101091004S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101091004S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "36" .
+<http://localhost:8080/source/STR042101091004S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38066" .
+<http://localhost:8080/source/STR042101091004S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101091004S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101091004S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "10.849873" .
+<http://localhost:8080/source/STR042101091004S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "LOCALITA  ISCHIA" .
+<http://localhost:8080/source/STR042101091004S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "COMUNITA' TERAPEUTICA RIABILITATIVA - VILLA ISCHIA" .
+<http://localhost:8080/source/STR042101091004S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "45.898443" .
+<http://localhost:8080/source/STR042101091004S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22153" .
+<http://localhost:8080/source/STR042101091004S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101091004S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "RIVA DEL GARDA" .
+
+<http://localhost:8080/source/STR042101091401S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101091401S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22006" .
+<http://localhost:8080/source/STR042101091401S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101091401S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "LARGO ARCIDUCA ALBERTO D ASBURGO" .
+<http://localhost:8080/source/STR042101091401S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "1" .
+<http://localhost:8080/source/STR042101091401S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "ARCO" .
+<http://localhost:8080/source/STR042101091401S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "10.882606" .
+<http://localhost:8080/source/STR042101091401S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO SALUTE MENTALE ARCO" .
+<http://localhost:8080/source/STR042101091401S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101091401S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "45.918763" .
+<http://localhost:8080/source/STR042101091401S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101091401S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38062" .
+
+<http://localhost:8080/source/STR042101100102S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.042005" .
+<http://localhost:8080/source/STR042101100102S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101100102S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "6" .
+<http://localhost:8080/source/STR042101100102S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101100102S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38068" .
+<http://localhost:8080/source/STR042101100102S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO SALUTE MENTALE ROVERETO" .
+<http://localhost:8080/source/STR042101100102S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "45.883398" .
+<http://localhost:8080/source/STR042101100102S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22161" .
+<http://localhost:8080/source/STR042101100102S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "P ZZALE S MARIA" .
+<http://localhost:8080/source/STR042101100102S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101100102S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "ROVERETO" .
+<http://localhost:8080/source/STR042101100102S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+
+<http://localhost:8080/source/STR042101100104S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "PIAZZALE S MARIA" .
+<http://localhost:8080/source/STR042101100104S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38068" .
+<http://localhost:8080/source/STR042101100104S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "6" .
+<http://localhost:8080/source/STR042101100104S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101100104S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO DIURNO PSICHIATRICO ROVERETO" .
+<http://localhost:8080/source/STR042101100104S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101100104S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22161" .
+<http://localhost:8080/source/STR042101100104S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101100104S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.042005" .
+<http://localhost:8080/source/STR042101100104S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "45.883398" .
+<http://localhost:8080/source/STR042101100104S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101100104S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "ROVERETO" .
+
+<http://localhost:8080/source/STR042101100105S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101100105S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "ROVERETO" .
+<http://localhost:8080/source/STR042101100105S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.0387709" .
+<http://localhost:8080/source/STR042101100105S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA BENACENSE" .
+<http://localhost:8080/source/STR042101100105S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "GRUPPO APPARTAMENTO PROTETTO ROVERETO" .
+<http://localhost:8080/source/STR042101100105S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101100105S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22161" .
+<http://localhost:8080/source/STR042101100105S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "45.8822992" .
+<http://localhost:8080/source/STR042101100105S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "17" .
+<http://localhost:8080/source/STR042101100105S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101100105S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101100105S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38068" .
+
+<http://localhost:8080/source/STR042101100202S05> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22001" .
+<http://localhost:8080/source/STR042101100202S05> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "13" .
+<http://localhost:8080/source/STR042101100202S05> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "45.756172" .
+<http://localhost:8080/source/STR042101100202S05> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.000795" .
+<http://localhost:8080/source/STR042101100202S05> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S05" .
+<http://localhost:8080/source/STR042101100202S05> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "ALA" .
+<http://localhost:8080/source/STR042101100202S05> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38061" .
+<http://localhost:8080/source/STR042101100202S05> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101100202S05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101100202S05> <http://knowdive.disi.unitn.it/etype#has_namePS> "COMUNITA' TERAPEUTICA RESIDENZIALE ALA" .
+<http://localhost:8080/source/STR042101100202S05> <http://knowdive.disi.unitn.it/etype#has_addressPS> "PIAZZA GIOVANNI XXIII" .
+<http://localhost:8080/source/STR042101100202S05> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA PSICHIATRICA" .
+
+<http://localhost:8080/source/STR042101032003S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101032003S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "CARANO" .
+<http://localhost:8080/source/STR042101032003S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22041" .
+<http://localhost:8080/source/STR042101032003S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "LOCALITA  CELA" .
+<http://localhost:8080/source/STR042101032003S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "COMUNITA' RESIDENZIALE TEMPORANEA MASO TOFFA" .
+<http://localhost:8080/source/STR042101032003S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+<http://localhost:8080/source/STR042101032003S11> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "16" .
+<http://localhost:8080/source/STR042101032003S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38033" .
+<http://localhost:8080/source/STR042101032003S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101032003S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.417995" .
+<http://localhost:8080/source/STR042101032003S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101032003S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.293533" .
+
+<http://localhost:8080/source/STR042101040104S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38057" .
+<http://localhost:8080/source/STR042101040104S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101040104S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101040104S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101040104S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101040104S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22139" .
+<http://localhost:8080/source/STR042101040104S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.2449" .
+<http://localhost:8080/source/STR042101040104S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "APSS - RSA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101040104S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA S  PIETRO" .
+<http://localhost:8080/source/STR042101040104S11> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "2" .
+<http://localhost:8080/source/STR042101040104S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.0633" .
+<http://localhost:8080/source/STR042101040104S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+
+<http://localhost:8080/source/STR042101040502S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA SAN PIETRO" .
+<http://localhost:8080/source/STR042101040502S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "46.0633" .
+<http://localhost:8080/source/STR042101040502S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "11.2449" .
+<http://localhost:8080/source/STR042101040502S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101040502S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38057" .
+<http://localhost:8080/source/STR042101040502S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101040502S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101040502S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "RESIDENZE PSICHIATRICHE" .
+<http://localhost:8080/source/STR042101040502S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22139" .
+<http://localhost:8080/source/STR042101040502S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+<http://localhost:8080/source/STR042101040502S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101040502S11> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "2" .
+
+<http://localhost:8080/source/STR042101041501S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38054" .
+<http://localhost:8080/source/STR042101041501S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101041501S11> <http://knowdive.disi.unitn.it/etype#has_districtPS> "PIEVE" .
+<http://localhost:8080/source/STR042101041501S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA MARCONI" .
+<http://localhost:8080/source/STR042101041501S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "PRIMIERO SAN MARTINO DI CASTROZZA" .
+<http://localhost:8080/source/STR042101041501S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22245" .
+<http://localhost:8080/source/STR042101041501S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "COMUNITA' RESIDENZIALE TEMPORANEA PICCOLO PRINCIPE" .
+<http://localhost:8080/source/STR042101041501S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101041501S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101041501S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.825447" .
+<http://localhost:8080/source/STR042101041501S11> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "7" .
+<http://localhost:8080/source/STR042101041501S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+<http://localhost:8080/source/STR042101041501S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.173383" .
+
+<http://localhost:8080/source/STR042101052021S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+<http://localhost:8080/source/STR042101052021S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101052021S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA G B  TRENER" .
+<http://localhost:8080/source/STR042101052021S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "CASA SERENA - ANFFAS -CENTRO RESIDENZIALE DISABILI - TRENTO" .
+<http://localhost:8080/source/STR042101052021S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "46.093598" .
+<http://localhost:8080/source/STR042101052021S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "TRENTO" .
+<http://localhost:8080/source/STR042101052021S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101052021S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "11.114954" .
+<http://localhost:8080/source/STR042101052021S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22205" .
+<http://localhost:8080/source/STR042101052021S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052021S11> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "8" .
+<http://localhost:8080/source/STR042101052021S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38121" .
+
+<http://localhost:8080/source/STR042101052022S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+<http://localhost:8080/source/STR042101052022S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "TRENTO" .
+<http://localhost:8080/source/STR042101052022S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "11.128063" .
+<http://localhost:8080/source/STR042101052022S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "46.056658" .
+<http://localhost:8080/source/STR042101052022S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO DIURNO SOCIO RIAB. PER DISABILI ANFFAS - IL PAESE DI OZ - TRENTO" .
+<http://localhost:8080/source/STR042101052022S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38122" .
+<http://localhost:8080/source/STR042101052022S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA AOSTA" .
+<http://localhost:8080/source/STR042101052022S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101052022S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22205" .
+<http://localhost:8080/source/STR042101052022S11> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "40" .
+<http://localhost:8080/source/STR042101052022S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101052022S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA SEMIRESIDENZIALE" .
+
+<http://localhost:8080/source/STR042101052025S11> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "11" .
+<http://localhost:8080/source/STR042101052025S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+<http://localhost:8080/source/STR042101052025S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101052025S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.0916099" .
+<http://localhost:8080/source/STR042101052025S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052025S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22205" .
+<http://localhost:8080/source/STR042101052025S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.1179487" .
+<http://localhost:8080/source/STR042101052025S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA ZAMBRA" .
+<http://localhost:8080/source/STR042101052025S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "COMUNITA' SOCIOSANIT. PER MINORI- GRUPPO APPARTAMENTO LOC. CAMPOTRENTINO" .
+<http://localhost:8080/source/STR042101052025S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101052025S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38121" .
+<http://localhost:8080/source/STR042101052025S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "TRENTO" .
+
+<http://localhost:8080/source/STR042101052029S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "TRENTO" .
+<http://localhost:8080/source/STR042101052029S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101052029S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101052029S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA PALAZZINE" .
+<http://localhost:8080/source/STR042101052029S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.114409" .
+<http://localhost:8080/source/STR042101052029S11> <http://knowdive.disi.unitn.it/etype#has_districtPS> "MASO ZANCANELLA" .
+<http://localhost:8080/source/STR042101052029S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "ASSOCIAZIONE CENTRO ANTIDROGA ONLUS-COMUNITA' TERAP. PER LA CURA DEI DISTURBI ALIMENTARI" .
+<http://localhost:8080/source/STR042101052029S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22205" .
+<http://localhost:8080/source/STR042101052029S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38122" .
+<http://localhost:8080/source/STR042101052029S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.104479" .
+<http://localhost:8080/source/STR042101052029S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+<http://localhost:8080/source/STR042101052029S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+
+<http://localhost:8080/source/STR042101061001S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "COMUNITA' RESIDENZIALE TEMPORANEA VALLE APERTA" .
+<http://localhost:8080/source/STR042101061001S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22235" .
+<http://localhost:8080/source/STR042101061001S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.232117" .
+<http://localhost:8080/source/STR042101061001S11> <http://knowdive.disi.unitn.it/etype#has_districtPS> "LOC  PONCIACH DI FAVER" .
+<http://localhost:8080/source/STR042101061001S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38030" .
+<http://localhost:8080/source/STR042101061001S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101061001S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "ALTAVALLE" .
+<http://localhost:8080/source/STR042101061001S11> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "4" .
+<http://localhost:8080/source/STR042101061001S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101061001S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "46.202738" .
+<http://localhost:8080/source/STR042101061001S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101061001S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+<http://localhost:8080/source/STR042101061001S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA EUROPA" .
+
+<http://localhost:8080/source/STR042101081705S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "COMUNITA' RESIDENZIALE TEMPORANEA - BERSONE" .
+<http://localhost:8080/source/STR042101081705S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "10.633156" .
+<http://localhost:8080/source/STR042101081705S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22232" .
+<http://localhost:8080/source/STR042101081705S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "45.944457" .
+<http://localhost:8080/source/STR042101081705S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA CHIESA  LOC  BERSONE" .
+<http://localhost:8080/source/STR042101081705S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "VALDAONE" .
+<http://localhost:8080/source/STR042101081705S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101081705S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38080" .
+<http://localhost:8080/source/STR042101081705S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101081705S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+<http://localhost:8080/source/STR042101081705S11> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "4" .
+<http://localhost:8080/source/STR042101081705S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+
+<http://localhost:8080/source/STR042101081706S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38080" .
+<http://localhost:8080/source/STR042101081706S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO DIURNO PER ADULTI BERSONE" .
+<http://localhost:8080/source/STR042101081706S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22232" .
+<http://localhost:8080/source/STR042101081706S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101081706S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "45.944457" .
+<http://localhost:8080/source/STR042101081706S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101081706S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "10.633156" .
+<http://localhost:8080/source/STR042101081706S11> <http://knowdive.disi.unitn.it/etype#has_districtPS> "LOC  BERSONE" .
+<http://localhost:8080/source/STR042101081706S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+<http://localhost:8080/source/STR042101081706S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101081706S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA CHIESA" .
+<http://localhost:8080/source/STR042101081706S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "VALDAONE" .
+<http://localhost:8080/source/STR042101081706S11> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "4" .
+
+<http://localhost:8080/source/STR042101091005S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "10.897183" .
+<http://localhost:8080/source/STR042101091005S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101091005S11> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "32" .
+<http://localhost:8080/source/STR042101091005S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "ARCO" .
+<http://localhost:8080/source/STR042101091005S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101091005S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "COMUNITA' RESIDENZIALE - APP. SEMI PROTETTO - BOLOGNANO" .
+<http://localhost:8080/source/STR042101091005S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+<http://localhost:8080/source/STR042101091005S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIALE ROVERETO" .
+<http://localhost:8080/source/STR042101091005S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101091005S11> <http://knowdive.disi.unitn.it/etype#has_districtPS> "BOLOGNANO" .
+<http://localhost:8080/source/STR042101091005S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38062" .
+<http://localhost:8080/source/STR042101091005S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22006" .
+<http://localhost:8080/source/STR042101091005S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "45.912966" .
+
+<http://localhost:8080/source/STR042101100900S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "VILLA MARIA - COOP SOC. -CENTRO RESIDENZIALE DISABILI - LENZIMA" .
+<http://localhost:8080/source/STR042101100900S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "ISERA" .
+<http://localhost:8080/source/STR042101100900S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101100900S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101100900S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "45.87862" .
+<http://localhost:8080/source/STR042101100900S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101100900S11> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "2" .
+<http://localhost:8080/source/STR042101100900S11> <http://knowdive.disi.unitn.it/etype#has_districtPS> "LENZIMA" .
+<http://localhost:8080/source/STR042101100900S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "10.992596" .
+<http://localhost:8080/source/STR042101100900S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22098" .
+<http://localhost:8080/source/STR042101100900S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "PIAZZA S  MARTINO" .
+<http://localhost:8080/source/STR042101100900S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+<http://localhost:8080/source/STR042101100900S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38060" .
+
+<http://localhost:8080/source/STR042101100905S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "45.887377" .
+<http://localhost:8080/source/STR042101100905S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101100905S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101100905S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA FLAIM" .
+<http://localhost:8080/source/STR042101100905S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "ROVERETO" .
+<http://localhost:8080/source/STR042101100905S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+<http://localhost:8080/source/STR042101100905S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38068" .
+<http://localhost:8080/source/STR042101100905S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.039317" .
+<http://localhost:8080/source/STR042101100905S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22161" .
+<http://localhost:8080/source/STR042101100905S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101100905S11> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "3" .
+<http://localhost:8080/source/STR042101100905S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "COMUNITA' RESIDENZIALE TEMPORANEA GIRASOLE - ROVERETO" .
+
+<http://localhost:8080/source/STR042101100906S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22205" .
+<http://localhost:8080/source/STR042101100906S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA PALAZZINE" .
+<http://localhost:8080/source/STR042101100906S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38121" .
+<http://localhost:8080/source/STR042101100906S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "CENTRO DIURNO SOCIO RIAB. PER DISABILI AUTISMO - AGSAT - TRENTO" .
+<http://localhost:8080/source/STR042101100906S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101100906S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101100906S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101100906S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+<http://localhost:8080/source/STR042101100906S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "TRENTO" .
+<http://localhost:8080/source/STR042101100906S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "45.87848" .
+<http://localhost:8080/source/STR042101100906S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "11.033609" .
+<http://localhost:8080/source/STR042101100906S11> <http://knowdive.disi.unitn.it/etype#has_districtPS> "MASO ZANCANELLA" .
+
+<http://localhost:8080/source/STR042101103105S11> <http://knowdive.disi.unitn.it/etype#has_codMuniPS> "22123" .
+<http://localhost:8080/source/STR042101103105S11> <http://knowdive.disi.unitn.it/etype#has_houseNumberPS> "101" .
+<http://localhost:8080/source/STR042101103105S11> <http://knowdive.disi.unitn.it/etype#has_namePS> "COMUNITA' RESIDENZIALE TEMPORANEA VILLA ARGIA - MORI" .
+<http://localhost:8080/source/STR042101103105S11> <http://knowdive.disi.unitn.it/etype#has_typeStPS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101103105S11> <http://knowdive.disi.unitn.it/etype#has_assistancePS> "ASSISTENZA AI DISABILI PSICHICI" .
+<http://localhost:8080/source/STR042101103105S11> <http://knowdive.disi.unitn.it/etype#has_addressPS> "VIA DEL GARDA" .
+<http://localhost:8080/source/STR042101103105S11> <http://knowdive.disi.unitn.it/etype#has_municipalityPS> "MORI" .
+<http://localhost:8080/source/STR042101103105S11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Psychiatric> .
+<http://localhost:8080/source/STR042101103105S11> <http://knowdive.disi.unitn.it/etype#has_latitudePS> "45.853533" .
+<http://localhost:8080/source/STR042101103105S11> <http://knowdive.disi.unitn.it/etype#has_codTypeAsPS> "S11" .
+<http://localhost:8080/source/STR042101103105S11> <http://knowdive.disi.unitn.it/etype#has_CAPps> "38065" .
+<http://localhost:8080/source/STR042101103105S11> <http://knowdive.disi.unitn.it/etype#has_longitudePS> "10.963059" .
+

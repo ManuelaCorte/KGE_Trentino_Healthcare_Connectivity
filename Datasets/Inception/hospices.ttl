@@ -1,0 +1,39 @@
+<http://localhost:8080/source/STR042101050400S12> <http://knowdive.disi.unitn.it/etype#has_typeStHS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101050400S12> <http://knowdive.disi.unitn.it/etype#has_nameHS> "HOSPICE TRENTO VILLA IGEA" .
+<http://localhost:8080/source/STR042101050400S12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hospice> .
+<http://localhost:8080/source/STR042101050400S12> <http://knowdive.disi.unitn.it/etype#has_longitudeHS> "11.1279" .
+<http://localhost:8080/source/STR042101050400S12> <http://knowdive.disi.unitn.it/etype#has_codMuniHS> "22205" .
+<http://localhost:8080/source/STR042101050400S12> <http://knowdive.disi.unitn.it/etype#has_CAPhs> "38122" .
+<http://localhost:8080/source/STR042101050400S12> <http://knowdive.disi.unitn.it/etype#has_codTypeAsHS> "S12" .
+<http://localhost:8080/source/STR042101050400S12> <http://knowdive.disi.unitn.it/etype#has_latitudeHS> "46.0617" .
+<http://localhost:8080/source/STR042101050400S12> <http://knowdive.disi.unitn.it/etype#has_assistanceHS> "ASSISTENZA AI MALATI TERMINALI" .
+<http://localhost:8080/source/STR042101050400S12> <http://knowdive.disi.unitn.it/etype#has_addressHS> "VIA MALTA" .
+<http://localhost:8080/source/STR042101050400S12> <http://knowdive.disi.unitn.it/etype#has_houseNumberHS> "16" .
+<http://localhost:8080/source/STR042101050400S12> <http://knowdive.disi.unitn.it/etype#has_municipalityHS> "TRENTO" .
+
+<http://localhost:8080/source/STR042101050407S12> <http://knowdive.disi.unitn.it/etype#has_CAPhs> "38123" .
+<http://localhost:8080/source/STR042101050407S12> <http://knowdive.disi.unitn.it/etype#has_houseNumberHS> "48" .
+<http://localhost:8080/source/STR042101050407S12> <http://knowdive.disi.unitn.it/etype#has_typeStHS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101050407S12> <http://knowdive.disi.unitn.it/etype#has_longitudeHS> "46.038432" .
+<http://localhost:8080/source/STR042101050407S12> <http://knowdive.disi.unitn.it/etype#has_addressHS> "VIA C  MENGUZZATO" .
+<http://localhost:8080/source/STR042101050407S12> <http://knowdive.disi.unitn.it/etype#has_codMuniHS> "22205" .
+<http://localhost:8080/source/STR042101050407S12> <http://knowdive.disi.unitn.it/etype#has_latitudeHS> "11.137198" .
+<http://localhost:8080/source/STR042101050407S12> <http://knowdive.disi.unitn.it/etype#has_nameHS> "FONDAZIONE HOSPICE TRENTINO ONLUS" .
+<http://localhost:8080/source/STR042101050407S12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hospice> .
+<http://localhost:8080/source/STR042101050407S12> <http://knowdive.disi.unitn.it/etype#has_assistanceHS> "ASSISTENZA AI MALATI TERMINALI" .
+<http://localhost:8080/source/STR042101050407S12> <http://knowdive.disi.unitn.it/etype#has_codTypeAsHS> "S12" .
+<http://localhost:8080/source/STR042101050407S12> <http://knowdive.disi.unitn.it/etype#has_municipalityHS> "TRENTO" .
+
+<http://localhost:8080/source/STR042101103103S12> <http://knowdive.disi.unitn.it/etype#has_houseNumberHS> "54" .
+<http://localhost:8080/source/STR042101103103S12> <http://knowdive.disi.unitn.it/etype#has_longitudeHS> "10.964928" .
+<http://localhost:8080/source/STR042101103103S12> <http://knowdive.disi.unitn.it/etype#has_assistanceHS> "ASSISTENZA AI MALATI TERMINALI" .
+<http://localhost:8080/source/STR042101103103S12> <http://knowdive.disi.unitn.it/etype#has_latitudeHS> "45.868975" .
+<http://localhost:8080/source/STR042101103103S12> <http://knowdive.disi.unitn.it/etype#has_nameHS> "HOSPICE MORI" .
+<http://localhost:8080/source/STR042101103103S12> <http://knowdive.disi.unitn.it/etype#has_codMuniHS> "22123" .
+<http://localhost:8080/source/STR042101103103S12> <http://knowdive.disi.unitn.it/etype#has_CAPhs> "38065" .
+<http://localhost:8080/source/STR042101103103S12> <http://knowdive.disi.unitn.it/etype#has_codTypeAsHS> "S12" .
+<http://localhost:8080/source/STR042101103103S12> <http://knowdive.disi.unitn.it/etype#has_typeStHS> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101103103S12> <http://knowdive.disi.unitn.it/etype#has_addressHS> "VIA DEL GARDA" .
+<http://localhost:8080/source/STR042101103103S12> <http://knowdive.disi.unitn.it/etype#has_municipalityHS> "MORI" .
+<http://localhost:8080/source/STR042101103103S12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hospice> .
+

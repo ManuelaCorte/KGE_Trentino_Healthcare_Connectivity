@@ -1,0 +1,548 @@
+<http://localhost:8080/source/PP042101001%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "PIAZZA S.GIOVANNI XXII            " .
+<http://localhost:8080/source/PP042101001%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "ALA                               " .
+<http://localhost:8080/source/PP042101001%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101001%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22001 " .
+<http://localhost:8080/source/PP042101001%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.756172  " .
+<http://localhost:8080/source/PP042101001%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.000795 " .
+<http://localhost:8080/source/PP042101001%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PIANO TERRA DEL PRESIDIO OSPEDALIERO DI ALA. ORARIO PRELIEVI: DA LUN A VEN, DALLE 7:30 ALLE 9:00. SI EFFETTUANO PRELIEVI ANCHE A BAMBINI SOTTO I 6 ANNI, SALVO CASI PARTICOLARI. PRESENZA DI PUNTO CASSA AZIENDALE" .
+
+<http://localhost:8080/source/PP042101002%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22002 " .
+<http://localhost:8080/source/PP042101002%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "GIO DALLE 7:30 ALLE 9:00. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO ADIGE. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). NO PUNTO CASSA" .
+<http://localhost:8080/source/PP042101002%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "30            " .
+<http://localhost:8080/source/PP042101002%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.193329 " .
+<http://localhost:8080/source/PP042101002%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "ALBIANO                           " .
+<http://localhost:8080/source/PP042101002%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101002%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.144988  " .
+<http://localhost:8080/source/PP042101002%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA S. ANTONIO                    " .
+
+<http://localhost:8080/source/PP042101003%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.975733  " .
+<http://localhost:8080/source/PP042101003%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.092698 " .
+<http://localhost:8080/source/PP042101003%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "1             " .
+<http://localhost:8080/source/PP042101003%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "MAR DALLE 7:00 ALLE 9:00. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO ADIGE. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). NO PUNTO CASSA" .
+<http://localhost:8080/source/PP042101003%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22003 " .
+<http://localhost:8080/source/PP042101003%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA FLORIDA                       " .
+<http://localhost:8080/source/PP042101003%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "ALDENO                            " .
+<http://localhost:8080/source/PP042101003%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+
+<http://localhost:8080/source/PP042101004%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "ANDALO                            " .
+<http://localhost:8080/source/PP042101004%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22005 " .
+<http://localhost:8080/source/PP042101004%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101004%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.1637596 " .
+<http://localhost:8080/source/PP042101004%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.003541 " .
+<http://localhost:8080/source/PP042101004%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "PIAZZA PAGANELLA                  " .
+<http://localhost:8080/source/PP042101004%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "3             " .
+<http://localhost:8080/source/PP042101004%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "MAR E VEN DALLE 7:30 ALLE 9:30. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO DRUSO. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI) PRESENZA DI PUNTO CASSA - NO BANCOMAT" .
+
+<http://localhost:8080/source/PP042101005%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101005%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "L'ACCETTAZIONE VIENE EFFETTUATA PRESSO GLI SPORTELLI CASSA ALL'ENTRATA DELL'OSPEDALE CIVILE. L'AMBULATORIO PRELIEVI E' POSTO AL SECONDO LIVELLO DELL'OSPEDALE. ORARIO PRELIEVI: DA LUN A VEN DALLE 7:30 ALLE 9:30. SI EFFETTUANO PRELIEVI PER ADULTI E BAMBINI ANCHE IN ETA' INFERIORE AI 6 ANNI. PRESENZA PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101005%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  10.8741   " .
+<http://localhost:8080/source/PP042101005%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "48            " .
+<http://localhost:8080/source/PP042101005%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "ARCO                              " .
+<http://localhost:8080/source/PP042101005%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.9192    " .
+<http://localhost:8080/source/PP042101005%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA CAPITELLI                     " .
+<http://localhost:8080/source/PP042101005%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22006 " .
+
+<http://localhost:8080/source/PP042101006%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PUNTO PRELIEVI PRESSO APSP VILLA ALPINA. ORARIO PRELIEVI: MAR E GIO DALLE 7:30 ALLE 9:00. PRELIEVI PEDIATRICI: A PARTIRE DAI 6 ANNI DI ETA'. NON PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101006%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "BASELGA DI PINE'                  " .
+<http://localhost:8080/source/PP042101006%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22009 " .
+<http://localhost:8080/source/PP042101006%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "FRAZIONE MONTAGNAGA VIA NOVEMBRE  " .
+<http://localhost:8080/source/PP042101006%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.237955 " .
+<http://localhost:8080/source/PP042101006%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.103828  " .
+<http://localhost:8080/source/PP042101006%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101006%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "29            " .
+
+<http://localhost:8080/source/PP042101007%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.917721  " .
+<http://localhost:8080/source/PP042101007%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "LOC. BEZZECCA                     " .
+<http://localhost:8080/source/PP042101007%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "6             " .
+<http://localhost:8080/source/PP042101007%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  10.715561 " .
+<http://localhost:8080/source/PP042101007%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "LEDRO                             " .
+<http://localhost:8080/source/PP042101007%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101007%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PUNTO PRELIEVI PRESSO APSP GIACOMO CIS. PRELIEVI: MAR E GIO DALLE 7:45 ALLE 9:15 - PIANO TERRA. RITIRO REFERTI: DA LUN A VEN DALLE 9:00 ALLE 12:30 C/O UFFICIO AMM.VO PRIMO PIANO. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). NO PUNTO CASSA" .
+<http://localhost:8080/source/PP042101007%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22229 " .
+
+<http://localhost:8080/source/PP042101008%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "BORGO VALSUGANA                   " .
+<http://localhost:8080/source/PP042101008%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.4646   " .
+<http://localhost:8080/source/PP042101008%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "9             " .
+<http://localhost:8080/source/PP042101008%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "L'ACCETTAZIONE VIENE EFFETTUATA PRESSO LO SPORTELLO DEL PUNTO PRELIEVI SITUATO AL SECONDO PIANO DELLA PALAZZINA NUOVO EDIFICIO DEL DISTRETTO BASSA VALSUGANA. L'AMBULATORIO PRELIEVI E' POSTO SUL MEDESIMO PIANO, NEL LOCALE ADIACENTE ALLO SPORTELLO. ORARIO PRELIEVI: DA LUN A VEN DALLE 7:30 ALLE 9:00. SI EFFETTUANO PRELIEVI PEDIATRICI SENZA LIMITI DI ETA' PREVIA VALUTAZIONE MEDICA. PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101008%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101008%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.0568    " .
+<http://localhost:8080/source/PP042101008%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA VICENZA                       " .
+<http://localhost:8080/source/PP042101008%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22022 " .
+
+<http://localhost:8080/source/PP042101009%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.817434  " .
+<http://localhost:8080/source/PP042101009%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22025 " .
+<http://localhost:8080/source/PP042101009%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "BRENTONICO                        " .
+<http://localhost:8080/source/PP042101009%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA BALISTA                       " .
+<http://localhost:8080/source/PP042101009%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "7             " .
+<http://localhost:8080/source/PP042101009%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101009%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PUNTO PRELIEVI PRESSO APSP DI BRENTONICO. LUN E GIO DALLE 8:00 ALLE 9:30 NON SI EFFETTUANO PRELIEVI A BAMBINI DI ETA' INFERIORE AI 10 ANNI SI ACCETTANO PERO' CAMPIONI DI URINA. STRUTTURA ACCREDITATA. NO PUNTO CASSA" .
+<http://localhost:8080/source/PP042101009%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  10.95871  " .
+
+<http://localhost:8080/source/PP042101010%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22050 " .
+<http://localhost:8080/source/PP042101010%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA DOSSI                         " .
+<http://localhost:8080/source/PP042101010%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101010%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "L'ACCETTAZIONE VIENE EFFETTUATA PRESSO LO SPORTELLO DELL'UFFICIO PRESTAZIONI-CASSA, ADIACENTE ALL'ENTRATA DELL'OSPEDALE IN VIA DOSSI, 17.  L'AMBULATORIO PRELIEVI E' POSTO SUL MEDESIMO PIANO, DOPO LA PORTINERIA. PRELIEVI PEDIATRICI: PER BAMBINI INFERIORI AI 6 ANNI PRESSO LA PEDIATRIA OSPEDALE DI CAVALESE. ORARIO PRELIEVI: DA LUN A VEN, DALLE 7:30 ALLE 9:10" .
+<http://localhost:8080/source/PP042101010%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "CAVALESE                          " .
+<http://localhost:8080/source/PP042101010%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.2884    " .
+<http://localhost:8080/source/PP042101010%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.4551   " .
+<http://localhost:8080/source/PP042101010%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "17            " .
+
+<http://localhost:8080/source/PP042101011%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.009362  " .
+<http://localhost:8080/source/PP042101011%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "24            " .
+<http://localhost:8080/source/PP042101011%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "CAVEDINE                          " .
+<http://localhost:8080/source/PP042101011%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  10.971222 " .
+<http://localhost:8080/source/PP042101011%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA OSPEDALE                      " .
+<http://localhost:8080/source/PP042101011%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101011%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PUNTO PRELIEVI PRESSO APSP VALLE DEI LAGHI. MER E VEN DALLE 8:00 ALLE 9:00. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO DRUSO. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). PRESENZA DI PUNTO CASSA - NO BANCOMAT" .
+<http://localhost:8080/source/PP042101011%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22053 " .
+
+<http://localhost:8080/source/PP042101012%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "VEN DALLE 7:30 ALLE 9:00. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO ADIGE. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). NO PUNTO CASSA" .
+<http://localhost:8080/source/PP042101012%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101012%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.220606 " .
+<http://localhost:8080/source/PP042101012%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "P.ZA G.MARCONI                    " .
+<http://localhost:8080/source/PP042101012%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "CEMBRA LISIGNAGO                  " .
+<http://localhost:8080/source/PP042101012%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22241 " .
+<http://localhost:8080/source/PP042101012%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.175263  " .
+<http://localhost:8080/source/PP042101012%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "7             " .
+
+<http://localhost:8080/source/PP042101013%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22062 " .
+<http://localhost:8080/source/PP042101013%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.0323   " .
+<http://localhost:8080/source/PP042101013%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.3608    " .
+<http://localhost:8080/source/PP042101013%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "31            " .
+<http://localhost:8080/source/PP042101013%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "CLES                              " .
+<http://localhost:8080/source/PP042101013%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101013%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA DEGASPERI                     " .
+<http://localhost:8080/source/PP042101013%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "L'ACCETTAZIONE VIENE EFFETTUATA PRESSO GLI SPORTELLI DEL CENTRO PRELIEVI SITUATI AL PIANO INTERRATO DELL'OSPEDALE A CUI SI ACCEDE DALL'INGRESSO PRINCIPALE IN VIA DEGASPERI, 31. L'AMBULATORIO PRELIEVI E' SITUATO NEI LOCALI ADIACENTI. ORARIO PRELIEVI: DA LUN A VEN DALLE 7:30 ALLE 9:30. PRELIEVI PEDIATRICI: BAMBINI DI ETA' INFERIORE AI 3 ANNI: PREVIO APPUNTAMENTO TELEFONICO AL NUMERO 0463-660257 DALLE 10:00 ALLE 12:00 DAL LUN AL VEN - BAMBINI DI ETA' DAI 3 AI 6 ANNI: SENZA APPUNTAMENTO, PREVIA ACCETTAZIONE IN CORSIA PREFERENZIALE  - BAMBINI DI ETA' SUPERIORE AI 6 ANNI: PREVIA ACCETTAZIONE IN CORSIA PREFERENZIALE. IN CASO DI PRELIEVO URGENTE IL GENITORE SI PUO' RECARE PRESSO IL PUNTO PRELIEVI DI CLES SENZA APPUNTAMENTO. PRESENZA DI PUNTO CASSA AZIENDALE" .
+
+<http://localhost:8080/source/PP042101014%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.035665  " .
+<http://localhost:8080/source/PP042101014%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22228 " .
+<http://localhost:8080/source/PP042101014%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "COMANO TERME                      " .
+<http://localhost:8080/source/PP042101014%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA C.BATTISTI PONTE ARCHE        " .
+<http://localhost:8080/source/PP042101014%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PUNTO PRELIEVI AL PRIMO PIANO DEL CENTRO PLURIUSO. ORARIO PRELIEVI: MER DALLE 7:30 ALLE 8:30. SI EFFETTUANO PRELIEVI A PARTIRE DAI 3 ANNI DI ETA'. PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101014%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  10.873565 " .
+<http://localhost:8080/source/PP042101014%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101014%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "38            " .
+
+<http://localhost:8080/source/PP042101015%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "6             " .
+<http://localhost:8080/source/PP042101015%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.888917  " .
+<http://localhost:8080/source/PP042101015%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "BORGO CHIESE                      " .
+<http://localhost:8080/source/PP042101015%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA C.BATTISTI                    " .
+<http://localhost:8080/source/PP042101015%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22238 " .
+<http://localhost:8080/source/PP042101015%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101015%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  10.598207 " .
+<http://localhost:8080/source/PP042101015%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PUNTO PRELIEVI PRESSO APSP ROSA DEI VENTI. ORARIO PRELIEVI: GIO DALLE 7:00 ALLE 9:00. NON SI EFFETTUANO PRELIEVI PEDIATRICI. PRESENZA DI PUNTO CASSA" .
+
+<http://localhost:8080/source/PP042101016%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101016%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.049016 " .
+<http://localhost:8080/source/PP042101016%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22074 " .
+<http://localhost:8080/source/PP042101016%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "ORARIO PRELIEVI: GIO DALLE 8:00 ALLE 9:30. PRELIEVI PEDIATRICI: I PRELIEVI EMATOCHIMICI SI ESEGUONO AI BAMBINI DI ETA' SUPERIORE AI 6 ANNI, PREVIA ACCETTAZIONE IN CORSIA PREFERENZIALE. PER I BAMBINI DI ETA' INFERIORE AI 6 ANNI SI ACCETTANO SOLO TAMPONI O CAMPIONI COLTURALI VARI. NON PRESENZA DI PUNTO CASSA AZIENDALE." .
+<http://localhost:8080/source/PP042101016%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "DENNO                             " .
+<http://localhost:8080/source/PP042101016%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.274747  " .
+<http://localhost:8080/source/PP042101016%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "PIAZZA CESARE BATTISTI            " .
+
+<http://localhost:8080/source/PP042101017%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101017%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "LUN E GIO DALLE 8:00 ALLE 9:30. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO DRUSO. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI)  PRESENZA DI PUNTO CASSA - NO BANCOMAT" .
+<http://localhost:8080/source/PP042101017%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA C. BATTISTI                   " .
+<http://localhost:8080/source/PP042101017%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "24            " .
+<http://localhost:8080/source/PP042101017%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.916818  " .
+<http://localhost:8080/source/PP042101017%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22087 " .
+<http://localhost:8080/source/PP042101017%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.16877  " .
+<http://localhost:8080/source/PP042101017%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "FOLGARIA                          " .
+
+<http://localhost:8080/source/PP042101018%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101018%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22088 " .
+<http://localhost:8080/source/PP042101018%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.436885  " .
+<http://localhost:8080/source/PP042101018%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.138506 " .
+<http://localhost:8080/source/PP042101018%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "ORARIO PRELIEVI: LUN DALLE 7:30 ALLE 9:00, VEN DALLE 8:00 ALLE 9:00. SOLO PAZIENTI IN TERAPIA ANTICOAGULANTE SU APPUNTAMENTO TEL. 0463 660257. PRELIEVI PEDIATRICI: I PRELIEVI EMATOCHIMICI SI ESEGUONO AI BAMBINI DI ETA' SUPERIORE AI 6 ANNI, PREVIA ACCETTAZIONE IN CORSIA PREFERENZIALE. PER I BAMBINI DI ETA' INFERIORE AI 6 ANNI SI ACCETTANO SOLO TAMPONI O CAMPIONI COLTURALI VARI. NON PRESENZA DI PUNTO CASSA AZIENDALE." .
+<http://localhost:8080/source/PP042101018%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA CESARE BATTISTI               " .
+<http://localhost:8080/source/PP042101018%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "FONDO                             " .
+
+<http://localhost:8080/source/PP042101019%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.940547  " .
+<http://localhost:8080/source/PP042101019%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "CENTRO DELLA SALUTE               " .
+<http://localhost:8080/source/PP042101019%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101019%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "LAVARONE                          " .
+<http://localhost:8080/source/PP042101019%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "CENTRO DELLA SALUTE. ORARIO PRELIEVI: PRIMO E TERZO GIO DEL MESE DALLE 8:00 ALLE 9:00. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). NON PRESENZA DI PUNTO CASSA AZIENDALE." .
+<http://localhost:8080/source/PP042101019%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.269957 " .
+<http://localhost:8080/source/PP042101019%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22102 " .
+<http://localhost:8080/source/PP042101019%20> <http://knowdive.disi.unitn.it/etype#has_districtPP> "GIONGHI                " .
+
+<http://localhost:8080/source/PP042101020%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.138426  " .
+<http://localhost:8080/source/PP042101020%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "27            " .
+<http://localhost:8080/source/PP042101020%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "DAL LUN AL VEN DALLE 7:30 ALLE 9:15, SAB DALLE 7:30 ALLE 9:30. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO DRUSO. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). PRESENZA DI PUNTO CASSA" .
+<http://localhost:8080/source/PP042101020%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "LAVIS                             " .
+<http://localhost:8080/source/PP042101020%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA FILZI                         " .
+<http://localhost:8080/source/PP042101020%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.11308  " .
+<http://localhost:8080/source/PP042101020%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22103 " .
+<http://localhost:8080/source/PP042101020%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+
+<http://localhost:8080/source/PP042101021%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.009087  " .
+<http://localhost:8080/source/PP042101021%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "LEVICO TERME                      " .
+<http://localhost:8080/source/PP042101021%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.305309 " .
+<http://localhost:8080/source/PP042101021%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "ORARIO PRELIEVI: DA LUN A VEN ORE 7:30 - 8:45. PRELIEVI PEDIATRICI: A PARTIRE DAI 6 ANNI DI ETA'. PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101021%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "10            " .
+<http://localhost:8080/source/PP042101021%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101021%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22104 " .
+<http://localhost:8080/source/PP042101021%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA SLUCCA DE MATTEONI            " .
+
+<http://localhost:8080/source/PP042101022%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "ORARIO PRELIEVI: III GIO DEL MESE DALLE 7:30 ALLE 8:00. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). NON PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101022%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "AMBULATORIO COMUNALE              " .
+<http://localhost:8080/source/PP042101022%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "LUSERNA                           " .
+<http://localhost:8080/source/PP042101022%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.922499  " .
+<http://localhost:8080/source/PP042101022%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.323669 " .
+<http://localhost:8080/source/PP042101022%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101022%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22109 " .
+
+<http://localhost:8080/source/PP042101023%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "8             " .
+<http://localhost:8080/source/PP042101023%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22110 " .
+<http://localhost:8080/source/PP042101023%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "MALE'                             " .
+<http://localhost:8080/source/PP042101023%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  10.910061 " .
+<http://localhost:8080/source/PP042101023%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA 4 NOVEMBRE                    " .
+<http://localhost:8080/source/PP042101023%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "ORARIO PRELIEVI: MAR, MER E VEN DALLE 8:00 ALLE 9:00, LUN DALLE 8:00 ALLE 9:00 - SOLO PAZIENTI IN TERAPIA ANTICOAGULANTE. PRELIEVI PEDIATRICI: I PRELIEVI EMATOCHIMICI SONO ESEGUITI AI BAMBINI DI ETA' SUPERIORE AI 6 ANNI, PREVIA ACCETTAZIONE IN CORSIA PREFERENZIALE. PER I BAMBINI DI ETA' INFERIORE AI 6 ANNI SI ACCETTANO SOLO TAMPONI O CAMPIONI COLTURALI VARI. PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101023%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101023%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.350194  " .
+
+<http://localhost:8080/source/PP042101024%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA FRATELLI GRANDI               " .
+<http://localhost:8080/source/PP042101024%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "2             " .
+<http://localhost:8080/source/PP042101024%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.118358 " .
+<http://localhost:8080/source/PP042101024%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22116 " .
+<http://localhost:8080/source/PP042101024%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.214878  " .
+<http://localhost:8080/source/PP042101024%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "MAR E GIO DALLE 7:30 ALLE 9:30. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO DRUSO. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). PRESENZA DI PUNTO CASSA - NO BANCOMAT" .
+<http://localhost:8080/source/PP042101024%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "MEZZOCORONA                       " .
+<http://localhost:8080/source/PP042101024%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+
+<http://localhost:8080/source/PP042101025%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101025%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "7             " .
+<http://localhost:8080/source/PP042101025%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "MEZZOLOMBARDO                     " .
+<http://localhost:8080/source/PP042101025%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.213364  " .
+<http://localhost:8080/source/PP042101025%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PRESSO IL POLIAMBULATORIO. ORARIO PRELIEVI: DAL LUN AL VEN DALLE 7:30 ALLE 9:45. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101025%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22117 " .
+<http://localhost:8080/source/PP042101025%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA DEGLI ALPINI                  " .
+<http://localhost:8080/source/PP042101025%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.09642  " .
+
+<http://localhost:8080/source/PP042101026%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22123 " .
+<http://localhost:8080/source/PP042101026%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101026%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  10.981276 " .
+<http://localhost:8080/source/PP042101026%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "18            " .
+<http://localhost:8080/source/PP042101026%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "MORI                              " .
+<http://localhost:8080/source/PP042101026%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "MAR E VEN DALLE 8:00 ALLE 9:30. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO DRUSO. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI)  PRESENZA DI PUNTO CASSA - NO BANCOMAT" .
+<http://localhost:8080/source/PP042101026%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA GIOVANNI XXIII                " .
+<http://localhost:8080/source/PP042101026%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.851377  " .
+
+<http://localhost:8080/source/PP042101027%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "6             " .
+<http://localhost:8080/source/PP042101027%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.310386  " .
+<http://localhost:8080/source/PP042101027%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22137 " .
+<http://localhost:8080/source/PP042101027%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  10.758474 " .
+<http://localhost:8080/source/PP042101027%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "L'ACCETTAZIONE E IL PRELIEVO VENGONO EFFETTUATI PRESSO LA SEDE DI DISTRETTO AL PRIMO PIANO. ORARIO PRELIEVI: GIO DALLE 8:00 ALLE 9:00. PRELIEVI PEDIATRICI: I PRELIEVI EMATOCHIMICI SI ESEGUONO AI BAMBINI DI ETA' SUPERIORE AI 6 ANNI, PREVIA ACCETTAZIONE IN CORSIA PREFERENZIALE. PER I BAMBINI DI ETA' INFERIORE AI 6 ANNI SI ACCETTANO SOLO TAMPONI O CAMPIONI COLTURALI VARI  PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101027%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "PELLIZZANO                        " .
+<http://localhost:8080/source/PP042101027%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101027%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA DEI BASCHENIS                 " .
+
+<http://localhost:8080/source/PP042101028%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.2449   " .
+<http://localhost:8080/source/PP042101028%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "2             " .
+<http://localhost:8080/source/PP042101028%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "L'ACCETTAZIONE VIENE EFFETTUATA PRESSO LA SEGRETERIA DELL'AMBULATORIO PRELIEVI, SITUATA AL PIANO RIALZATO DELLA PALAZZINA DEL DISTRETTO ALTA VALSUGANA. L'AMBULATORIO PRELIEVI E' POSTO SUL MEDESIMO PIANO, NEL LOCALE ADIACENTE ALLO SPORTELLO. ORARIO PRELIEVI: DA LUN A VEN, DALLE 7:30 ALLE 9:45. PRELIEVI PEDIATRICI: A PARTIRE DAI 6 ANNI DI ETA'. PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101028%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "PERGINE VALSUGANA                 " .
+<http://localhost:8080/source/PP042101028%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA S. PIETRO                     " .
+<http://localhost:8080/source/PP042101028%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101028%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22139 " .
+<http://localhost:8080/source/PP042101028%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.0633    " .
+
+<http://localhost:8080/source/PP042101029%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101029%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "82            " .
+<http://localhost:8080/source/PP042101029%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA GENOVA                        " .
+<http://localhost:8080/source/PP042101029%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.159175  " .
+<http://localhost:8080/source/PP042101029%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22143 " .
+<http://localhost:8080/source/PP042101029%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "SEMINTERRATO DELLA APSP CENTRO RESIDENZIALE A.COLLINI. ORARIO PRELIEVI: MAR E VEN DALLE 7:30 ALLE 8:30. SI EFFETTUANO PRELIEVI A PARTIRE DAI 3 ANNI DI ETA'. NON PRESENZA DI PUNTO CASSA AZIENDALE." .
+<http://localhost:8080/source/PP042101029%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "PINZOLO                           " .
+<http://localhost:8080/source/PP042101029%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  10.76201  " .
+
+<http://localhost:8080/source/PP042101030%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "POMAROLO                          " .
+<http://localhost:8080/source/PP042101030%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "MER E SABATO DALLE 7:30 ALLE 9:30. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO DRUSO. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). PRESENZA DI PUNTO CASSA - NO BANCOMAT" .
+<http://localhost:8080/source/PP042101030%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.926398  " .
+<http://localhost:8080/source/PP042101030%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA III NOVEMBRE                  " .
+<http://localhost:8080/source/PP042101030%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22144 " .
+<http://localhost:8080/source/PP042101030%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101030%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.042569 " .
+<http://localhost:8080/source/PP042101030%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "10            " .
+
+<http://localhost:8080/source/PP042101031%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.423312  " .
+<http://localhost:8080/source/PP042101031%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "STRADA DI PRE' DE GEJIA           " .
+<http://localhost:8080/source/PP042101031%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101031%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "SEN JAN DI FASSA                  " .
+<http://localhost:8080/source/PP042101031%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.678813 " .
+<http://localhost:8080/source/PP042101031%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22250 " .
+<http://localhost:8080/source/PP042101031%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "ORARIO PRELIEVI: DA LUN A VEN, DALLE 7:30 ALLE 8:30. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101031%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "4             " .
+
+<http://localhost:8080/source/PP042101032%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101032%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.311858  " .
+<http://localhost:8080/source/PP042101032%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.599532 " .
+<http://localhost:8080/source/PP042101032%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "PREDAZZO                          " .
+<http://localhost:8080/source/PP042101032%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "ORARIO PRELIEVI: DA LUN A VEN, DALLE 7:45 ALLE 8:30. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101032%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA DEGASPERI                     " .
+<http://localhost:8080/source/PP042101032%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "12            " .
+<http://localhost:8080/source/PP042101032%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22147 " .
+
+<http://localhost:8080/source/PP042101033%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.890707  " .
+<http://localhost:8080/source/PP042101033%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA ROSMINI                       " .
+<http://localhost:8080/source/PP042101033%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22153 " .
+<http://localhost:8080/source/PP042101033%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101033%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "5/B           " .
+<http://localhost:8080/source/PP042101033%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  10.841631 " .
+<http://localhost:8080/source/PP042101033%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PIANO TERRA DEL CENTRO SERVIZI SANITARI (EX INCOMPIUTA). ORARIO PRELIEVI: DA LUN A VEN DALLE 7:45 ALLE 9:15. SI EFFETTUANO PRELIEVI PER ADULTI E BAMBINI ANCHE IN ETA' INFERIORE AI 6 ANNI. PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101033%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "RIVA DEL GARDA                    " .
+
+<http://localhost:8080/source/PP042101034%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.889594  " .
+<http://localhost:8080/source/PP042101034%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "RONZO-CHIENIS                     " .
+<http://localhost:8080/source/PP042101034%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA DON CHIETTINI                 " .
+<http://localhost:8080/source/PP042101034%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "QUESTO PUNTO PRELIEVI E' RISERVATO AD UTENTI DI ETA' SUPERIORE AI 65 ANNI CON DIFFICOLTA' A RAGGIUNGERE I PRINCIPALI CENTRI DI PRELIEVO. ORARIO PRELIEVI: TUTTI I MAR DALLE 8:30 ALLE 9:00 - MAX 8 UTENTI AL GIORNO. PER QUALSIASI ULTERIORE INFORMAZIONE RIVOLGERSI AL PROPRIO MEDICO DI BASE" .
+<http://localhost:8080/source/PP042101034%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101034%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "2             " .
+<http://localhost:8080/source/PP042101034%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22135 " .
+<http://localhost:8080/source/PP042101034%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  10.950924 " .
+
+<http://localhost:8080/source/PP042101035%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.883398  " .
+<http://localhost:8080/source/PP042101035%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.042005 " .
+<http://localhost:8080/source/PP042101035%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "4             " .
+<http://localhost:8080/source/PP042101035%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101035%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "CORSO VERONA                      " .
+<http://localhost:8080/source/PP042101035%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "OSPEDALE S. MARIA DEL CARMINE - L'ACCETTAZIONE VIENE EFFETTUATA PRESSO GLI SPORTELLI DEL CENTRO PRELIEVI DELL'OSPEDALE SITUATO AL PIANO TERRA, CON ENTRATA DALLA PORTA CARRAIA IN PIAZZA SANTA MARIA. GLI AMBULATORI PRELIEVI SONO SITUATI NEI LOCALI ADIACENTI. ORARIO PRELIEVI: DA LUN A VEN, DALLE 7:30 ALLE 9:30. PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101035%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "ROVERETO                          " .
+<http://localhost:8080/source/PP042101035%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22161 " .
+
+<http://localhost:8080/source/PP042101036%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "DAL LUN AL SAB DALLE 7:30 ALLE 9:30. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO DRUSO. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). PRESENZA DI PUNTO CASSA" .
+<http://localhost:8080/source/PP042101036%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.887996  " .
+<http://localhost:8080/source/PP042101036%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.03797  " .
+<http://localhost:8080/source/PP042101036%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA FRANCESCO PAOLI               " .
+<http://localhost:8080/source/PP042101036%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "ROVERETO                          " .
+<http://localhost:8080/source/PP042101036%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "15            " .
+<http://localhost:8080/source/PP042101036%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101036%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22161 " .
+
+<http://localhost:8080/source/PP042101037%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "MAR DALLE 7:30 ALLE 9:00. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO ADIGE. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). NON PRESENZA DI PUNTO CASSA" .
+<http://localhost:8080/source/PP042101037%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "SEGONZANO                         " .
+<http://localhost:8080/source/PP042101037%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.187708  " .
+<http://localhost:8080/source/PP042101037%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101037%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "FRAZ. SCANCIO                     " .
+<http://localhost:8080/source/PP042101037%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.258576 " .
+<http://localhost:8080/source/PP042101037%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "26            " .
+<http://localhost:8080/source/PP042101037%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22172 " .
+
+<http://localhost:8080/source/PP042101038%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101038%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22179 " .
+<http://localhost:8080/source/PP042101038%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PUNTO PRELIEVI PRESSO APSP CASA DI RIPOSO S.VIGILIO. ORARIO PRELIEVI: LUN E MER DALLE 7:00 ALLE 8:30. SI EFFETTUANO PRELIEVI A PARTIRE DAI 3 ANNI DI ETA'. PRESENZA DI PUNTO CASSA" .
+<http://localhost:8080/source/PP042101038%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.10398   " .
+<http://localhost:8080/source/PP042101038%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "13            " .
+<http://localhost:8080/source/PP042101038%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA S.VIGILIO                     " .
+<http://localhost:8080/source/PP042101038%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  10.736351 " .
+<http://localhost:8080/source/PP042101038%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "SPIAZZO                           " .
+
+<http://localhost:8080/source/PP042101039%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  10.574433 " .
+<http://localhost:8080/source/PP042101039%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22183 " .
+<http://localhost:8080/source/PP042101039%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.846926  " .
+<http://localhost:8080/source/PP042101039%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "ORARIO PRELIEVI: LUN E GIO DALLE 7:30 ALLE 8:30. SI EFFETTUANO PRELIEVI A PARTIRE DAI 3 ANNI DI ETA'. PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101039%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "STORO                             " .
+<http://localhost:8080/source/PP042101039%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA SETTE PIEVI                   " .
+<http://localhost:8080/source/PP042101039%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101039%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "22            " .
+
+<http://localhost:8080/source/PP042101040%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.06623   " .
+<http://localhost:8080/source/PP042101040%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "2             " .
+<http://localhost:8080/source/PP042101040%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101040%20> <http://knowdive.disi.unitn.it/etype#has_districtPP> "STRIGNO                " .
+<http://localhost:8080/source/PP042101040%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.524071 " .
+<http://localhost:8080/source/PP042101040%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA BORGO ALLOCCO                 " .
+<http://localhost:8080/source/PP042101040%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PUNTO PRELIEVI PRESSO A.P.S.P. REDENTA FLORIANI. STRUTTURA ACCREDITATA ACCESSO DIRETTO IL MAR E IL GIO DALLE 7:30 ALLE 9:00. INFORMAZIONI PRESSO LA SEGRETERIA DELLA APSP (0461/762009) CON ORARIO: DALLE 8:00 ALLE 12:00 E DALLE 14:00 ALLE 17:00. PUNTO CASSA PRESSO OSPEDALE DI BORGO - NUOVO EDIFICIO - PIANO TERRA. APERTURA: DAL LUN AL VEN DALLE 8:00 ALLE 16:00. PRELIEVI PEDIATRICI: SOLO A PARTIRE DAI 12 ANNI" .
+<http://localhost:8080/source/PP042101040%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22240 " .
+<http://localhost:8080/source/PP042101040%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "CASTEL IVANO                      " .
+
+<http://localhost:8080/source/PP042101041%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.065975 " .
+<http://localhost:8080/source/PP042101041%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "20            " .
+<http://localhost:8080/source/PP042101041%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22230 " .
+<http://localhost:8080/source/PP042101041%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA THOMAS A. EDISON              " .
+<http://localhost:8080/source/PP042101041%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.324779  " .
+<http://localhost:8080/source/PP042101041%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "PREDAIA                           " .
+<http://localhost:8080/source/PP042101041%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PUNTO PRELIEVI PRESSO APSP ANAUNIA. ORARIO PRELIEVI: MER DALLE 7:30 ALLE 9:30. PRELIEVI PEDIATRICI: I PRELIEVI EMATOCHIMICI SI ESEGUONO AI BAMBINI DI ETA' SUPERIORE AI 6 ANNI. PER I BAMBINI DI ETA' INFERIORE AI 6 ANNI SI ACCETTANO SOLO TAMPONI O CAMPIONI COLTURALI VARI. PRESENZA DI PUNTO CASSA" .
+<http://localhost:8080/source/PP042101041%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+
+<http://localhost:8080/source/PP042101042%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "L' ACCETTAZIONE VIENE EFFETTUATA PRESSO LO SPORTELLO DELL'UFFICIO CASSA, AL PIANO TERRA DELL'OSPEDALE DI TIONE. L'AMBULATORIO PRELIEVI E' SITUATO NEL LOCALE ADIACENTE. ORARIO PRELIEVI: DA LUN A VEN, DALLE 7:30 ALLE 9:30. SI EFFETTUANO PRELIEVI A PARTIRE DAI 3 ANNI DI ETA'" .
+<http://localhost:8080/source/PP042101042%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "11            " .
+<http://localhost:8080/source/PP042101042%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "TIONE DI TRENTO                   " .
+<http://localhost:8080/source/PP042101042%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  10.7244   " .
+<http://localhost:8080/source/PP042101042%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101042%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA OSPEDALE                      " .
+<http://localhost:8080/source/PP042101042%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.0413    " .
+<http://localhost:8080/source/PP042101042%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22199 " .
+
+<http://localhost:8080/source/PP042101043%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.177751  " .
+<http://localhost:8080/source/PP042101043%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA ROMA                          " .
+<http://localhost:8080/source/PP042101043%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101043%20> <http://knowdive.disi.unitn.it/etype#has_districtPP> "TONADICO               " .
+<http://localhost:8080/source/PP042101043%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PRIMO PIANO DEL POLIAMBULATORIO DI TONADICO. ORARIO PRELIEVI: DA LUN AL VEN, DALLE 7:30 ALLE 8:45. PRELIEVI PEDIATRICI: SI EFFETTUANO A PARTIRE DAI 2 ANNI. PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101043%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22245 " .
+<http://localhost:8080/source/PP042101043%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "1             " .
+<http://localhost:8080/source/PP042101043%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "PRIMIERO SAN MARTINO DI CASTROZZA " .
+<http://localhost:8080/source/PP042101043%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.831519 " .
+
+<http://localhost:8080/source/PP042101044%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22205 " .
+<http://localhost:8080/source/PP042101044%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.055726  " .
+<http://localhost:8080/source/PP042101044%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA GOCCIADORO                    " .
+<http://localhost:8080/source/PP042101044%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "SU APPUNTAMENTO, SI ESEGUONO PRELIEVI MICROBIOLOGICI AMBULATORIALICUTANEI E DA ANNESSI CUTANEI PER COLTURA DI MICETI E BATTERI CONGIUNTIVALI, AURICOLARI ESTERNI, DA FERITE E PIAGHE,TAMPONE VAGINALE, VAGINO-RETTALE, VULVARE, CERVICALE, URETRALE, BALANO-PREPUZIALE ADULTI: DAL LUNEDÌ AL VENERDÌ DALLE 7.30 ALLE 9.45, FINO AD UN MASSIMO DI 150 PRELIEVI, BAMBINI: DAL LUNEDÌ AL VENERDÌ DALLE 8.00 ALLE 9.45, PRELIEVI MICROBIOLOGICI AMBULATORIALI (SU APPUNTAMENTO): DAL LUNEDÌ AL VENERDÌ A PARTIRE DALLE 10.30" .
+<http://localhost:8080/source/PP042101044%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101044%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "TRENTO                            " .
+<http://localhost:8080/source/PP042101044%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.131951 " .
+<http://localhost:8080/source/PP042101044%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "82            " .
+
+<http://localhost:8080/source/PP042101045%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101045%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "TRENTO                            " .
+<http://localhost:8080/source/PP042101045%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIALE VERONA CSS                  " .
+<http://localhost:8080/source/PP042101045%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.129    " .
+<http://localhost:8080/source/PP042101045%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "CENTRO PER I SERVIZI SANITARI, PALAZZINA B. ORARIO PRELIEVI: DA LUN A VEN, DALLE 7:30 ALLE 9:45. PER ADULTI E BAMBINI A PARTIRE DAI 6 ANNI.  PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101045%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.0451    " .
+<http://localhost:8080/source/PP042101045%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22205 " .
+
+<http://localhost:8080/source/PP042101046%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.132084 " .
+<http://localhost:8080/source/PP042101046%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "LARGO MEDAGLIE D'ORO SANTA CHIARA " .
+<http://localhost:8080/source/PP042101046%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101046%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22205 " .
+<http://localhost:8080/source/PP042101046%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "TRENTO                            " .
+<http://localhost:8080/source/PP042101046%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.055754  " .
+<http://localhost:8080/source/PP042101046%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "LABORATORIO DI MICROBIOLOGIA E VIROLOGIA IN TALE LABORATORIO VENGONO EFFETTUATI PRELIEVI MICROBIOLOGICI PARTICOLARI: SQUAME ED ANNESSI CUTANEI, EMOCOLTURA, TAMPONI CONGIUNTIVALI ED AURICOLARI (ORECCHIO ESTERNO), MATERIALI BIOLOGICI VARI SU SPECIFICA INDICAZIONE CLINICA. LE ACCETTAZIONI ED I PRELIEVI SI EFFETTUANO SENZA PRENOTAZIONE, AD ECCEZIONE DI ANALISI PARTICOLARI SPECIFICATE NELLE CARTE DEI SERVIZI DEI SINGOLI LABORATORI DIPARTIMENTALI." .
+<http://localhost:8080/source/PP042101046%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "9             " .
+
+<http://localhost:8080/source/PP042101047%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.089677  " .
+<http://localhost:8080/source/PP042101047%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PUNTO PRELIEVI PRESSO COMPLESSO TRIDENTE. DAL LUN AL SAB DALLE 7:30 ALLE 9:30. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO DRUSO. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). PRESENZA DI PUNTO CASSA" .
+<http://localhost:8080/source/PP042101047%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.118724 " .
+<http://localhost:8080/source/PP042101047%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "TRENTO                            " .
+<http://localhost:8080/source/PP042101047%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "68            " .
+<http://localhost:8080/source/PP042101047%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22205 " .
+<http://localhost:8080/source/PP042101047%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101047%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA PRANZELORES                   " .
+
+<http://localhost:8080/source/PP042101048%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PUNTO PRELIEVI PRESSO PALAZZO GIULIA. DAL LUN AL VEN DALLE 7:00 ALLE 10:00, SAB DALLE 7:30 ALLE 10:00. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO ADIGE. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). PRESENZA DI PUNTO CASSA" .
+<http://localhost:8080/source/PP042101048%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "TRENTO                            " .
+<http://localhost:8080/source/PP042101048%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.07186   " .
+<http://localhost:8080/source/PP042101048%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101048%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22205 " .
+<http://localhost:8080/source/PP042101048%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA GAZZOLETTI                    " .
+<http://localhost:8080/source/PP042101048%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.122106 " .
+<http://localhost:8080/source/PP042101048%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "15            " .
+
+<http://localhost:8080/source/PP042101049%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA XXIV MAGGIO                   " .
+<http://localhost:8080/source/PP042101049%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101049%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "DAL LUN AL SAB DALLE 7:30 ALLE 9:30.  STRUTTURA PRIVATA ACCREDITATA: LABORATORIO DRUSO. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). PRESENZA DI PUNTO CASSA" .
+<http://localhost:8080/source/PP042101049%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.063952  " .
+<http://localhost:8080/source/PP042101049%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "2/3           " .
+<http://localhost:8080/source/PP042101049%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22205 " .
+<http://localhost:8080/source/PP042101049%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.121496 " .
+<http://localhost:8080/source/PP042101049%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "TRENTO                            " .
+
+<http://localhost:8080/source/PP042101050%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA  MALTA                        " .
+<http://localhost:8080/source/PP042101050%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PUNTO PRELIEVI PRESSO VILLA IGEA. DAL LUN AL VEN DALLE ORE 7:30 ALLE 9:45 PER I PRELIEVI E DALLE 10:00 ALLE 12.45 PER IL RITIRO REFERTI. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI), ARTERIOSI E CURVE DA CARICO. PRESENZA DI PUNTO CASSA AZIENDALE" .
+<http://localhost:8080/source/PP042101050%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "16            " .
+<http://localhost:8080/source/PP042101050%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22205 " .
+<http://localhost:8080/source/PP042101050%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.0617    " .
+<http://localhost:8080/source/PP042101050%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "TRENTO                            " .
+<http://localhost:8080/source/PP042101050%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101050%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.1279   " .
+
+<http://localhost:8080/source/PP042101051%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22205 " .
+<http://localhost:8080/source/PP042101051%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101051%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.068501  " .
+<http://localhost:8080/source/PP042101051%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "TRENTO                            " .
+<http://localhost:8080/source/PP042101051%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PUNTO PRELIEVI PRESSO APSP MARGHERITA GRAZIOLI (POVO - TN). AMBULATORIO, ACCETTAZIONE E CASSA, RITIRO REFERTI - PIANO RIALZATO. PRELIEVI: MAR E GIO DALLE 7:00 ALLE 9:00. CONSEGNA REFERTI: DAL MAR AL VEN DALLE 8:00 ALLE 9:00 E DALLE 17:30 ALLE 18:30. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). PRESENZA DI PUNTO CASSA" .
+<http://localhost:8080/source/PP042101051%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA DELLA RESISTENZA              " .
+<http://localhost:8080/source/PP042101051%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.160766 " .
+<http://localhost:8080/source/PP042101051%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "63            " .
+<http://localhost:8080/source/PP042101051%20> <http://knowdive.disi.unitn.it/etype#has_districtPP> "POVO                   " .
+
+<http://localhost:8080/source/PP042101052%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.115351 " .
+<http://localhost:8080/source/PP042101052%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22210 " .
+<http://localhost:8080/source/PP042101052%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101052%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "VALLARSA                          " .
+<http://localhost:8080/source/PP042101052%20> <http://knowdive.disi.unitn.it/etype#has_districtPP> "RAOSSI                 " .
+<http://localhost:8080/source/PP042101052%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.78228   " .
+<http://localhost:8080/source/PP042101052%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PUNTO PRELIEVI PRESSO APSP DON GIUSEPPE CUMER (C/O CASA EX ENAL). MER DALLE 7:00 ALLE 9:00. STRUTTURA ACCREDITATA. NO PUNTO CASSA" .
+
+<http://localhost:8080/source/PP042101053%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.151591 " .
+<http://localhost:8080/source/PP042101053%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.157125  " .
+<http://localhost:8080/source/PP042101053%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "2             " .
+<http://localhost:8080/source/PP042101053%20> <http://knowdive.disi.unitn.it/etype#has_districtPP> "VERLA DI GIOVO         " .
+<http://localhost:8080/source/PP042101053%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA S. ANTONIO                    " .
+<http://localhost:8080/source/PP042101053%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22092 " .
+<http://localhost:8080/source/PP042101053%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "MER DALLE 7:30 ALLE 9:00. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO ADIGE. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). NO PUNTO CASSA" .
+<http://localhost:8080/source/PP042101053%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101053%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "GIOVO                             " .
+
+<http://localhost:8080/source/PP042101054%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22236 " .
+<http://localhost:8080/source/PP042101054%20> <http://knowdive.disi.unitn.it/etype#has_districtPP> "VIGOLO VATTARO         " .
+<http://localhost:8080/source/PP042101054%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "ORARIO PRELIEVI: MARTEDÌ DALLE 8.00 ALLE 9.00. SOLO PER PAZIENTI IN TERAPIA ANTICOAGULANTE E PAZIENTI PER EMOCROMO IN CHEMIOTERAPIA.LE ACCETTAZIONI ED I PRELIEVI SI EFFETTUANO SENZA PRENOTAZIONE, AD ECCEZIONE DI ANALISI PARTICOLARI SPECIFICATE NELLE CARTE DEI SERVIZI DEI SINGOLI LABORATORI DIPARTIMENTALI." .
+<http://localhost:8080/source/PP042101054%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "ALTOPIANO DELLA VIGOLANA          " .
+<http://localhost:8080/source/PP042101054%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.005254  " .
+<http://localhost:8080/source/PP042101054%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA SAN GIORGIO                   " .
+<http://localhost:8080/source/PP042101054%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "3             " .
+<http://localhost:8080/source/PP042101054%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.199321 " .
+<http://localhost:8080/source/PP042101054%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+
+<http://localhost:8080/source/PP042101055%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.914035  " .
+<http://localhost:8080/source/PP042101055%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "19            " .
+<http://localhost:8080/source/PP042101055%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22222 " .
+<http://localhost:8080/source/PP042101055%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101055%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA DAMIANO CHIESA                " .
+<http://localhost:8080/source/PP042101055%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.032395 " .
+<http://localhost:8080/source/PP042101055%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "DAL LUN AL VEN DALLE 8:00 ALLE 9:30. STRUTTURA PRIVATA ACCREDITATA: LABORATORIO DRUSO. NON SI EFFETTUANO PRELIEVI PEDIATRICI (SOTTO I 6 ANNI). PRESENZA DI PUNTO CASSA" .
+<http://localhost:8080/source/PP042101055%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "VILLA LAGARINA                    " .
+
+<http://localhost:8080/source/PP042101056%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "35/2          " .
+<http://localhost:8080/source/PP042101056%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.094128 " .
+<http://localhost:8080/source/PP042101056%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22035 " .
+<http://localhost:8080/source/PP042101056%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "CALLIANO                          " .
+<http://localhost:8080/source/PP042101056%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA 3 NOVEMBRE                    " .
+<http://localhost:8080/source/PP042101056%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.933211  " .
+<http://localhost:8080/source/PP042101056%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "SOLO PER UTENTI DI ETÀ SUPERIORE A 65 ANNI CON DIFFICOLTÀ A RAGGIUNGERE I PRINCIPALI CENTRI DI PRELIEVO. ORARI MERCOLEDÌ 8.30 - 9.30, MARTEDÌ 10.15 - 10.45 SOLO RACCOLTA PER SCREENING SANGUE OCCULTO" .
+<http://localhost:8080/source/PP042101056%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+
+<http://localhost:8080/source/PP042101057%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.045661 " .
+<http://localhost:8080/source/PP042101057%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PRESSO CASA DI CURA SOLATRIX. ORARI: DA LUNEDÌ A SABATO DALLE 7,30 ALLE 10,00" .
+<http://localhost:8080/source/PP042101057%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "11            " .
+<http://localhost:8080/source/PP042101057%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22161 " .
+<http://localhost:8080/source/PP042101057%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA BELLINI                       " .
+<http://localhost:8080/source/PP042101057%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101057%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.897836  " .
+<http://localhost:8080/source/PP042101057%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "ROVERETO                          " .
+
+<http://localhost:8080/source/PP042101058%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101058%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA 3 NOVEMBRE                    " .
+<http://localhost:8080/source/PP042101058%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.063544 " .
+<http://localhost:8080/source/PP042101058%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "SOLO PER UTENTI DI ETÀ SUPERIORE A 65 ANNI CON DIFFICOLTÀ A RAGGIUNGERE I PRINCIPALI CENTRI DI PRELIEVO. ORARI: VENERDÌ 8.15 - 9.30" .
+<http://localhost:8080/source/PP042101058%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "VOLANO                            " .
+<http://localhost:8080/source/PP042101058%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "5             " .
+<http://localhost:8080/source/PP042101058%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22224 " .
+<http://localhost:8080/source/PP042101058%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "45.916594  " .
+
+<http://localhost:8080/source/PP042101059%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "AMBULATORIO INFERMIERISTICO E PP ORARI: SECONDO E QUARTO GIOVEDÌ DEL MESE DALLE 8,00 ALLE 9.00 L¿IMPEGNATIVA VIENE INVIATA VIA FAX DA PARTE DELL¿UTENTE, DOPODICHÉ L¿ACCETTAZIONE VIENE EFFETTUATA PRESSO LO SPORTELLO DELL¿UFFICIO CASSA ¿ TICKET DELLA SEDE DISTRETTUALE DI PREDAZZO. L¿UTENTE PROVVEDERÀ A CONSEGNARE L¿IMPEGNATIVA ORIGINALE ALL¿ATTO DEL PRELIEVO." .
+<http://localhost:8080/source/PP042101059%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "2             " .
+<http://localhost:8080/source/PP042101059%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101059%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "PIAZZA ROMA                       " .
+<http://localhost:8080/source/PP042101059%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22040 " .
+<http://localhost:8080/source/PP042101059%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "CAPRIANA                          " .
+<http://localhost:8080/source/PP042101059%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.263027  " .
+<http://localhost:8080/source/PP042101059%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.339394 " .
+
+<http://localhost:8080/source/PP042101060%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101060%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.25029   " .
+<http://localhost:8080/source/PP042101060%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "VALFLORIANA                       " .
+<http://localhost:8080/source/PP042101060%20> <http://knowdive.disi.unitn.it/etype#has_districtPP> "CASATTA DI VALFLORIANA " .
+<http://localhost:8080/source/PP042101060%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "AMBULATORIO INFERMIERISTICO E PP ORARI: PRIMO E TERZO GIOVEDÌ DEL MESE DALLE 8.00 ALLE 9.00 L¿IMPEGNATIVA VIENE INVIATA VIA FAX DA PARTE DELL¿UTENTE, DOPODICHÉ L¿ACCETTAZIONE VIENE EFFETTUATA PRESSO LO SPORTELLO DELL¿UFFICIO CASSA ¿ TICKET DELLA SEDE DISTRETTUALE DI PREDAZZO. L¿UTENTE PROVVEDERÀ A CONSEGNARE L¿IMPEGNATIVA ORIGINALE ALL¿ATTO DEL PRELIEVO." .
+<http://localhost:8080/source/PP042101060%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22209 " .
+<http://localhost:8080/source/PP042101060%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.342535 " .
+
+<http://localhost:8080/source/PP042101061%20> <http://knowdive.disi.unitn.it/etype#has_longitudePP> "  11.069808 " .
+<http://localhost:8080/source/PP042101061%20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Withdrawal_point> .
+<http://localhost:8080/source/PP042101061%20> <http://knowdive.disi.unitn.it/etype#has_latitudePP> "46.09067   " .
+<http://localhost:8080/source/PP042101061%20> <http://knowdive.disi.unitn.it/etype#has_addressPP> "VIA DI COLTURA                    " .
+<http://localhost:8080/source/PP042101061%20> <http://knowdive.disi.unitn.it/etype#has_codMuniPP> "     22205 " .
+<http://localhost:8080/source/PP042101061%20> <http://knowdive.disi.unitn.it/etype#has_districtPP> "CADINE                 " .
+<http://localhost:8080/source/PP042101061%20> <http://knowdive.disi.unitn.it/etype#has_municipalityPP> "TRENTO                            " .
+<http://localhost:8080/source/PP042101061%20> <http://knowdive.disi.unitn.it/etype#has_houseNumberPP> "138           " .
+<http://localhost:8080/source/PP042101061%20> <http://knowdive.disi.unitn.it/etype#has_notePP> "PRELIEVI E RITIRO REFERTI: LUNEDÌ MERCOLEDÌ E VENERDÌ 7.00 - 9.30. NON SI ACCETTANO PAZIENTI DI ETÀ INFERIORE AI 6 ANNI. LE ACCETTAZIONI ED I PRELIEVI SI EFFETTUANO SENZA PRENOTAZIONE, AD ECCEZIONE DI ANALISI PARTICOLARI SPECIFICATE NELLE CARTE DEI SERVIZI DEI SINGOLI LABORATORI DIPARTIMENTALI." .
+

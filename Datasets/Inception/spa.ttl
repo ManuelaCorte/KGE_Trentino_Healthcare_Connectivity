@@ -1,0 +1,78 @@
+<http://localhost:8080/source/STR042101040401S08> <http://knowdive.disi.unitn.it/etype#has_typeStSPA> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101040401S08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Spa> .
+<http://localhost:8080/source/STR042101040401S08> <http://knowdive.disi.unitn.it/etype#has_municipalitySPA> "LEVICO TERME" .
+<http://localhost:8080/source/STR042101040401S08> <http://knowdive.disi.unitn.it/etype#has_houseNumberSPA> "10" .
+<http://localhost:8080/source/STR042101040401S08> <http://knowdive.disi.unitn.it/etype#has_addressSPA> "VIALE VITTORIO EMANUELE" .
+<http://localhost:8080/source/STR042101040401S08> <http://knowdive.disi.unitn.it/etype#has_assistanceSPA> "ASSISTENZA IDROTERMALE" .
+<http://localhost:8080/source/STR042101040401S08> <http://knowdive.disi.unitn.it/etype#has_nameSPA> "LEVICOFIN S.R.L." .
+<http://localhost:8080/source/STR042101040401S08> <http://knowdive.disi.unitn.it/etype#has_CAPspa> "38056" .
+<http://localhost:8080/source/STR042101040401S08> <http://knowdive.disi.unitn.it/etype#has_latitudeSPA> "46.014222" .
+<http://localhost:8080/source/STR042101040401S08> <http://knowdive.disi.unitn.it/etype#has_longitudeSPA> "11.297645" .
+<http://localhost:8080/source/STR042101040401S08> <http://knowdive.disi.unitn.it/etype#has_codMuniSPA> "22104" .
+<http://localhost:8080/source/STR042101040401S08> <http://knowdive.disi.unitn.it/etype#has_codTypeAsSPA> "S08" .
+
+<http://localhost:8080/source/STR042101071401S08> <http://knowdive.disi.unitn.it/etype#has_codTypeAsSPA> "S08" .
+<http://localhost:8080/source/STR042101071401S08> <http://knowdive.disi.unitn.it/etype#has_longitudeSPA> "10.662855" .
+<http://localhost:8080/source/STR042101071401S08> <http://knowdive.disi.unitn.it/etype#has_houseNumberSPA> "3" .
+<http://localhost:8080/source/STR042101071401S08> <http://knowdive.disi.unitn.it/etype#has_addressSPA> "VIA DELLE ACQUE ACIDULE" .
+<http://localhost:8080/source/STR042101071401S08> <http://knowdive.disi.unitn.it/etype#has_typeStSPA> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101071401S08> <http://knowdive.disi.unitn.it/etype#has_assistanceSPA> "ASSISTENZA IDROTERMALE" .
+<http://localhost:8080/source/STR042101071401S08> <http://knowdive.disi.unitn.it/etype#has_codMuniSPA> "22136" .
+<http://localhost:8080/source/STR042101071401S08> <http://knowdive.disi.unitn.it/etype#has_municipalitySPA> "PEIO" .
+<http://localhost:8080/source/STR042101071401S08> <http://knowdive.disi.unitn.it/etype#has_nameSPA> "PEJO TERME NATURA SRL" .
+<http://localhost:8080/source/STR042101071401S08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Spa> .
+<http://localhost:8080/source/STR042101071401S08> <http://knowdive.disi.unitn.it/etype#has_CAPspa> "38024" .
+<http://localhost:8080/source/STR042101071401S08> <http://knowdive.disi.unitn.it/etype#has_latitudeSPA> "46.354034" .
+
+<http://localhost:8080/source/STR042101071501S08> <http://knowdive.disi.unitn.it/etype#has_codTypeAsSPA> "S08" .
+<http://localhost:8080/source/STR042101071501S08> <http://knowdive.disi.unitn.it/etype#has_houseNumberSPA> "162" .
+<http://localhost:8080/source/STR042101071501S08> <http://knowdive.disi.unitn.it/etype#has_municipalitySPA> "RABBI" .
+<http://localhost:8080/source/STR042101071501S08> <http://knowdive.disi.unitn.it/etype#has_codMuniSPA> "22150" .
+<http://localhost:8080/source/STR042101071501S08> <http://knowdive.disi.unitn.it/etype#has_latitudeSPA> "46.410715" .
+<http://localhost:8080/source/STR042101071501S08> <http://knowdive.disi.unitn.it/etype#has_addressSPA> "LOCALITÀ FONTI DI RABBI" .
+<http://localhost:8080/source/STR042101071501S08> <http://knowdive.disi.unitn.it/etype#has_nameSPA> "TERME DI RABBI S.R.L." .
+<http://localhost:8080/source/STR042101071501S08> <http://knowdive.disi.unitn.it/etype#has_typeStSPA> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101071501S08> <http://knowdive.disi.unitn.it/etype#has_longitudeSPA> "10.818701" .
+<http://localhost:8080/source/STR042101071501S08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Spa> .
+<http://localhost:8080/source/STR042101071501S08> <http://knowdive.disi.unitn.it/etype#has_CAPspa> "38020" .
+<http://localhost:8080/source/STR042101071501S08> <http://knowdive.disi.unitn.it/etype#has_assistanceSPA> "ASSISTENZA IDROTERMALE" .
+
+<http://localhost:8080/source/STR042101081801S08> <http://knowdive.disi.unitn.it/etype#has_typeStSPA> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101081801S08> <http://knowdive.disi.unitn.it/etype#has_assistanceSPA> "ASSISTENZA IDROTERMALE" .
+<http://localhost:8080/source/STR042101081801S08> <http://knowdive.disi.unitn.it/etype#has_municipalitySPA> "COMANO TERME" .
+<http://localhost:8080/source/STR042101081801S08> <http://knowdive.disi.unitn.it/etype#has_longitudeSPA> "10.874438" .
+<http://localhost:8080/source/STR042101081801S08> <http://knowdive.disi.unitn.it/etype#has_latitudeSPA> "46.038914" .
+<http://localhost:8080/source/STR042101081801S08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Spa> .
+<http://localhost:8080/source/STR042101081801S08> <http://knowdive.disi.unitn.it/etype#has_codTypeAsSPA> "S08" .
+<http://localhost:8080/source/STR042101081801S08> <http://knowdive.disi.unitn.it/etype#has_codMuniSPA> "22228" .
+<http://localhost:8080/source/STR042101081801S08> <http://knowdive.disi.unitn.it/etype#has_addressSPA> "VIA CESARE BATTISTI" .
+<http://localhost:8080/source/STR042101081801S08> <http://knowdive.disi.unitn.it/etype#has_nameSPA> "TERME DI COMANO - AZIENDA CONSORZIALE" .
+<http://localhost:8080/source/STR042101081801S08> <http://knowdive.disi.unitn.it/etype#has_CAPspa> "38077" .
+<http://localhost:8080/source/STR042101081801S08> <http://knowdive.disi.unitn.it/etype#has_houseNumberSPA> "161" .
+
+<http://localhost:8080/source/STR042101082001S08> <http://knowdive.disi.unitn.it/etype#has_latitudeSPA> "46.129975" .
+<http://localhost:8080/source/STR042101082001S08> <http://knowdive.disi.unitn.it/etype#has_nameSPA> "TERME VAL RENDENA -  FONTE S. ANTONIO S.P.A." .
+<http://localhost:8080/source/STR042101082001S08> <http://knowdive.disi.unitn.it/etype#has_codMuniSPA> "22029" .
+<http://localhost:8080/source/STR042101082001S08> <http://knowdive.disi.unitn.it/etype#has_addressSPA> "VIA DAMIANO CHIESA" .
+<http://localhost:8080/source/STR042101082001S08> <http://knowdive.disi.unitn.it/etype#has_codTypeAsSPA> "S08" .
+<http://localhost:8080/source/STR042101082001S08> <http://knowdive.disi.unitn.it/etype#has_municipalitySPA> "CADERZONE TERME" .
+<http://localhost:8080/source/STR042101082001S08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Spa> .
+<http://localhost:8080/source/STR042101082001S08> <http://knowdive.disi.unitn.it/etype#has_longitudeSPA> "10.756592" .
+<http://localhost:8080/source/STR042101082001S08> <http://knowdive.disi.unitn.it/etype#has_typeStSPA> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101082001S08> <http://knowdive.disi.unitn.it/etype#has_CAPspa> "38080" .
+<http://localhost:8080/source/STR042101082001S08> <http://knowdive.disi.unitn.it/etype#has_houseNumberSPA> "2" .
+<http://localhost:8080/source/STR042101082001S08> <http://knowdive.disi.unitn.it/etype#has_assistanceSPA> "ASSISTENZA IDROTERMALE" .
+
+<http://localhost:8080/source/STR042101110211S08> <http://knowdive.disi.unitn.it/etype#has_codMuniSPA> "22145" .
+<http://localhost:8080/source/STR042101110211S08> <http://knowdive.disi.unitn.it/etype#has_typeStSPA> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101110211S08> <http://knowdive.disi.unitn.it/etype#has_addressSPA> "STRADA DOLOMITES" .
+<http://localhost:8080/source/STR042101110211S08> <http://knowdive.disi.unitn.it/etype#has_houseNumberSPA> "58" .
+<http://localhost:8080/source/STR042101110211S08> <http://knowdive.disi.unitn.it/etype#has_nameSPA> "SOCIETA' TERME DOLOMIA S.R.L." .
+<http://localhost:8080/source/STR042101110211S08> <http://knowdive.disi.unitn.it/etype#has_CAPspa> "38036" .
+<http://localhost:8080/source/STR042101110211S08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Spa> .
+<http://localhost:8080/source/STR042101110211S08> <http://knowdive.disi.unitn.it/etype#has_assistanceSPA> "ASSISTENZA IDROTERMALE" .
+<http://localhost:8080/source/STR042101110211S08> <http://knowdive.disi.unitn.it/etype#has_codTypeAsSPA> "S08" .
+<http://localhost:8080/source/STR042101110211S08> <http://knowdive.disi.unitn.it/etype#has_longitudeSPA> "11.686748" .
+<http://localhost:8080/source/STR042101110211S08> <http://knowdive.disi.unitn.it/etype#has_municipalitySPA> "POZZA DI FASSA" .
+<http://localhost:8080/source/STR042101110211S08> <http://knowdive.disi.unitn.it/etype#has_latitudeSPA> "46.423947" .
+

@@ -1,0 +1,56 @@
+<http://localhost:8080/source/car_sharing.0> <http://knowdive.disi.unitn.it/etype#has_descC> "nel parcheggio in prossimità del parco pubblico denominato Giardino Mattia Giosafat" .
+<http://localhost:8080/source/car_sharing.0> <http://knowdive.disi.unitn.it/etype#has_addressC> "via Soteri " .
+<http://localhost:8080/source/car_sharing.0> <http://knowdive.disi.unitn.it/etype#has_numberCarC> "1" .
+<http://localhost:8080/source/car_sharing.0> <http://knowdive.disi.unitn.it/etype#has_latitudeC> "46.086294" .
+<http://localhost:8080/source/car_sharing.0> <http://knowdive.disi.unitn.it/etype#has_longitudeC> "11.121392" .
+<http://localhost:8080/source/car_sharing.0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Car_sharing> .
+
+<http://localhost:8080/source/car_sharing.1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Car_sharing> .
+<http://localhost:8080/source/car_sharing.1> <http://knowdive.disi.unitn.it/etype#has_longitudeC> "11.115687" .
+<http://localhost:8080/source/car_sharing.1> <http://knowdive.disi.unitn.it/etype#has_descC> "sul lato est della strada  in prossimitàdel MUSE" .
+<http://localhost:8080/source/car_sharing.1> <http://knowdive.disi.unitn.it/etype#has_addressC> "corso del Lavoro e della Scienza " .
+<http://localhost:8080/source/car_sharing.1> <http://knowdive.disi.unitn.it/etype#has_numberCarC> "1" .
+<http://localhost:8080/source/car_sharing.1> <http://knowdive.disi.unitn.it/etype#has_latitudeC> "46.062282" .
+
+<http://localhost:8080/source/car_sharing.2> <http://knowdive.disi.unitn.it/etype#has_numberCarC> "1" .
+<http://localhost:8080/source/car_sharing.2> <http://knowdive.disi.unitn.it/etype#has_latitudeC> "46.064693" .
+<http://localhost:8080/source/car_sharing.2> <http://knowdive.disi.unitn.it/etype#has_addressC> "via S. Croce " .
+<http://localhost:8080/source/car_sharing.2> <http://knowdive.disi.unitn.it/etype#has_descC> "sul lato destro della strada tra la Cassa Rurale e il Ristorante Pedavena" .
+<http://localhost:8080/source/car_sharing.2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Car_sharing> .
+<http://localhost:8080/source/car_sharing.2> <http://knowdive.disi.unitn.it/etype#has_longitudeC> "11.123295" .
+
+<http://localhost:8080/source/car_sharing.3> <http://knowdive.disi.unitn.it/etype#has_longitudeC> "11.121278" .
+<http://localhost:8080/source/car_sharing.3> <http://knowdive.disi.unitn.it/etype#has_descC> "sul lato sinistro della strada vicino all’accesso al Parco di fronte al Palazzo della Regione" .
+<http://localhost:8080/source/car_sharing.3> <http://knowdive.disi.unitn.it/etype#has_addressC> "Piazza Dante " .
+<http://localhost:8080/source/car_sharing.3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Car_sharing> .
+<http://localhost:8080/source/car_sharing.3> <http://knowdive.disi.unitn.it/etype#has_numberCarC> "1" .
+<http://localhost:8080/source/car_sharing.3> <http://knowdive.disi.unitn.it/etype#has_latitudeC> "46.071133" .
+
+<http://localhost:8080/source/car_sharing.4> <http://knowdive.disi.unitn.it/etype#has_latitudeC> "46.069521" .
+<http://localhost:8080/source/car_sharing.4> <http://knowdive.disi.unitn.it/etype#has_longitudeC> "11.127661" .
+<http://localhost:8080/source/car_sharing.4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Car_sharing> .
+<http://localhost:8080/source/car_sharing.4> <http://knowdive.disi.unitn.it/etype#has_addressC> "piazza Venezia " .
+<http://localhost:8080/source/car_sharing.4> <http://knowdive.disi.unitn.it/etype#has_numberCarC> "1" .
+<http://localhost:8080/source/car_sharing.4> <http://knowdive.disi.unitn.it/etype#has_descC> "zona Port'Aquila-in prossimità dei civici 37-40" .
+
+<http://localhost:8080/source/car_sharing.5> <http://knowdive.disi.unitn.it/etype#has_latitudeC> "46.07115" .
+<http://localhost:8080/source/car_sharing.5> <http://knowdive.disi.unitn.it/etype#has_descC> "sul lato sinistro della strada vicino all’accesso al Parco di fronte al Palazzo della Regione" .
+<http://localhost:8080/source/car_sharing.5> <http://knowdive.disi.unitn.it/etype#has_longitudeC> "11.121273" .
+<http://localhost:8080/source/car_sharing.5> <http://knowdive.disi.unitn.it/etype#has_addressC> "piazza Dante " .
+<http://localhost:8080/source/car_sharing.5> <http://knowdive.disi.unitn.it/etype#has_numberCarC> "1" .
+<http://localhost:8080/source/car_sharing.5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Car_sharing> .
+
+<http://localhost:8080/source/car_sharing.6> <http://knowdive.disi.unitn.it/etype#has_numberCarC> "1" .
+<http://localhost:8080/source/car_sharing.6> <http://knowdive.disi.unitn.it/etype#has_longitudeC> "11.131276" .
+<http://localhost:8080/source/car_sharing.6> <http://knowdive.disi.unitn.it/etype#has_addressC> "via Gocciadoro " .
+<http://localhost:8080/source/car_sharing.6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Car_sharing> .
+<http://localhost:8080/source/car_sharing.6> <http://knowdive.disi.unitn.it/etype#has_descC> "nel parcheggio posto tra la Piscina Fogazzaro e l’Ospedale, di fianco al Ristorante Loto" .
+<http://localhost:8080/source/car_sharing.6> <http://knowdive.disi.unitn.it/etype#has_latitudeC> "46.056134" .
+
+<http://localhost:8080/source/car_sharing.7> <http://knowdive.disi.unitn.it/etype#has_longitudeC> "11.154307" .
+<http://localhost:8080/source/car_sharing.7> <http://knowdive.disi.unitn.it/etype#has_latitudeC> "46.065465" .
+<http://localhost:8080/source/car_sharing.7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Car_sharing> .
+<http://localhost:8080/source/car_sharing.7> <http://knowdive.disi.unitn.it/etype#has_numberCarC> "1" .
+<http://localhost:8080/source/car_sharing.7> <http://knowdive.disi.unitn.it/etype#has_addressC> "via dei Rivi " .
+<http://localhost:8080/source/car_sharing.7> <http://knowdive.disi.unitn.it/etype#has_descC> "sul lato ovest, in prossimità dell'intersezione con via Dallafior" .
+

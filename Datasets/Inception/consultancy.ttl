@@ -1,0 +1,156 @@
+<http://localhost:8080/source/STR042101010105S04> <http://knowdive.disi.unitn.it/etype#has_houseNumberCO> "4" .
+<http://localhost:8080/source/STR042101010105S04> <http://knowdive.disi.unitn.it/etype#has_typeStCO> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101010105S04> <http://knowdive.disi.unitn.it/etype#has_longitudeCO> "11.463946" .
+<http://localhost:8080/source/STR042101010105S04> <http://knowdive.disi.unitn.it/etype#has_addressCO> "VIA ROMA" .
+<http://localhost:8080/source/STR042101010105S04> <http://knowdive.disi.unitn.it/etype#has_CAPco> "38033" .
+<http://localhost:8080/source/STR042101010105S04> <http://knowdive.disi.unitn.it/etype#has_municipalityCO> "CAVALESE" .
+<http://localhost:8080/source/STR042101010105S04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Consultancy> .
+<http://localhost:8080/source/STR042101010105S04> <http://knowdive.disi.unitn.it/etype#has_latitudeCO> "46.29017" .
+<http://localhost:8080/source/STR042101010105S04> <http://knowdive.disi.unitn.it/etype#has_codMuniCO> "22050" .
+<http://localhost:8080/source/STR042101010105S04> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCO> "S04" .
+<http://localhost:8080/source/STR042101010105S04> <http://knowdive.disi.unitn.it/etype#has_nameCO> "CONSULTORIO CAVALESE" .
+<http://localhost:8080/source/STR042101010105S04> <http://knowdive.disi.unitn.it/etype#has_assistanceCO> "ATTIVITA` DI CONSULTORIO MATERNO-INFANTILE" .
+
+<http://localhost:8080/source/STR042101020102S04> <http://knowdive.disi.unitn.it/etype#has_municipalityCO> "PRIMIERO SAN MARTINO DI CASTROZZA" .
+<http://localhost:8080/source/STR042101020102S04> <http://knowdive.disi.unitn.it/etype#has_assistanceCO> "ATTIVITA` DI CONSULTORIO MATERNO-INFANTILE" .
+<http://localhost:8080/source/STR042101020102S04> <http://knowdive.disi.unitn.it/etype#has_houseNumberCO> "1" .
+<http://localhost:8080/source/STR042101020102S04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Consultancy> .
+<http://localhost:8080/source/STR042101020102S04> <http://knowdive.disi.unitn.it/etype#has_latitudeCO> "46.177751" .
+<http://localhost:8080/source/STR042101020102S04> <http://knowdive.disi.unitn.it/etype#has_longitudeCO> "11.831519" .
+<http://localhost:8080/source/STR042101020102S04> <http://knowdive.disi.unitn.it/etype#has_typeStCO> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101020102S04> <http://knowdive.disi.unitn.it/etype#has_addressCO> "VIA ROMA" .
+<http://localhost:8080/source/STR042101020102S04> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCO> "S04" .
+<http://localhost:8080/source/STR042101020102S04> <http://knowdive.disi.unitn.it/etype#has_codMuniCO> "22245" .
+<http://localhost:8080/source/STR042101020102S04> <http://knowdive.disi.unitn.it/etype#has_nameCO> "CONSULTORIO  PRIMIERO" .
+<http://localhost:8080/source/STR042101020102S04> <http://knowdive.disi.unitn.it/etype#has_CAPco> "38054" .
+
+<http://localhost:8080/source/STR042101030401S04> <http://knowdive.disi.unitn.it/etype#has_municipalityCO> "BORGO VALSUGANA" .
+<http://localhost:8080/source/STR042101030401S04> <http://knowdive.disi.unitn.it/etype#has_CAPco> "38051" .
+<http://localhost:8080/source/STR042101030401S04> <http://knowdive.disi.unitn.it/etype#has_assistanceCO> "ATTIVITA` DI CONSULTORIO MATERNO-INFANTILE" .
+<http://localhost:8080/source/STR042101030401S04> <http://knowdive.disi.unitn.it/etype#has_latitudeCO> "46.054643" .
+<http://localhost:8080/source/STR042101030401S04> <http://knowdive.disi.unitn.it/etype#has_houseNumberCO> "9" .
+<http://localhost:8080/source/STR042101030401S04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Consultancy> .
+<http://localhost:8080/source/STR042101030401S04> <http://knowdive.disi.unitn.it/etype#has_nameCO> "CONSULTORIO  BORGO" .
+<http://localhost:8080/source/STR042101030401S04> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCO> "S04" .
+<http://localhost:8080/source/STR042101030401S04> <http://knowdive.disi.unitn.it/etype#has_typeStCO> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101030401S04> <http://knowdive.disi.unitn.it/etype#has_longitudeCO> "11.46004" .
+<http://localhost:8080/source/STR042101030401S04> <http://knowdive.disi.unitn.it/etype#has_addressCO> "VIALE VICENZA" .
+<http://localhost:8080/source/STR042101030401S04> <http://knowdive.disi.unitn.it/etype#has_codMuniCO> "22022" .
+
+<http://localhost:8080/source/STR042101040102S04> <http://knowdive.disi.unitn.it/etype#has_longitudeCO> "11.2449" .
+<http://localhost:8080/source/STR042101040102S04> <http://knowdive.disi.unitn.it/etype#has_typeStCO> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101040102S04> <http://knowdive.disi.unitn.it/etype#has_addressCO> "VIA S  PIETRO" .
+<http://localhost:8080/source/STR042101040102S04> <http://knowdive.disi.unitn.it/etype#has_latitudeCO> "46.0633" .
+<http://localhost:8080/source/STR042101040102S04> <http://knowdive.disi.unitn.it/etype#has_nameCO> "CONSULTORIO  PERGINE" .
+<http://localhost:8080/source/STR042101040102S04> <http://knowdive.disi.unitn.it/etype#has_municipalityCO> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101040102S04> <http://knowdive.disi.unitn.it/etype#has_houseNumberCO> "2" .
+<http://localhost:8080/source/STR042101040102S04> <http://knowdive.disi.unitn.it/etype#has_assistanceCO> "ATTIVITA` DI CONSULTORIO MATERNO-INFANTILE" .
+<http://localhost:8080/source/STR042101040102S04> <http://knowdive.disi.unitn.it/etype#has_codMuniCO> "22139" .
+<http://localhost:8080/source/STR042101040102S04> <http://knowdive.disi.unitn.it/etype#has_CAPco> "38057" .
+<http://localhost:8080/source/STR042101040102S04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Consultancy> .
+<http://localhost:8080/source/STR042101040102S04> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCO> "S04" .
+
+<http://localhost:8080/source/STR042101050404S04> <http://knowdive.disi.unitn.it/etype#has_typeStCO> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101050404S04> <http://knowdive.disi.unitn.it/etype#has_latitudeCO> "46.214023" .
+<http://localhost:8080/source/STR042101050404S04> <http://knowdive.disi.unitn.it/etype#has_houseNumberCO> "6" .
+<http://localhost:8080/source/STR042101050404S04> <http://knowdive.disi.unitn.it/etype#has_CAPco> "38017" .
+<http://localhost:8080/source/STR042101050404S04> <http://knowdive.disi.unitn.it/etype#has_longitudeCO> "11.096143" .
+<http://localhost:8080/source/STR042101050404S04> <http://knowdive.disi.unitn.it/etype#has_nameCO> "CONSULTORIO MEZZOLOMBARDO" .
+<http://localhost:8080/source/STR042101050404S04> <http://knowdive.disi.unitn.it/etype#has_municipalityCO> "MEZZOLOMBARDO" .
+<http://localhost:8080/source/STR042101050404S04> <http://knowdive.disi.unitn.it/etype#has_addressCO> "VIA DAMIANO CHIESA" .
+<http://localhost:8080/source/STR042101050404S04> <http://knowdive.disi.unitn.it/etype#has_codMuniCO> "22117" .
+<http://localhost:8080/source/STR042101050404S04> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCO> "S04" .
+<http://localhost:8080/source/STR042101050404S04> <http://knowdive.disi.unitn.it/etype#has_assistanceCO> "ATTIVITA` DI CONSULTORIO MATERNO-INFANTILE" .
+<http://localhost:8080/source/STR042101050404S04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Consultancy> .
+
+<http://localhost:8080/source/STR042101050801S04> <http://knowdive.disi.unitn.it/etype#has_typeStCO> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101050801S04> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCO> "S04" .
+<http://localhost:8080/source/STR042101050801S04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Consultancy> .
+<http://localhost:8080/source/STR042101050801S04> <http://knowdive.disi.unitn.it/etype#has_codMuniCO> "22205" .
+<http://localhost:8080/source/STR042101050801S04> <http://knowdive.disi.unitn.it/etype#has_assistanceCO> "ATTIVITA` DI CONSULTORIO MATERNO-INFANTILE" .
+<http://localhost:8080/source/STR042101050801S04> <http://knowdive.disi.unitn.it/etype#has_latitudeCO> "46.061995" .
+<http://localhost:8080/source/STR042101050801S04> <http://knowdive.disi.unitn.it/etype#has_houseNumberCO> "12" .
+<http://localhost:8080/source/STR042101050801S04> <http://knowdive.disi.unitn.it/etype#has_longitudeCO> "11.127296" .
+<http://localhost:8080/source/STR042101050801S04> <http://knowdive.disi.unitn.it/etype#has_CAPco> "38122" .
+<http://localhost:8080/source/STR042101050801S04> <http://knowdive.disi.unitn.it/etype#has_municipalityCO> "TRENTO" .
+<http://localhost:8080/source/STR042101050801S04> <http://knowdive.disi.unitn.it/etype#has_addressCO> "VIA MALTA" .
+<http://localhost:8080/source/STR042101050801S04> <http://knowdive.disi.unitn.it/etype#has_nameCO> "CONSULTORIO TRENTO" .
+
+<http://localhost:8080/source/STR042101051900S04> <http://knowdive.disi.unitn.it/etype#has_latitudeCO> "46.068851" .
+<http://localhost:8080/source/STR042101051900S04> <http://knowdive.disi.unitn.it/etype#has_municipalityCO> "TRENTO" .
+<http://localhost:8080/source/STR042101051900S04> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCO> "S04" .
+<http://localhost:8080/source/STR042101051900S04> <http://knowdive.disi.unitn.it/etype#has_houseNumberCO> "1" .
+<http://localhost:8080/source/STR042101051900S04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Consultancy> .
+<http://localhost:8080/source/STR042101051900S04> <http://knowdive.disi.unitn.it/etype#has_typeStCO> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101051900S04> <http://knowdive.disi.unitn.it/etype#has_assistanceCO> "ATTIVITA` DI CONSULTORIO MATERNO-INFANTILE" .
+<http://localhost:8080/source/STR042101051900S04> <http://knowdive.disi.unitn.it/etype#has_addressCO> "VIA FERRUCCIO" .
+<http://localhost:8080/source/STR042101051900S04> <http://knowdive.disi.unitn.it/etype#has_nameCO> "CONSULTORIO FAMILIARE UCIPEM" .
+<http://localhost:8080/source/STR042101051900S04> <http://knowdive.disi.unitn.it/etype#has_codMuniCO> "22205" .
+<http://localhost:8080/source/STR042101051900S04> <http://knowdive.disi.unitn.it/etype#has_longitudeCO> "11.125927" .
+<http://localhost:8080/source/STR042101051900S04> <http://knowdive.disi.unitn.it/etype#has_CAPco> "38122" .
+
+<http://localhost:8080/source/STR042101060701S04> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCO> "S04" .
+<http://localhost:8080/source/STR042101060701S04> <http://knowdive.disi.unitn.it/etype#has_municipalityCO> "CLES" .
+<http://localhost:8080/source/STR042101060701S04> <http://knowdive.disi.unitn.it/etype#has_longitudeCO> "11.037079" .
+<http://localhost:8080/source/STR042101060701S04> <http://knowdive.disi.unitn.it/etype#has_CAPco> "38023" .
+<http://localhost:8080/source/STR042101060701S04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Consultancy> .
+<http://localhost:8080/source/STR042101060701S04> <http://knowdive.disi.unitn.it/etype#has_houseNumberCO> "55" .
+<http://localhost:8080/source/STR042101060701S04> <http://knowdive.disi.unitn.it/etype#has_codMuniCO> "22062" .
+<http://localhost:8080/source/STR042101060701S04> <http://knowdive.disi.unitn.it/etype#has_assistanceCO> "ATTIVITA` DI CONSULTORIO MATERNO-INFANTILE" .
+<http://localhost:8080/source/STR042101060701S04> <http://knowdive.disi.unitn.it/etype#has_addressCO> "VIA ROMANA" .
+<http://localhost:8080/source/STR042101060701S04> <http://knowdive.disi.unitn.it/etype#has_latitudeCO> "46.362556" .
+<http://localhost:8080/source/STR042101060701S04> <http://knowdive.disi.unitn.it/etype#has_nameCO> "CONSULTORIO CLES" .
+<http://localhost:8080/source/STR042101060701S04> <http://knowdive.disi.unitn.it/etype#has_typeStCO> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+
+<http://localhost:8080/source/STR042101070201S04> <http://knowdive.disi.unitn.it/etype#has_nameCO> "CONSULTORIO MALE'" .
+<http://localhost:8080/source/STR042101070201S04> <http://knowdive.disi.unitn.it/etype#has_assistanceCO> "ATTIVITA` DI CONSULTORIO MATERNO-INFANTILE" .
+<http://localhost:8080/source/STR042101070201S04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Consultancy> .
+<http://localhost:8080/source/STR042101070201S04> <http://knowdive.disi.unitn.it/etype#has_typeStCO> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101070201S04> <http://knowdive.disi.unitn.it/etype#has_CAPco> "38027" .
+<http://localhost:8080/source/STR042101070201S04> <http://knowdive.disi.unitn.it/etype#has_municipalityCO> "MALÈ" .
+<http://localhost:8080/source/STR042101070201S04> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCO> "S04" .
+<http://localhost:8080/source/STR042101070201S04> <http://knowdive.disi.unitn.it/etype#has_codMuniCO> "22110" .
+<http://localhost:8080/source/STR042101070201S04> <http://knowdive.disi.unitn.it/etype#has_longitudeCO> "10.910061" .
+<http://localhost:8080/source/STR042101070201S04> <http://knowdive.disi.unitn.it/etype#has_latitudeCO> "46.350194" .
+<http://localhost:8080/source/STR042101070201S04> <http://knowdive.disi.unitn.it/etype#has_houseNumberCO> "8" .
+<http://localhost:8080/source/STR042101070201S04> <http://knowdive.disi.unitn.it/etype#has_addressCO> "VIA IV NOVEMBRE" .
+
+<http://localhost:8080/source/STR042101080104S04> <http://knowdive.disi.unitn.it/etype#has_municipalityCO> "TIONE DI TRENTO" .
+<http://localhost:8080/source/STR042101080104S04> <http://knowdive.disi.unitn.it/etype#has_addressCO> "VIA DELLA CROS" .
+<http://localhost:8080/source/STR042101080104S04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Consultancy> .
+<http://localhost:8080/source/STR042101080104S04> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCO> "S04" .
+<http://localhost:8080/source/STR042101080104S04> <http://knowdive.disi.unitn.it/etype#has_nameCO> "CONSULTORIO FAMILIARE TIONE" .
+<http://localhost:8080/source/STR042101080104S04> <http://knowdive.disi.unitn.it/etype#has_longitudeCO> "10.726615" .
+<http://localhost:8080/source/STR042101080104S04> <http://knowdive.disi.unitn.it/etype#has_assistanceCO> "ATTIVITA` DI CONSULTORIO MATERNO-INFANTILE" .
+<http://localhost:8080/source/STR042101080104S04> <http://knowdive.disi.unitn.it/etype#has_typeStCO> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101080104S04> <http://knowdive.disi.unitn.it/etype#has_codMuniCO> "22199" .
+<http://localhost:8080/source/STR042101080104S04> <http://knowdive.disi.unitn.it/etype#has_CAPco> "38079" .
+<http://localhost:8080/source/STR042101080104S04> <http://knowdive.disi.unitn.it/etype#has_houseNumberCO> "4" .
+<http://localhost:8080/source/STR042101080104S04> <http://knowdive.disi.unitn.it/etype#has_latitudeCO> "46.040784" .
+
+<http://localhost:8080/source/STR042101091003S04> <http://knowdive.disi.unitn.it/etype#has_nameCO> "CONSULTORIO RIVA DEL GARDA" .
+<http://localhost:8080/source/STR042101091003S04> <http://knowdive.disi.unitn.it/etype#has_houseNumberCO> "5/B" .
+<http://localhost:8080/source/STR042101091003S04> <http://knowdive.disi.unitn.it/etype#has_addressCO> "VIA ROSMINI" .
+<http://localhost:8080/source/STR042101091003S04> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCO> "S04" .
+<http://localhost:8080/source/STR042101091003S04> <http://knowdive.disi.unitn.it/etype#has_latitudeCO> "45.890308" .
+<http://localhost:8080/source/STR042101091003S04> <http://knowdive.disi.unitn.it/etype#has_codMuniCO> "22153" .
+<http://localhost:8080/source/STR042101091003S04> <http://knowdive.disi.unitn.it/etype#has_CAPco> "38066" .
+<http://localhost:8080/source/STR042101091003S04> <http://knowdive.disi.unitn.it/etype#has_assistanceCO> "ATTIVITA` DI CONSULTORIO MATERNO-INFANTILE" .
+<http://localhost:8080/source/STR042101091003S04> <http://knowdive.disi.unitn.it/etype#has_longitudeCO> "10.840401" .
+<http://localhost:8080/source/STR042101091003S04> <http://knowdive.disi.unitn.it/etype#has_typeStCO> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101091003S04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Consultancy> .
+<http://localhost:8080/source/STR042101091003S04> <http://knowdive.disi.unitn.it/etype#has_municipalityCO> "RIVA DEL GARDA" .
+
+<http://localhost:8080/source/STR042101100802S04> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCO> "S04" .
+<http://localhost:8080/source/STR042101100802S04> <http://knowdive.disi.unitn.it/etype#has_typeStCO> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101100802S04> <http://knowdive.disi.unitn.it/etype#has_longitudeCO> "11.041274" .
+<http://localhost:8080/source/STR042101100802S04> <http://knowdive.disi.unitn.it/etype#has_assistanceCO> "ATTIVITA` DI CONSULTORIO MATERNO-INFANTILE" .
+<http://localhost:8080/source/STR042101100802S04> <http://knowdive.disi.unitn.it/etype#has_addressCO> "VIA S  GIOVANNI BOSCO" .
+<http://localhost:8080/source/STR042101100802S04> <http://knowdive.disi.unitn.it/etype#has_latitudeCO> "45.892086" .
+<http://localhost:8080/source/STR042101100802S04> <http://knowdive.disi.unitn.it/etype#has_CAPco> "38068" .
+<http://localhost:8080/source/STR042101100802S04> <http://knowdive.disi.unitn.it/etype#has_municipalityCO> "ROVERETO" .
+<http://localhost:8080/source/STR042101100802S04> <http://knowdive.disi.unitn.it/etype#has_houseNumberCO> "6" .
+<http://localhost:8080/source/STR042101100802S04> <http://knowdive.disi.unitn.it/etype#has_nameCO> "CONSULTORIO FAMILIARE ROVERETO" .
+<http://localhost:8080/source/STR042101100802S04> <http://knowdive.disi.unitn.it/etype#has_codMuniCO> "22161" .
+<http://localhost:8080/source/STR042101100802S04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Consultancy> .
+

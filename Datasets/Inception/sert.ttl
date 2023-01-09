@@ -1,0 +1,91 @@
+<http://localhost:8080/source/STR042101051600S06> <http://knowdive.disi.unitn.it/etype#has_latitudeSE> "46.057068" .
+<http://localhost:8080/source/STR042101051600S06> <http://knowdive.disi.unitn.it/etype#has_typeStSE> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101051600S06> <http://knowdive.disi.unitn.it/etype#has_codTypeAsSE> "S06" .
+<http://localhost:8080/source/STR042101051600S06> <http://knowdive.disi.unitn.it/etype#has_nameSE> "SER.T" .
+<http://localhost:8080/source/STR042101051600S06> <http://knowdive.disi.unitn.it/etype#has_municipalitySE> "TRENTO" .
+<http://localhost:8080/source/STR042101051600S06> <http://knowdive.disi.unitn.it/etype#has_addressSE> "VIA GOCCIADORO" .
+<http://localhost:8080/source/STR042101051600S06> <http://knowdive.disi.unitn.it/etype#has_assistanceSE> "ASSISTENZA PER TOSSICODIPENDENTI" .
+<http://localhost:8080/source/STR042101051600S06> <http://knowdive.disi.unitn.it/etype#has_codMuniHSE> "22205" .
+<http://localhost:8080/source/STR042101051600S06> <http://knowdive.disi.unitn.it/etype#has_houseNumberSE> "47" .
+<http://localhost:8080/source/STR042101051600S06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sert> .
+<http://localhost:8080/source/STR042101051600S06> <http://knowdive.disi.unitn.it/etype#has_longitudeSE> "11.129975" .
+<http://localhost:8080/source/STR042101051600S06> <http://knowdive.disi.unitn.it/etype#has_CAPse> "38122" .
+
+<http://localhost:8080/source/STR042101052010S06> <http://knowdive.disi.unitn.it/etype#has_longitudeSE> "11.131145" .
+<http://localhost:8080/source/STR042101052010S06> <http://knowdive.disi.unitn.it/etype#has_addressSE> "MASO ZANCANELLA" .
+<http://localhost:8080/source/STR042101052010S06> <http://knowdive.disi.unitn.it/etype#has_typeStSE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052010S06> <http://knowdive.disi.unitn.it/etype#has_CAPse> "38121" .
+<http://localhost:8080/source/STR042101052010S06> <http://knowdive.disi.unitn.it/etype#has_codMuniHSE> "22205" .
+<http://localhost:8080/source/STR042101052010S06> <http://knowdive.disi.unitn.it/etype#has_nameSE> "ASSOCIAZIONE CENTRO ANTIDROGA" .
+<http://localhost:8080/source/STR042101052010S06> <http://knowdive.disi.unitn.it/etype#has_districtSE> "GARDOLO" .
+<http://localhost:8080/source/STR042101052010S06> <http://knowdive.disi.unitn.it/etype#has_codTypeAsSE> "S06" .
+<http://localhost:8080/source/STR042101052010S06> <http://knowdive.disi.unitn.it/etype#has_municipalitySE> "TRENTO" .
+<http://localhost:8080/source/STR042101052010S06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sert> .
+<http://localhost:8080/source/STR042101052010S06> <http://knowdive.disi.unitn.it/etype#has_latitudeSE> "46.139283" .
+<http://localhost:8080/source/STR042101052010S06> <http://knowdive.disi.unitn.it/etype#has_assistanceSE> "ASSISTENZA PER TOSSICODIPENDENTI" .
+
+<http://localhost:8080/source/STR042101052200S06> <http://knowdive.disi.unitn.it/etype#has_codTypeAsSE> "S06" .
+<http://localhost:8080/source/STR042101052200S06> <http://knowdive.disi.unitn.it/etype#has_addressSE> "VIA DI MAIANO" .
+<http://localhost:8080/source/STR042101052200S06> <http://knowdive.disi.unitn.it/etype#has_districtSE> "LOCALITA  S  MASSENZA" .
+<http://localhost:8080/source/STR042101052200S06> <http://knowdive.disi.unitn.it/etype#has_municipalitySE> "VALLELAGHI" .
+<http://localhost:8080/source/STR042101052200S06> <http://knowdive.disi.unitn.it/etype#has_codMuniHSE> "22248" .
+<http://localhost:8080/source/STR042101052200S06> <http://knowdive.disi.unitn.it/etype#has_typeStSE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052200S06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sert> .
+<http://localhost:8080/source/STR042101052200S06> <http://knowdive.disi.unitn.it/etype#has_nameSE> "COMUNITA' DI ACCOGLIENZA CASA DI GIANO" .
+<http://localhost:8080/source/STR042101052200S06> <http://knowdive.disi.unitn.it/etype#has_longitudeSE> "10.984083" .
+<http://localhost:8080/source/STR042101052200S06> <http://knowdive.disi.unitn.it/etype#has_assistanceSE> "ASSISTENZA PER TOSSICODIPENDENTI" .
+<http://localhost:8080/source/STR042101052200S06> <http://knowdive.disi.unitn.it/etype#has_houseNumberSE> "55" .
+<http://localhost:8080/source/STR042101052200S06> <http://knowdive.disi.unitn.it/etype#has_CAPse> "38070" .
+<http://localhost:8080/source/STR042101052200S06> <http://knowdive.disi.unitn.it/etype#has_latitudeSE> "46.075294" .
+
+<http://localhost:8080/source/STR042101052300S06> <http://knowdive.disi.unitn.it/etype#has_nameSE> "COMUNITA' TERAPEUTICA CASA DI GIANO" .
+<http://localhost:8080/source/STR042101052300S06> <http://knowdive.disi.unitn.it/etype#has_latitudeSE> "46.075294" .
+<http://localhost:8080/source/STR042101052300S06> <http://knowdive.disi.unitn.it/etype#has_longitudeSE> "10.984083" .
+<http://localhost:8080/source/STR042101052300S06> <http://knowdive.disi.unitn.it/etype#has_districtSE> "LOCALITA  S MASSENZA" .
+<http://localhost:8080/source/STR042101052300S06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sert> .
+<http://localhost:8080/source/STR042101052300S06> <http://knowdive.disi.unitn.it/etype#has_municipalitySE> "VALLELAGHI" .
+<http://localhost:8080/source/STR042101052300S06> <http://knowdive.disi.unitn.it/etype#has_codMuniHSE> "22248" .
+<http://localhost:8080/source/STR042101052300S06> <http://knowdive.disi.unitn.it/etype#has_codTypeAsSE> "S06" .
+<http://localhost:8080/source/STR042101052300S06> <http://knowdive.disi.unitn.it/etype#has_addressSE> "VIA DI MAIANO" .
+<http://localhost:8080/source/STR042101052300S06> <http://knowdive.disi.unitn.it/etype#has_typeStSE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052300S06> <http://knowdive.disi.unitn.it/etype#has_houseNumberSE> "55" .
+<http://localhost:8080/source/STR042101052300S06> <http://knowdive.disi.unitn.it/etype#has_CAPse> "38070" .
+<http://localhost:8080/source/STR042101052300S06> <http://knowdive.disi.unitn.it/etype#has_assistanceSE> "ASSISTENZA PER TOSSICODIPENDENTI" .
+
+<http://localhost:8080/source/STR042101100901S06> <http://knowdive.disi.unitn.it/etype#has_CAPse> "38060" .
+<http://localhost:8080/source/STR042101100901S06> <http://knowdive.disi.unitn.it/etype#has_houseNumberSE> "34" .
+<http://localhost:8080/source/STR042101100901S06> <http://knowdive.disi.unitn.it/etype#has_nameSE> "ASSOCIAZIONE 'VOCE AMICA' O.N.L.U.S." .
+<http://localhost:8080/source/STR042101100901S06> <http://knowdive.disi.unitn.it/etype#has_codTypeAsSE> "S06" .
+<http://localhost:8080/source/STR042101100901S06> <http://knowdive.disi.unitn.it/etype#has_typeStSE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101100901S06> <http://knowdive.disi.unitn.it/etype#has_assistanceSE> "ASSISTENZA PER TOSSICODIPENDENTI" .
+<http://localhost:8080/source/STR042101100901S06> <http://knowdive.disi.unitn.it/etype#has_municipalitySE> "VILLA LAGARINA" .
+<http://localhost:8080/source/STR042101100901S06> <http://knowdive.disi.unitn.it/etype#has_addressSE> "VIA GIARDINI" .
+<http://localhost:8080/source/STR042101100901S06> <http://knowdive.disi.unitn.it/etype#has_codMuniHSE> "22222" .
+<http://localhost:8080/source/STR042101100901S06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sert> .
+<http://localhost:8080/source/STR042101100901S06> <http://knowdive.disi.unitn.it/etype#has_latitudeSE> "45.921786" .
+<http://localhost:8080/source/STR042101100901S06> <http://knowdive.disi.unitn.it/etype#has_longitudeSE> "11.032979" .
+
+<http://localhost:8080/source/STR042101100903S06> <http://knowdive.disi.unitn.it/etype#has_longitudeSE> "11.032133" .
+<http://localhost:8080/source/STR042101100903S06> <http://knowdive.disi.unitn.it/etype#has_addressSE> "LOCALITÀ BELLARIA DI CEI" .
+<http://localhost:8080/source/STR042101100903S06> <http://knowdive.disi.unitn.it/etype#has_municipalitySE> "VILLA LAGARINA" .
+<http://localhost:8080/source/STR042101100903S06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sert> .
+<http://localhost:8080/source/STR042101100903S06> <http://knowdive.disi.unitn.it/etype#has_typeStSE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101100903S06> <http://knowdive.disi.unitn.it/etype#has_assistanceSE> "ASSISTENZA PER TOSSICODIPENDENTI" .
+<http://localhost:8080/source/STR042101100903S06> <http://knowdive.disi.unitn.it/etype#has_CAPse> "38060" .
+<http://localhost:8080/source/STR042101100903S06> <http://knowdive.disi.unitn.it/etype#has_codMuniHSE> "22222" .
+<http://localhost:8080/source/STR042101100903S06> <http://knowdive.disi.unitn.it/etype#has_latitudeSE> "45.95753" .
+<http://localhost:8080/source/STR042101100903S06> <http://knowdive.disi.unitn.it/etype#has_codTypeAsSE> "S06" .
+<http://localhost:8080/source/STR042101100903S06> <http://knowdive.disi.unitn.it/etype#has_nameSE> "ASSOCIAZIONE TRENTINA NUOVI ORIZZONTI ONLUS" .
+
+<http://localhost:8080/source/STR042101052023S07> <http://knowdive.disi.unitn.it/etype#has_assistanceSE> "ASSISTENZA AIDS" .
+<http://localhost:8080/source/STR042101052023S07> <http://knowdive.disi.unitn.it/etype#has_nameSE> "CTS - COMUNITA' ACCOGLIENZA AIDS" .
+<http://localhost:8080/source/STR042101052023S07> <http://knowdive.disi.unitn.it/etype#has_codTypeAsSE> "S07" .
+<http://localhost:8080/source/STR042101052023S07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Sert> .
+<http://localhost:8080/source/STR042101052023S07> <http://knowdive.disi.unitn.it/etype#has_codMuniHSE> "22205" .
+<http://localhost:8080/source/STR042101052023S07> <http://knowdive.disi.unitn.it/etype#has_addressSE> "LAMAR DI GARDOLO" .
+<http://localhost:8080/source/STR042101052023S07> <http://knowdive.disi.unitn.it/etype#has_CAPse> "38122" .
+<http://localhost:8080/source/STR042101052023S07> <http://knowdive.disi.unitn.it/etype#has_longitudeSE> "11.10613" .
+<http://localhost:8080/source/STR042101052023S07> <http://knowdive.disi.unitn.it/etype#has_latitudeSE> "46.118392" .
+<http://localhost:8080/source/STR042101052023S07> <http://knowdive.disi.unitn.it/etype#has_typeStSE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052023S07> <http://knowdive.disi.unitn.it/etype#has_municipalitySE> "TRENTO" .
+

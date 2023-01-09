@@ -1,0 +1,330 @@
+<http://localhost:8080/source/PFA042101002507> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA DE GASPERI" .
+<http://localhost:8080/source/PFA042101002507> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22205" .
+<http://localhost:8080/source/PFA042101002507> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "1-11-12-13-17" .
+<http://localhost:8080/source/PFA042101002507> <http://knowdive.disi.unitn.it/etype#has_nameP> "COOP SUPERSTORE CENTRO COMM.DIR.TRENTO SUD" .
+<http://localhost:8080/source/PFA042101002507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101002507> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38100" .
+<http://localhost:8080/source/PFA042101002507> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.14863" .
+<http://localhost:8080/source/PFA042101002507> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.0950399" .
+<http://localhost:8080/source/PFA042101002507> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "TRENTO" .
+
+<http://localhost:8080/source/PFA042101002508> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "95" .
+<http://localhost:8080/source/PFA042101002508> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "ROVERETO" .
+<http://localhost:8080/source/PFA042101002508> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA DEL GARDA" .
+<http://localhost:8080/source/PFA042101002508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101002508> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38068" .
+<http://localhost:8080/source/PFA042101002508> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "45.8725985975744" .
+<http://localhost:8080/source/PFA042101002508> <http://knowdive.disi.unitn.it/etype#has_nameP> "COOP SUPERSTORE MILLENIUM" .
+<http://localhost:8080/source/PFA042101002508> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22161" .
+<http://localhost:8080/source/PFA042101002508> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.021257749762" .
+
+<http://localhost:8080/source/PFA042101003394> <http://knowdive.disi.unitn.it/etype#has_nameP> "ERBORISTERIA ANCUSA" .
+<http://localhost:8080/source/PFA042101003394> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/PFA042101003394> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38057" .
+<http://localhost:8080/source/PFA042101003394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101003394> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22139" .
+<http://localhost:8080/source/PFA042101003394> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.2376773447364" .
+<http://localhost:8080/source/PFA042101003394> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA REGENSBURGER" .
+<http://localhost:8080/source/PFA042101003394> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.0702663118121" .
+<http://localhost:8080/source/PFA042101003394> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "43" .
+
+<http://localhost:8080/source/PFA042101003686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101003686> <http://knowdive.disi.unitn.it/etype#has_nameP> "ARS MEDICA DI LAURA BALDUCCI & LORENZA VENTURA SNC" .
+<http://localhost:8080/source/PFA042101003686> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "10.7632459687159" .
+<http://localhost:8080/source/PFA042101003686> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38086" .
+<http://localhost:8080/source/PFA042101003686> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "20" .
+<http://localhost:8080/source/PFA042101003686> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "PINZOLO" .
+<http://localhost:8080/source/PFA042101003686> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22143" .
+<http://localhost:8080/source/PFA042101003686> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.1590562564702" .
+<http://localhost:8080/source/PFA042101003686> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA MARCONI" .
+
+<http://localhost:8080/source/PFA042101003915> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38057" .
+<http://localhost:8080/source/PFA042101003915> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.060829" .
+<http://localhost:8080/source/PFA042101003915> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "1" .
+<http://localhost:8080/source/PFA042101003915> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/PFA042101003915> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.241801" .
+<http://localhost:8080/source/PFA042101003915> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101003915> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA 3 NOVEMBRE" .
+<http://localhost:8080/source/PFA042101003915> <http://knowdive.disi.unitn.it/etype#has_nameP> "PARAFARMACIA DOTT.SSA SITTONI ANGELA" .
+<http://localhost:8080/source/PFA042101003915> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22139" .
+
+<http://localhost:8080/source/PFA042101004180> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA TAMARISI" .
+<http://localhost:8080/source/PFA042101004180> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38057" .
+<http://localhost:8080/source/PFA042101004180> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "2" .
+<http://localhost:8080/source/PFA042101004180> <http://knowdive.disi.unitn.it/etype#has_nameP> "DARMA IL FARMASTORE" .
+<http://localhost:8080/source/PFA042101004180> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/PFA042101004180> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.2398474" .
+<http://localhost:8080/source/PFA042101004180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101004180> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22139" .
+<http://localhost:8080/source/PFA042101004180> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.0616404" .
+
+<http://localhost:8080/source/PFA042101004198> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIALE DANTE" .
+<http://localhost:8080/source/PFA042101004198> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "30" .
+<http://localhost:8080/source/PFA042101004198> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "RIVA DEL GARDA" .
+<http://localhost:8080/source/PFA042101004198> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "45.88637199999999" .
+<http://localhost:8080/source/PFA042101004198> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "10.842593" .
+<http://localhost:8080/source/PFA042101004198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101004198> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22153" .
+<http://localhost:8080/source/PFA042101004198> <http://knowdive.disi.unitn.it/etype#has_nameP> "FARMA SRL" .
+<http://localhost:8080/source/PFA042101004198> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38066" .
+
+<http://localhost:8080/source/PFA042101004590> <http://knowdive.disi.unitn.it/etype#has_nameP> "PARAFARMACIA ESSERE BENESSERE" .
+<http://localhost:8080/source/PFA042101004590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101004590> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.47726" .
+<http://localhost:8080/source/PFA042101004590> <http://knowdive.disi.unitn.it/etype#has_addressP> "STREDA DOLOMITES" .
+<http://localhost:8080/source/PFA042101004590> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "103" .
+<http://localhost:8080/source/PFA042101004590> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22039" .
+<http://localhost:8080/source/PFA042101004590> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "CANAZEI" .
+<http://localhost:8080/source/PFA042101004590> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38032" .
+<http://localhost:8080/source/PFA042101004590> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.74418" .
+
+<http://localhost:8080/source/PFA042101006268> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "45.8915375" .
+<http://localhost:8080/source/PFA042101006268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101006268> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "50" .
+<http://localhost:8080/source/PFA042101006268> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA ROSMINI" .
+<http://localhost:8080/source/PFA042101006268> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38068" .
+<http://localhost:8080/source/PFA042101006268> <http://knowdive.disi.unitn.it/etype#has_nameP> "FARMA  SRL" .
+<http://localhost:8080/source/PFA042101006268> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.0384953" .
+<http://localhost:8080/source/PFA042101006268> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22161" .
+<http://localhost:8080/source/PFA042101006268> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "ROVERETO" .
+
+<http://localhost:8080/source/PFA042101006752> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.1314631169961" .
+<http://localhost:8080/source/PFA042101006752> <http://knowdive.disi.unitn.it/etype#has_nameP> "DARMA IL FARMASTORE" .
+<http://localhost:8080/source/PFA042101006752> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIALE VERONA" .
+<http://localhost:8080/source/PFA042101006752> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "67/69" .
+<http://localhost:8080/source/PFA042101006752> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.0427575586414" .
+<http://localhost:8080/source/PFA042101006752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101006752> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38123" .
+<http://localhost:8080/source/PFA042101006752> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22205" .
+<http://localhost:8080/source/PFA042101006752> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "TRENTO" .
+
+<http://localhost:8080/source/PFA042101007773> <http://knowdive.disi.unitn.it/etype#has_nameP> "PARAFARMACIA" .
+<http://localhost:8080/source/PFA042101007773> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "49/B" .
+<http://localhost:8080/source/PFA042101007773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101007773> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38086" .
+<http://localhost:8080/source/PFA042101007773> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "10.8249051653774" .
+<http://localhost:8080/source/PFA042101007773> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22143" .
+<http://localhost:8080/source/PFA042101007773> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "PINZOLO" .
+<http://localhost:8080/source/PFA042101007773> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.2330224772044" .
+<http://localhost:8080/source/PFA042101007773> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA CIMA TOSA" .
+
+<http://localhost:8080/source/PFA042101007978> <http://knowdive.disi.unitn.it/etype#has_nameP> "A FIOR DI PELLE" .
+<http://localhost:8080/source/PFA042101007978> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.2696363876654" .
+<http://localhost:8080/source/PFA042101007978> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "ZIANO DI FIEMME" .
+<http://localhost:8080/source/PFA042101007978> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "8" .
+<http://localhost:8080/source/PFA042101007978> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22226" .
+<http://localhost:8080/source/PFA042101007978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101007978> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38030" .
+<http://localhost:8080/source/PFA042101007978> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA DELL' ISCHIA" .
+<http://localhost:8080/source/PFA042101007978> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.5827165518511" .
+
+<http://localhost:8080/source/PFA042101008788> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA ROMA" .
+<http://localhost:8080/source/PFA042101008788> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "27" .
+<http://localhost:8080/source/PFA042101008788> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22087" .
+<http://localhost:8080/source/PFA042101008788> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.1722331817432" .
+<http://localhost:8080/source/PFA042101008788> <http://knowdive.disi.unitn.it/etype#has_nameP> "PHARMAVITAE SRL" .
+<http://localhost:8080/source/PFA042101008788> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38064" .
+<http://localhost:8080/source/PFA042101008788> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "45.9156012850045" .
+<http://localhost:8080/source/PFA042101008788> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "FOLGARIA" .
+<http://localhost:8080/source/PFA042101008788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+
+<http://localhost:8080/source/PFA042101009866> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "TRENTO" .
+<http://localhost:8080/source/PFA042101009866> <http://knowdive.disi.unitn.it/etype#has_nameP> "CORNER PARAFARMACIA C/O SUPERMERCATI POLI MARAMEO" .
+<http://localhost:8080/source/PFA042101009866> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22205" .
+<http://localhost:8080/source/PFA042101009866> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.125327" .
+<http://localhost:8080/source/PFA042101009866> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38122" .
+<http://localhost:8080/source/PFA042101009866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101009866> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "57" .
+<http://localhost:8080/source/PFA042101009866> <http://knowdive.disi.unitn.it/etype#has_addressP> "CORSO 3 NOVEMBRE" .
+<http://localhost:8080/source/PFA042101009866> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.060919" .
+
+<http://localhost:8080/source/PFA042101010198> <http://knowdive.disi.unitn.it/etype#has_nameP> "ANIMAL STORE MOLINO PONTALTI SRL" .
+<http://localhost:8080/source/PFA042101010198> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "5" .
+<http://localhost:8080/source/PFA042101010198> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38045" .
+<http://localhost:8080/source/PFA042101010198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101010198> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.088711" .
+<http://localhost:8080/source/PFA042101010198> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22061" .
+<http://localhost:8080/source/PFA042101010198> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "CIVEZZANO" .
+<http://localhost:8080/source/PFA042101010198> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.182382" .
+<http://localhost:8080/source/PFA042101010198> <http://knowdive.disi.unitn.it/etype#has_addressP> "LOCALITÀ MOCHENA" .
+
+<http://localhost:8080/source/PFA042101010308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101010308> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA S. CATERINA" .
+<http://localhost:8080/source/PFA042101010308> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "ARCO" .
+<http://localhost:8080/source/PFA042101010308> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "45.910875" .
+<http://localhost:8080/source/PFA042101010308> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "78" .
+<http://localhost:8080/source/PFA042101010308> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "10.87268" .
+<http://localhost:8080/source/PFA042101010308> <http://knowdive.disi.unitn.it/etype#has_nameP> "GRANDI MAGAZZINI REGINA" .
+<http://localhost:8080/source/PFA042101010308> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22006" .
+<http://localhost:8080/source/PFA042101010308> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38062" .
+
+<http://localhost:8080/source/PFA042101010690> <http://knowdive.disi.unitn.it/etype#has_nameP> "PARAFARMACIA FESTA DEL DOTT. CANDEAGO ALESSANDRO S.A.S" .
+<http://localhost:8080/source/PFA042101010690> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "MOENA" .
+<http://localhost:8080/source/PFA042101010690> <http://knowdive.disi.unitn.it/etype#has_addressP> "PIAZZALE PIAZ DE RAMON" .
+<http://localhost:8080/source/PFA042101010690> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38035" .
+<http://localhost:8080/source/PFA042101010690> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.661125" .
+<http://localhost:8080/source/PFA042101010690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101010690> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.376587" .
+<http://localhost:8080/source/PFA042101010690> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22118" .
+<http://localhost:8080/source/PFA042101010690> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "54" .
+
+<http://localhost:8080/source/PFA042101011443> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA SANTA CATERINA" .
+<http://localhost:8080/source/PFA042101011443> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22006" .
+<http://localhost:8080/source/PFA042101011443> <http://knowdive.disi.unitn.it/etype#has_nameP> "CORNER PARAFARMACIA C/O GRANDI MAGAZZINI REGINA" .
+<http://localhost:8080/source/PFA042101011443> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "78" .
+<http://localhost:8080/source/PFA042101011443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101011443> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "ARCO" .
+<http://localhost:8080/source/PFA042101011443> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38062" .
+<http://localhost:8080/source/PFA042101011443> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "10.8770976" .
+<http://localhost:8080/source/PFA042101011443> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "45.9140202" .
+
+<http://localhost:8080/source/PFA042101011453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101011453> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "5" .
+<http://localhost:8080/source/PFA042101011453> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "10.8546121" .
+<http://localhost:8080/source/PFA042101011453> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "RIVA DEL GARDA" .
+<http://localhost:8080/source/PFA042101011453> <http://knowdive.disi.unitn.it/etype#has_nameP> "PARAFARMACIA RIVA DEL GARDA" .
+<http://localhost:8080/source/PFA042101011453> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38066" .
+<http://localhost:8080/source/PFA042101011453> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA PADOVA" .
+<http://localhost:8080/source/PFA042101011453> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22153" .
+<http://localhost:8080/source/PFA042101011453> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "45.8828899" .
+
+<http://localhost:8080/source/PFA042101011463> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA GIUSEPPE CANESTRINI" .
+<http://localhost:8080/source/PFA042101011463> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "25" .
+<http://localhost:8080/source/PFA042101011463> <http://knowdive.disi.unitn.it/etype#has_nameP> "PARAFARMACIA DR. ROBERTO GIUS" .
+<http://localhost:8080/source/PFA042101011463> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38122" .
+<http://localhost:8080/source/PFA042101011463> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.11685" .
+<http://localhost:8080/source/PFA042101011463> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "TRENTO" .
+<http://localhost:8080/source/PFA042101011463> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101011463> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22205" .
+<http://localhost:8080/source/PFA042101011463> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.06804" .
+
+<http://localhost:8080/source/PFA042101011470> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "45.8909429" .
+<http://localhost:8080/source/PFA042101011470> <http://knowdive.disi.unitn.it/etype#has_nameP> "CONAD" .
+<http://localhost:8080/source/PFA042101011470> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "ROVERETO" .
+<http://localhost:8080/source/PFA042101011470> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "31" .
+<http://localhost:8080/source/PFA042101011470> <http://knowdive.disi.unitn.it/etype#has_addressP> "CORSO ROSMINI" .
+<http://localhost:8080/source/PFA042101011470> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.0390078" .
+<http://localhost:8080/source/PFA042101011470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101011470> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22161" .
+<http://localhost:8080/source/PFA042101011470> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38068" .
+
+<http://localhost:8080/source/PFA042101011481> <http://knowdive.disi.unitn.it/etype#has_nameP> "PARAFARMACIA LAGORAI DI VALERIA MANGIAFICO" .
+<http://localhost:8080/source/PFA042101011481> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.1217486" .
+<http://localhost:8080/source/PFA042101011481> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.0747793" .
+<http://localhost:8080/source/PFA042101011481> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "5" .
+<http://localhost:8080/source/PFA042101011481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101011481> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "CAVALESE" .
+<http://localhost:8080/source/PFA042101011481> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22050" .
+<http://localhost:8080/source/PFA042101011481> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38033" .
+<http://localhost:8080/source/PFA042101011481> <http://knowdive.disi.unitn.it/etype#has_addressP> "PIAZZA SCOPOLI" .
+
+<http://localhost:8080/source/PFA042101011575> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22118" .
+<http://localhost:8080/source/PFA042101011575> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.1217486" .
+<http://localhost:8080/source/PFA042101011575> <http://knowdive.disi.unitn.it/etype#has_addressP> "PIAZZA SOTEGRAVA" .
+<http://localhost:8080/source/PFA042101011575> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "15" .
+<http://localhost:8080/source/PFA042101011575> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.0747793" .
+<http://localhost:8080/source/PFA042101011575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101011575> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38035" .
+<http://localhost:8080/source/PFA042101011575> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "MOENA" .
+<http://localhost:8080/source/PFA042101011575> <http://knowdive.disi.unitn.it/etype#has_nameP> "PARAFARMACIA LA PERLA DI RIGONI LUCA" .
+
+<http://localhost:8080/source/PFA042101011625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101011625> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38051" .
+<http://localhost:8080/source/PFA042101011625> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22022" .
+<http://localhost:8080/source/PFA042101011625> <http://knowdive.disi.unitn.it/etype#has_nameP> "PARAFARMACIA IL FARMACISTA DEL CENTRO" .
+<http://localhost:8080/source/PFA042101011625> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "47" .
+<http://localhost:8080/source/PFA042101011625> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.49125" .
+<http://localhost:8080/source/PFA042101011625> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "BORGO VALSUGANA" .
+<http://localhost:8080/source/PFA042101011625> <http://knowdive.disi.unitn.it/etype#has_addressP> "CORSO VICENZA" .
+<http://localhost:8080/source/PFA042101011625> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.05285" .
+
+<http://localhost:8080/source/PFA042101011706> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38017" .
+<http://localhost:8080/source/PFA042101011706> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "MEZZOLOMBARDO" .
+<http://localhost:8080/source/PFA042101011706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101011706> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.0987156" .
+<http://localhost:8080/source/PFA042101011706> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.1520044" .
+<http://localhost:8080/source/PFA042101011706> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA TRENTO" .
+<http://localhost:8080/source/PFA042101011706> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "65/A" .
+<http://localhost:8080/source/PFA042101011706> <http://knowdive.disi.unitn.it/etype#has_nameP> "PARAFARMACIA CAMPAGNOLA" .
+<http://localhost:8080/source/PFA042101011706> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22117" .
+
+<http://localhost:8080/source/PFA042101012096> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.122887" .
+<http://localhost:8080/source/PFA042101012096> <http://knowdive.disi.unitn.it/etype#has_nameP> "COLORVISION OUTLET SRL" .
+<http://localhost:8080/source/PFA042101012096> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "3-4" .
+<http://localhost:8080/source/PFA042101012096> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "TRENTO" .
+<http://localhost:8080/source/PFA042101012096> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38121" .
+<http://localhost:8080/source/PFA042101012096> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.085055" .
+<http://localhost:8080/source/PFA042101012096> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22205" .
+<http://localhost:8080/source/PFA042101012096> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA DEI SOLTERI" .
+<http://localhost:8080/source/PFA042101012096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+
+<http://localhost:8080/source/PFA042101012158> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22205" .
+<http://localhost:8080/source/PFA042101012158> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.1217486" .
+<http://localhost:8080/source/PFA042101012158> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA SS. TRINITA'" .
+<http://localhost:8080/source/PFA042101012158> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38122" .
+<http://localhost:8080/source/PFA042101012158> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "TRENTO" .
+<http://localhost:8080/source/PFA042101012158> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "12" .
+<http://localhost:8080/source/PFA042101012158> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.0747793" .
+<http://localhost:8080/source/PFA042101012158> <http://knowdive.disi.unitn.it/etype#has_nameP> "FARMASI'" .
+<http://localhost:8080/source/PFA042101012158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+
+<http://localhost:8080/source/PFA042101012403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101012403> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "SIROR" .
+<http://localhost:8080/source/PFA042101012403> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.79999" .
+<http://localhost:8080/source/PFA042101012403> <http://knowdive.disi.unitn.it/etype#has_nameP> "PARAFARMACIA SAN MARTINO" .
+<http://localhost:8080/source/PFA042101012403> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "108" .
+<http://localhost:8080/source/PFA042101012403> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA PASSO ROLLE" .
+<http://localhost:8080/source/PFA042101012403> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38054" .
+<http://localhost:8080/source/PFA042101012403> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22174" .
+<http://localhost:8080/source/PFA042101012403> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.26158" .
+
+<http://localhost:8080/source/PFA042101012650> <http://knowdive.disi.unitn.it/etype#has_nameP> "PARAFARMACIA GALILEI" .
+<http://localhost:8080/source/PFA042101012650> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22205" .
+<http://localhost:8080/source/PFA042101012650> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "TRENTO" .
+<http://localhost:8080/source/PFA042101012650> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "31" .
+<http://localhost:8080/source/PFA042101012650> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA G. GALILEI" .
+<http://localhost:8080/source/PFA042101012650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101012650> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.092278599999986" .
+<http://localhost:8080/source/PFA042101012650> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38122" .
+<http://localhost:8080/source/PFA042101012650> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.1363523" .
+
+<http://localhost:8080/source/PFA042101012836> <http://knowdive.disi.unitn.it/etype#has_nameP> "FARMAFREE MEZZOLOMBARDO" .
+<http://localhost:8080/source/PFA042101012836> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38017" .
+<http://localhost:8080/source/PFA042101012836> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22117" .
+<http://localhost:8080/source/PFA042101012836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101012836> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "10" .
+<http://localhost:8080/source/PFA042101012836> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "MEZZOLOMBARDO" .
+<http://localhost:8080/source/PFA042101012836> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.20896143341773" .
+<http://localhost:8080/source/PFA042101012836> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.101486086845398" .
+<http://localhost:8080/source/PFA042101012836> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA GUIDO FIORINI" .
+
+<http://localhost:8080/source/PFA042101013008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101013008> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "38" .
+<http://localhost:8080/source/PFA042101013008> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA GUETTI" .
+<http://localhost:8080/source/PFA042101013008> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.0887749" .
+<http://localhost:8080/source/PFA042101013008> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "TRENTO" .
+<http://localhost:8080/source/PFA042101013008> <http://knowdive.disi.unitn.it/etype#has_nameP> "PARAFARMACIA VETERINARIATRIDENTINA" .
+<http://localhost:8080/source/PFA042101013008> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22205" .
+<http://localhost:8080/source/PFA042101013008> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38121" .
+<http://localhost:8080/source/PFA042101013008> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.108602399999995" .
+
+<http://localhost:8080/source/PFA042101013134> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.223397900000007" .
+<http://localhost:8080/source/PFA042101013134> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA TAMARISI" .
+<http://localhost:8080/source/PFA042101013134> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "2" .
+<http://localhost:8080/source/PFA042101013134> <http://knowdive.disi.unitn.it/etype#has_nameP> "PARAFARMACIA BENESSERE" .
+<http://localhost:8080/source/PFA042101013134> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38057" .
+<http://localhost:8080/source/PFA042101013134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101013134> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/PFA042101013134> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22139" .
+<http://localhost:8080/source/PFA042101013134> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.0674676" .
+
+<http://localhost:8080/source/PFA042101013225> <http://knowdive.disi.unitn.it/etype#has_CAPp> "38033" .
+<http://localhost:8080/source/PFA042101013225> <http://knowdive.disi.unitn.it/etype#has_addressP> "VIA FRATELLI BRONZETTI" .
+<http://localhost:8080/source/PFA042101013225> <http://knowdive.disi.unitn.it/etype#has_longitudeP> "11.461171289291883" .
+<http://localhost:8080/source/PFA042101013225> <http://knowdive.disi.unitn.it/etype#has_latitudeP> "46.291186956566094" .
+<http://localhost:8080/source/PFA042101013225> <http://knowdive.disi.unitn.it/etype#has_codMunicipalityP> "22050" .
+<http://localhost:8080/source/PFA042101013225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Parapharmacy> .
+<http://localhost:8080/source/PFA042101013225> <http://knowdive.disi.unitn.it/etype#has_nameP> "PARAFARMACIA LA PERLA DI RIGONI LUCA" .
+<http://localhost:8080/source/PFA042101013225> <http://knowdive.disi.unitn.it/etype#has_housenumberP> "11" .
+<http://localhost:8080/source/PFA042101013225> <http://knowdive.disi.unitn.it/etype#has_municipalityP> "CAVALESE" .
+

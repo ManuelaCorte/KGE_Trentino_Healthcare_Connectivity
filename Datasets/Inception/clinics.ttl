@@ -1,0 +1,1193 @@
+<http://localhost:8080/source/STR042101010101S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101010101S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA DOSSI" .
+<http://localhost:8080/source/STR042101010101S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38033" .
+<http://localhost:8080/source/STR042101010101S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "17" .
+<http://localhost:8080/source/STR042101010101S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22050" .
+<http://localhost:8080/source/STR042101010101S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101010101S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101010101S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.2884" .
+<http://localhost:8080/source/STR042101010101S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO DI CAVALESE" .
+<http://localhost:8080/source/STR042101010101S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101010101S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.4551" .
+<http://localhost:8080/source/STR042101010101S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "CAVALESE" .
+
+<http://localhost:8080/source/STR042101010103S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38033" .
+<http://localhost:8080/source/STR042101010103S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101010103S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.4551" .
+<http://localhost:8080/source/STR042101010103S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CENTRO DIALISI CAVALESE" .
+<http://localhost:8080/source/STR042101010103S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101010103S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "17" .
+<http://localhost:8080/source/STR042101010103S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22050" .
+<http://localhost:8080/source/STR042101010103S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101010103S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101010103S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA DOSSI" .
+<http://localhost:8080/source/STR042101010103S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.2884" .
+<http://localhost:8080/source/STR042101010103S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "CAVALESE" .
+
+<http://localhost:8080/source/STR042101010501S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22147" .
+<http://localhost:8080/source/STR042101010501S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101010501S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38037" .
+<http://localhost:8080/source/STR042101010501S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101010501S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "12" .
+<http://localhost:8080/source/STR042101010501S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "PREDAZZO" .
+<http://localhost:8080/source/STR042101010501S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101010501S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.311858" .
+<http://localhost:8080/source/STR042101010501S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101010501S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "POLIAMBULATORIO DI PREDAZZO" .
+<http://localhost:8080/source/STR042101010501S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.599532" .
+<http://localhost:8080/source/STR042101010501S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA DEGASPERI" .
+
+<http://localhost:8080/source/STR042101020101S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101020101S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38054" .
+<http://localhost:8080/source/STR042101020101S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.831519" .
+<http://localhost:8080/source/STR042101020101S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "1" .
+<http://localhost:8080/source/STR042101020101S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22245" .
+<http://localhost:8080/source/STR042101020101S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "PRIMIERO SAN MARTINO DI CASTROZZA" .
+<http://localhost:8080/source/STR042101020101S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101020101S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101020101S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA ROMA" .
+<http://localhost:8080/source/STR042101020101S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "POLIAMBULATORIO TONADICO" .
+<http://localhost:8080/source/STR042101020101S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101020101S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.177751" .
+
+<http://localhost:8080/source/STR042101030101S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101030101S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22022" .
+<http://localhost:8080/source/STR042101030101S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38051" .
+<http://localhost:8080/source/STR042101030101S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO DI BORGO VALSUGANA" .
+<http://localhost:8080/source/STR042101030101S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "BORGO VALSUGANA" .
+<http://localhost:8080/source/STR042101030101S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIALE VICENZA" .
+<http://localhost:8080/source/STR042101030101S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0568" .
+<http://localhost:8080/source/STR042101030101S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101030101S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101030101S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "9" .
+<http://localhost:8080/source/STR042101030101S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101030101S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.4646" .
+
+<http://localhost:8080/source/STR042101030102S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22022" .
+<http://localhost:8080/source/STR042101030102S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38051" .
+<http://localhost:8080/source/STR042101030102S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA VICENZA" .
+<http://localhost:8080/source/STR042101030102S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.4646" .
+<http://localhost:8080/source/STR042101030102S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101030102S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "9" .
+<http://localhost:8080/source/STR042101030102S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101030102S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101030102S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CENTRO DIALISI BORGO" .
+<http://localhost:8080/source/STR042101030102S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101030102S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0568" .
+<http://localhost:8080/source/STR042101030102S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "BORGO VALSUGANA" .
+
+<http://localhost:8080/source/STR042101040101S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101040101S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101040101S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38057" .
+<http://localhost:8080/source/STR042101040101S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101040101S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101040101S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.2449" .
+<http://localhost:8080/source/STR042101040101S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "2" .
+<http://localhost:8080/source/STR042101040101S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA S PIETRO" .
+<http://localhost:8080/source/STR042101040101S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0633" .
+<http://localhost:8080/source/STR042101040101S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "POLIAMBULATORIO DI PERGINE" .
+<http://localhost:8080/source/STR042101040101S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101040101S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22139" .
+
+<http://localhost:8080/source/STR042101040201S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101040201S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22139" .
+<http://localhost:8080/source/STR042101040201S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.249487" .
+<http://localhost:8080/source/STR042101040201S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38057" .
+<http://localhost:8080/source/STR042101040201S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101040201S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101040201S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101040201S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "84" .
+<http://localhost:8080/source/STR042101040201S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA SPOLVERINE" .
+<http://localhost:8080/source/STR042101040201S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101040201S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO VILLA ROSA" .
+<http://localhost:8080/source/STR042101040201S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.06526" .
+
+<http://localhost:8080/source/STR042101040301S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38056" .
+<http://localhost:8080/source/STR042101040301S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101040301S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101040301S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA SLUCCA DE MATTEONI" .
+<http://localhost:8080/source/STR042101040301S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "POLIAMBULATORIO DI LEVICO - TN" .
+<http://localhost:8080/source/STR042101040301S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101040301S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "10" .
+<http://localhost:8080/source/STR042101040301S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.303954" .
+<http://localhost:8080/source/STR042101040301S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101040301S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.009549" .
+<http://localhost:8080/source/STR042101040301S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "LEVICO TERME" .
+<http://localhost:8080/source/STR042101040301S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22104" .
+
+<http://localhost:8080/source/STR042101041202S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101041202S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22139" .
+<http://localhost:8080/source/STR042101041202S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38057" .
+<http://localhost:8080/source/STR042101041202S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.063539" .
+<http://localhost:8080/source/STR042101041202S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101041202S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101041202S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101041202S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "7" .
+<http://localhost:8080/source/STR042101041202S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101041202S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.243005" .
+<http://localhost:8080/source/STR042101041202S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA PERGINE - AMB. FKT" .
+<http://localhost:8080/source/STR042101041202S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA PIVE" .
+
+<http://localhost:8080/source/STR042101050101S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101050101S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101050101S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101050101S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.1342" .
+<http://localhost:8080/source/STR042101050101S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101050101S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101050101S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101050101S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "1" .
+<http://localhost:8080/source/STR042101050101S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101050101S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "LARGO MEDAGLIE D'ORO" .
+<http://localhost:8080/source/STR042101050101S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO S.CHIARA" .
+<http://localhost:8080/source/STR042101050101S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0564" .
+
+<http://localhost:8080/source/STR042101050102S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "9" .
+<http://localhost:8080/source/STR042101050102S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101050102S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101050102S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101050102S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0564" .
+<http://localhost:8080/source/STR042101050102S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101050102S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101050102S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101050102S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "LARGO MEDAGLIE D ORO" .
+<http://localhost:8080/source/STR042101050102S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CENTRO DIALISI TRENTO" .
+<http://localhost:8080/source/STR042101050102S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101050102S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.1342" .
+
+<http://localhost:8080/source/STR042101050103S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.131942" .
+<http://localhost:8080/source/STR042101050103S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101050103S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101050103S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101050103S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101050103S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101050103S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101050103S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "82" .
+<http://localhost:8080/source/STR042101050103S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA GOCCIADORO" .
+<http://localhost:8080/source/STR042101050103S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "POLIAMBULATORI S.CHIARA" .
+<http://localhost:8080/source/STR042101050103S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.05572" .
+<http://localhost:8080/source/STR042101050103S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+
+<http://localhost:8080/source/STR042101050201S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.1279" .
+<http://localhost:8080/source/STR042101050201S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "16" .
+<http://localhost:8080/source/STR042101050201S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101050201S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101050201S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0617" .
+<http://localhost:8080/source/STR042101050201S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101050201S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO VILLA IGEA" .
+<http://localhost:8080/source/STR042101050201S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101050201S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA MALTA" .
+<http://localhost:8080/source/STR042101050201S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101050201S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101050201S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+
+<http://localhost:8080/source/STR042101050401S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101050401S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA DEGLI ALPINI" .
+<http://localhost:8080/source/STR042101050401S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "MEZZOLOMBARDO" .
+<http://localhost:8080/source/STR042101050401S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101050401S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "7" .
+<http://localhost:8080/source/STR042101050401S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.0958" .
+<http://localhost:8080/source/STR042101050401S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22117" .
+<http://localhost:8080/source/STR042101050401S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101050401S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO S.GIOVANNI" .
+<http://localhost:8080/source/STR042101050401S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101050401S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.2127" .
+<http://localhost:8080/source/STR042101050401S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38017" .
+
+<http://localhost:8080/source/STR042101050406S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101050406S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA ALCIDE DEGASPERI" .
+<http://localhost:8080/source/STR042101050406S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "75" .
+<http://localhost:8080/source/STR042101050406S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "MEZZOLOMBARDO" .
+<http://localhost:8080/source/STR042101050406S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38017" .
+<http://localhost:8080/source/STR042101050406S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.210909" .
+<http://localhost:8080/source/STR042101050406S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22117" .
+<http://localhost:8080/source/STR042101050406S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101050406S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101050406S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.093893" .
+<http://localhost:8080/source/STR042101050406S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CENTRO SANITARIO TRENTINO" .
+<http://localhost:8080/source/STR042101050406S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+
+<http://localhost:8080/source/STR042101050501S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101050501S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.131722" .
+<http://localhost:8080/source/STR042101050501S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "OSPEDALE  CLASSIFICATO S.CAMILLO" .
+<http://localhost:8080/source/STR042101050501S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.065474" .
+<http://localhost:8080/source/STR042101050501S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101050501S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101050501S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA GIOVANELLI" .
+<http://localhost:8080/source/STR042101050501S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101050501S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "19" .
+<http://localhost:8080/source/STR042101050501S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101050501S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101050501S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+
+<http://localhost:8080/source/STR042101050903S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101050903S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101050903S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101050903S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101050903S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38123" .
+<http://localhost:8080/source/STR042101050903S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0451" .
+<http://localhost:8080/source/STR042101050903S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101050903S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "NEUROPSICHIATRIA INFANTILE - UONPI 1" .
+<http://localhost:8080/source/STR042101050903S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101050903S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIALE VERONA" .
+<http://localhost:8080/source/STR042101050903S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.129" .
+
+<http://localhost:8080/source/STR042101051401S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101051401S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101051401S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101051401S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101051401S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.126697" .
+<http://localhost:8080/source/STR042101051401S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101051401S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.063077" .
+<http://localhost:8080/source/STR042101051401S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101051401S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CASA DI CURA VILLA BIANCA SPA" .
+<http://localhost:8080/source/STR042101051401S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101051401S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "78" .
+<http://localhost:8080/source/STR042101051401S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA PIAVE" .
+
+<http://localhost:8080/source/STR042101051501S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101051501S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101051501S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0451" .
+<http://localhost:8080/source/STR042101051501S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101051501S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101051501S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.129" .
+<http://localhost:8080/source/STR042101051501S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIALE VERONA" .
+<http://localhost:8080/source/STR042101051501S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38123" .
+<http://localhost:8080/source/STR042101051501S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101051501S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CENTRO SERVIZI SANITARI" .
+<http://localhost:8080/source/STR042101051501S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+
+<http://localhost:8080/source/STR042101051502S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101051502S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0451" .
+<http://localhost:8080/source/STR042101051502S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101051502S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101051502S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.129" .
+<http://localhost:8080/source/STR042101051502S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101051502S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIALE VERONA" .
+<http://localhost:8080/source/STR042101051502S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101051502S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101051502S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38123" .
+<http://localhost:8080/source/STR042101051502S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PSICOLOGIA CLINICA" .
+
+<http://localhost:8080/source/STR042101052015S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA LAVIS - AMB.FKT" .
+<http://localhost:8080/source/STR042101052015S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101052015S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.136261" .
+<http://localhost:8080/source/STR042101052015S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101052015S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.111185" .
+<http://localhost:8080/source/STR042101052015S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "50" .
+<http://localhost:8080/source/STR042101052015S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101052015S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "LAVIS" .
+<http://localhost:8080/source/STR042101052015S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22103" .
+<http://localhost:8080/source/STR042101052015S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101052015S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38015" .
+<http://localhost:8080/source/STR042101052015S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA ORTI" .
+
+<http://localhost:8080/source/STR042101052026S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA TARAMELLI" .
+<http://localhost:8080/source/STR042101052026S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101052026S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101052026S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101052026S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101052026S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101052026S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101052026S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "ASSOCIAZIONE TRENTINA SCLEROSI MULTIPLA, ONLUS" .
+<http://localhost:8080/source/STR042101052026S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.116986" .
+<http://localhost:8080/source/STR042101052026S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101052026S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "8/C" .
+<http://localhost:8080/source/STR042101052026S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.06128" .
+
+<http://localhost:8080/source/STR042101052027S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101052027S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101052027S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "ANFFAS TRENTINO ONLUS" .
+<http://localhost:8080/source/STR042101052027S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101052027S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101052027S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "1" .
+<http://localhost:8080/source/STR042101052027S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA AOSTA" .
+<http://localhost:8080/source/STR042101052027S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101052027S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101052027S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.128047" .
+<http://localhost:8080/source/STR042101052027S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38123" .
+<http://localhost:8080/source/STR042101052027S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.056699" .
+
+<http://localhost:8080/source/STR042101052028S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "15" .
+<http://localhost:8080/source/STR042101052028S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101052028S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101052028S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101052028S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101052028S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101052028S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101052028S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.123928" .
+<http://localhost:8080/source/STR042101052028S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA DELLA MALVASIA" .
+<http://localhost:8080/source/STR042101052028S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "COOPERATIVA SOCIALE IRIFOR DEL TRENTINO ONLUS" .
+<http://localhost:8080/source/STR042101052028S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101052028S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.077818" .
+
+<http://localhost:8080/source/STR042101052100S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.076842" .
+<http://localhost:8080/source/STR042101052100S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101052100S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA MARONI" .
+<http://localhost:8080/source/STR042101052100S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101052100S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101052100S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101052100S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101052100S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101052100S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101052100S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "15" .
+<http://localhost:8080/source/STR042101052100S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "AGSAT ASSOCIAZIONE GENITORI SOGGETTI AUTISTICI TRENTINI" .
+<http://localhost:8080/source/STR042101052100S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.114704" .
+
+<http://localhost:8080/source/STR042101052103S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.160766" .
+<http://localhost:8080/source/STR042101052103S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101052103S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA POVO - AMB. FKT" .
+<http://localhost:8080/source/STR042101052103S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101052103S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.068501" .
+<http://localhost:8080/source/STR042101052103S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "63" .
+<http://localhost:8080/source/STR042101052103S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101052103S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101052103S01> <http://knowdive.disi.unitn.it/etype#has_districtCL> "FR  POVO" .
+<http://localhost:8080/source/STR042101052103S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101052103S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101052103S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38123" .
+<http://localhost:8080/source/STR042101052103S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA DELLA RESISTENZA" .
+
+<http://localhost:8080/source/STR042101052400S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101052400S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38121" .
+<http://localhost:8080/source/STR042101052400S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101052400S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101052400S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101052400S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.093287" .
+<http://localhost:8080/source/STR042101052400S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101052400S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CST TRENTO" .
+<http://localhost:8080/source/STR042101052400S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "2/2" .
+<http://localhost:8080/source/STR042101052400S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101052400S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA G B  TRENER" .
+<http://localhost:8080/source/STR042101052400S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.114829" .
+
+<http://localhost:8080/source/STR042101055500S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "A.P.S.P. 'BEATO DE TSCHIDERER' - AMB. LOGO-AUDIOP." .
+<http://localhost:8080/source/STR042101055500S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.063465" .
+<http://localhost:8080/source/STR042101055500S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101055500S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101055500S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101055500S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "108" .
+<http://localhost:8080/source/STR042101055500S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101055500S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101055500S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101055500S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101055500S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.126997" .
+<http://localhost:8080/source/STR042101055500S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA PIAVE" .
+
+<http://localhost:8080/source/STR042101060201S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22062" .
+<http://localhost:8080/source/STR042101060201S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101060201S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO DI CLES" .
+<http://localhost:8080/source/STR042101060201S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38023" .
+<http://localhost:8080/source/STR042101060201S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101060201S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101060201S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.0323" .
+<http://localhost:8080/source/STR042101060201S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.3608" .
+<http://localhost:8080/source/STR042101060201S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "CLES" .
+<http://localhost:8080/source/STR042101060201S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "31" .
+<http://localhost:8080/source/STR042101060201S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101060201S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIALE DEGASPERI" .
+
+<http://localhost:8080/source/STR042101060203S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101060203S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIALE DEGASPERI" .
+<http://localhost:8080/source/STR042101060203S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101060203S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101060203S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22062" .
+<http://localhost:8080/source/STR042101060203S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38023" .
+<http://localhost:8080/source/STR042101060203S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.3608" .
+<http://localhost:8080/source/STR042101060203S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "CLES" .
+<http://localhost:8080/source/STR042101060203S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.0323" .
+<http://localhost:8080/source/STR042101060203S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101060203S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "31" .
+<http://localhost:8080/source/STR042101060203S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CENTRO DIALISI CLES" .
+
+<http://localhost:8080/source/STR042101060402S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101060402S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.324779" .
+<http://localhost:8080/source/STR042101060402S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101060402S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA ANAUNIA  - AMB. FKT" .
+<http://localhost:8080/source/STR042101060402S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22230" .
+<http://localhost:8080/source/STR042101060402S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "PREDAIA" .
+<http://localhost:8080/source/STR042101060402S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38012" .
+<http://localhost:8080/source/STR042101060402S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101060402S01> <http://knowdive.disi.unitn.it/etype#has_districtCL> "LOC  TAIO" .
+<http://localhost:8080/source/STR042101060402S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "20" .
+<http://localhost:8080/source/STR042101060402S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA THOMAS A  EDISON" .
+<http://localhost:8080/source/STR042101060402S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101060402S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.065975" .
+
+<http://localhost:8080/source/STR042101070101S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "MALÈ" .
+<http://localhost:8080/source/STR042101070101S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101070101S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA IV NOVEMBRE" .
+<http://localhost:8080/source/STR042101070101S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "8" .
+<http://localhost:8080/source/STR042101070101S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101070101S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22110" .
+<http://localhost:8080/source/STR042101070101S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.350194" .
+<http://localhost:8080/source/STR042101070101S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101070101S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38027" .
+<http://localhost:8080/source/STR042101070101S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "POLIAMBULATORIO MALE`" .
+<http://localhost:8080/source/STR042101070101S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.910061" .
+<http://localhost:8080/source/STR042101070101S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+
+<http://localhost:8080/source/STR042101080101S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "11" .
+<http://localhost:8080/source/STR042101080101S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TIONE DI TRENTO" .
+<http://localhost:8080/source/STR042101080101S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.7244" .
+<http://localhost:8080/source/STR042101080101S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0413" .
+<http://localhost:8080/source/STR042101080101S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101080101S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO TIONE" .
+<http://localhost:8080/source/STR042101080101S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22199" .
+<http://localhost:8080/source/STR042101080101S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA OSPEDALE" .
+<http://localhost:8080/source/STR042101080101S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101080101S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101080101S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101080101S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38079" .
+
+<http://localhost:8080/source/STR042101080105S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38081" .
+<http://localhost:8080/source/STR042101080105S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101080105S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TIONE DI TRENTO" .
+<http://localhost:8080/source/STR042101080105S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101080105S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "11" .
+<http://localhost:8080/source/STR042101080105S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0413" .
+<http://localhost:8080/source/STR042101080105S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101080105S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22199" .
+<http://localhost:8080/source/STR042101080105S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.7244" .
+<http://localhost:8080/source/STR042101080105S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA OSPEDALE" .
+<http://localhost:8080/source/STR042101080105S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CENTRO DIALISI TIONE" .
+<http://localhost:8080/source/STR042101080105S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+
+<http://localhost:8080/source/STR042101080204S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "BORGO CHIESE" .
+<http://localhost:8080/source/STR042101080204S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101080204S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA C  BATTISTI" .
+<http://localhost:8080/source/STR042101080204S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.889396" .
+<http://localhost:8080/source/STR042101080204S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.598116" .
+<http://localhost:8080/source/STR042101080204S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101080204S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "6" .
+<http://localhost:8080/source/STR042101080204S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA CONDINO - AMB. FKT" .
+<http://localhost:8080/source/STR042101080204S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38063" .
+<http://localhost:8080/source/STR042101080204S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22238" .
+<http://localhost:8080/source/STR042101080204S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101080204S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+
+<http://localhost:8080/source/STR042101081802S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101081802S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA CESARE BATTISTI" .
+<http://localhost:8080/source/STR042101081802S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "161" .
+<http://localhost:8080/source/STR042101081802S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.874438" .
+<http://localhost:8080/source/STR042101081802S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "COMANO TERME" .
+<http://localhost:8080/source/STR042101081802S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101081802S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "AZIENDA CONSORZIALE TERME DI COMANO" .
+<http://localhost:8080/source/STR042101081802S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.038914" .
+<http://localhost:8080/source/STR042101081802S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101081802S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38077" .
+<http://localhost:8080/source/STR042101081802S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22228" .
+<http://localhost:8080/source/STR042101081802S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+
+<http://localhost:8080/source/STR042101081902S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA SETTE PIEVI" .
+<http://localhost:8080/source/STR042101081902S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.848487" .
+<http://localhost:8080/source/STR042101081902S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "STORO" .
+<http://localhost:8080/source/STR042101081902S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22183" .
+<http://localhost:8080/source/STR042101081902S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101081902S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.57462" .
+<http://localhost:8080/source/STR042101081902S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA STORO - AMB. FKT" .
+<http://localhost:8080/source/STR042101081902S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38089" .
+<http://localhost:8080/source/STR042101081902S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "9" .
+<http://localhost:8080/source/STR042101081902S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101081902S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101081902S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+
+<http://localhost:8080/source/STR042101081903S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22183" .
+<http://localhost:8080/source/STR042101081903S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.846926" .
+<http://localhost:8080/source/STR042101081903S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "22" .
+<http://localhost:8080/source/STR042101081903S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA DELLE SETTE PIEVI" .
+<http://localhost:8080/source/STR042101081903S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101081903S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "STORO" .
+<http://localhost:8080/source/STR042101081903S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101081903S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38089" .
+<http://localhost:8080/source/STR042101081903S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101081903S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101081903S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CASA PER LA SALUTE DI STORO" .
+<http://localhost:8080/source/STR042101081903S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.574433" .
+
+<http://localhost:8080/source/STR042101082102S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.159175" .
+<http://localhost:8080/source/STR042101082102S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101082102S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22143" .
+<http://localhost:8080/source/STR042101082102S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101082102S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "84" .
+<http://localhost:8080/source/STR042101082102S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.76201" .
+<http://localhost:8080/source/STR042101082102S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA GENOVA" .
+<http://localhost:8080/source/STR042101082102S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "PINZOLO" .
+<http://localhost:8080/source/STR042101082102S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101082102S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38086" .
+<http://localhost:8080/source/STR042101082102S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101082102S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA PINZOLO - AMB. FKT" .
+
+<http://localhost:8080/source/STR042101091001S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.840401" .
+<http://localhost:8080/source/STR042101091001S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "POLIAMBULATORIO SPECIALISTICO" .
+<http://localhost:8080/source/STR042101091001S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "5/B" .
+<http://localhost:8080/source/STR042101091001S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101091001S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22153" .
+<http://localhost:8080/source/STR042101091001S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101091001S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.890308" .
+<http://localhost:8080/source/STR042101091001S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA ROSMINI" .
+<http://localhost:8080/source/STR042101091001S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101091001S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101091001S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "RIVA DEL GARDA" .
+<http://localhost:8080/source/STR042101091001S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38066" .
+
+<http://localhost:8080/source/STR042101091101S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ARCO" .
+<http://localhost:8080/source/STR042101091101S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38062" .
+<http://localhost:8080/source/STR042101091101S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "1" .
+<http://localhost:8080/source/STR042101091101S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.919481" .
+<http://localhost:8080/source/STR042101091101S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA XXI APRILE" .
+<http://localhost:8080/source/STR042101091101S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101091101S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22006" .
+<http://localhost:8080/source/STR042101091101S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CASA DI CURA EREMO" .
+<http://localhost:8080/source/STR042101091101S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101091101S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.870444" .
+<http://localhost:8080/source/STR042101091101S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101091101S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+
+<http://localhost:8080/source/STR042101091201S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.8741" .
+<http://localhost:8080/source/STR042101091201S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101091201S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA CAPITELLI" .
+<http://localhost:8080/source/STR042101091201S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101091201S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101091201S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22006" .
+<http://localhost:8080/source/STR042101091201S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.9192" .
+<http://localhost:8080/source/STR042101091201S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO ARCO" .
+<http://localhost:8080/source/STR042101091201S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101091201S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "48" .
+<http://localhost:8080/source/STR042101091201S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ARCO" .
+<http://localhost:8080/source/STR042101091201S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38062" .
+
+<http://localhost:8080/source/STR042101091202S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101091202S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22006" .
+<http://localhost:8080/source/STR042101091202S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CENTRO DIALISI ARCO" .
+<http://localhost:8080/source/STR042101091202S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38062" .
+<http://localhost:8080/source/STR042101091202S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.9192" .
+<http://localhost:8080/source/STR042101091202S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ARCO" .
+<http://localhost:8080/source/STR042101091202S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA CAPITELLI" .
+<http://localhost:8080/source/STR042101091202S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101091202S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.8741" .
+<http://localhost:8080/source/STR042101091202S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101091202S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "48" .
+<http://localhost:8080/source/STR042101091202S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+
+<http://localhost:8080/source/STR042101091301S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.921304" .
+<http://localhost:8080/source/STR042101091301S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.882587" .
+<http://localhost:8080/source/STR042101091301S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101091301S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "IST.RIAB.S.STEFANO-U.O. OSP. S.PANCRAZIO" .
+<http://localhost:8080/source/STR042101091301S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101091301S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "2" .
+<http://localhost:8080/source/STR042101091301S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ARCO" .
+<http://localhost:8080/source/STR042101091301S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22006" .
+<http://localhost:8080/source/STR042101091301S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101091301S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38062" .
+<http://localhost:8080/source/STR042101091301S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101091301S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA DAMIANO CHIESA" .
+
+<http://localhost:8080/source/STR042101100101S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38068" .
+<http://localhost:8080/source/STR042101100101S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101100101S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ROVERETO" .
+<http://localhost:8080/source/STR042101100101S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO S.MARIA DEL CARMINE" .
+<http://localhost:8080/source/STR042101100101S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101100101S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101100101S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22161" .
+<http://localhost:8080/source/STR042101100101S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.0407" .
+<http://localhost:8080/source/STR042101100101S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.8818" .
+<http://localhost:8080/source/STR042101100101S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101100101S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "CORSO VERONA" .
+<http://localhost:8080/source/STR042101100101S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "4" .
+
+<http://localhost:8080/source/STR042101100103S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38068" .
+<http://localhost:8080/source/STR042101100103S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101100103S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101100103S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22161" .
+<http://localhost:8080/source/STR042101100103S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.8818" .
+<http://localhost:8080/source/STR042101100103S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "4" .
+<http://localhost:8080/source/STR042101100103S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101100103S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ROVERETO" .
+<http://localhost:8080/source/STR042101100103S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "CORSO VERONA" .
+<http://localhost:8080/source/STR042101100103S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CENTRO DIALISI ROVERETO" .
+<http://localhost:8080/source/STR042101100103S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.0407" .
+<http://localhost:8080/source/STR042101100103S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+
+<http://localhost:8080/source/STR042101100106S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "NEUROPSICHIATRIA INFANTILE - UONPI 2" .
+<http://localhost:8080/source/STR042101100106S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101100106S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ROVERETO" .
+<http://localhost:8080/source/STR042101100106S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101100106S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "6" .
+<http://localhost:8080/source/STR042101100106S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101100106S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22161" .
+<http://localhost:8080/source/STR042101100106S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.042005" .
+<http://localhost:8080/source/STR042101100106S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101100106S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38068" .
+<http://localhost:8080/source/STR042101100106S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.883398" .
+<http://localhost:8080/source/STR042101100106S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "PIAZZALE S MARIA" .
+
+<http://localhost:8080/source/STR042101100107S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101100107S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "ALTRO TIPO DI STRUTTURA TERRITORIALE" .
+<http://localhost:8080/source/STR042101100107S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "UNITA' OPERATIVA N.2 DI PSICOLOGIA" .
+<http://localhost:8080/source/STR042101100107S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101100107S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101100107S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "P ZZA LEONI" .
+<http://localhost:8080/source/STR042101100107S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38068" .
+<http://localhost:8080/source/STR042101100107S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.038134" .
+<http://localhost:8080/source/STR042101100107S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22161" .
+<http://localhost:8080/source/STR042101100107S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ROVERETO" .
+<http://localhost:8080/source/STR042101100107S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "11/A" .
+<http://localhost:8080/source/STR042101100107S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.887888" .
+
+<http://localhost:8080/source/STR042101100201S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.000795" .
+<http://localhost:8080/source/STR042101100201S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101100201S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO DI ALA" .
+<http://localhost:8080/source/STR042101100201S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "PIAZZA S GIOVANNI XXIII" .
+<http://localhost:8080/source/STR042101100201S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.756172" .
+<http://localhost:8080/source/STR042101100201S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22001" .
+<http://localhost:8080/source/STR042101100201S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38061" .
+<http://localhost:8080/source/STR042101100201S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101100201S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101100201S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "13" .
+<http://localhost:8080/source/STR042101100201S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101100201S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ALA" .
+
+<http://localhost:8080/source/STR042101100301S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101100301S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CERIN (CENTRO RIABILITAZIONE NEUROCOGNITIVA)" .
+<http://localhost:8080/source/STR042101100301S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.03569" .
+<http://localhost:8080/source/STR042101100301S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101100301S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101100301S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22161" .
+<http://localhost:8080/source/STR042101100301S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38060" .
+<http://localhost:8080/source/STR042101100301S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.892397" .
+<http://localhost:8080/source/STR042101100301S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ROVERETO" .
+<http://localhost:8080/source/STR042101100301S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "5" .
+<http://localhost:8080/source/STR042101100301S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA  MATTEO DEL BEN" .
+<http://localhost:8080/source/STR042101100301S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+
+<http://localhost:8080/source/STR042101100701S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CASA DI CURA SOLATRIX S.P.A." .
+<http://localhost:8080/source/STR042101100701S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.045548" .
+<http://localhost:8080/source/STR042101100701S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101100701S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101100701S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA BELLINI" .
+<http://localhost:8080/source/STR042101100701S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38068" .
+<http://localhost:8080/source/STR042101100701S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "11" .
+<http://localhost:8080/source/STR042101100701S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101100701S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101100701S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22161" .
+<http://localhost:8080/source/STR042101100701S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ROVERETO" .
+<http://localhost:8080/source/STR042101100701S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.898984" .
+
+<http://localhost:8080/source/STR042101100801S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "POLIAMBULATORIO ROVERETO" .
+<http://localhost:8080/source/STR042101100801S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ROVERETO" .
+<http://localhost:8080/source/STR042101100801S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.892086" .
+<http://localhost:8080/source/STR042101100801S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22161" .
+<http://localhost:8080/source/STR042101100801S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.041274" .
+<http://localhost:8080/source/STR042101100801S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38068" .
+<http://localhost:8080/source/STR042101100801S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101100801S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101100801S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA S GIOVANNI BOSCO" .
+<http://localhost:8080/source/STR042101100801S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101100801S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "6" .
+<http://localhost:8080/source/STR042101100801S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+
+<http://localhost:8080/source/STR042101103202S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.919513" .
+<http://localhost:8080/source/STR042101103202S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA P  GIOVANNI XXIII" .
+<http://localhost:8080/source/STR042101103202S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "1" .
+<http://localhost:8080/source/STR042101103202S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.167603" .
+<http://localhost:8080/source/STR042101103202S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38064" .
+<http://localhost:8080/source/STR042101103202S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA FOLGARIA - ANB. FKT" .
+<http://localhost:8080/source/STR042101103202S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101103202S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101103202S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101103202S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22087" .
+<http://localhost:8080/source/STR042101103202S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "FOLGARIA" .
+<http://localhost:8080/source/STR042101103202S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+
+<http://localhost:8080/source/STR042101103302S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "7" .
+<http://localhost:8080/source/STR042101103302S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA BRENTONICO - AMB. FKT" .
+<http://localhost:8080/source/STR042101103302S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101103302S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA BALISTA" .
+<http://localhost:8080/source/STR042101103302S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38060" .
+<http://localhost:8080/source/STR042101103302S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22025" .
+<http://localhost:8080/source/STR042101103302S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.95871" .
+<http://localhost:8080/source/STR042101103302S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "BRENTONICO" .
+<http://localhost:8080/source/STR042101103302S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101103302S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101103302S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.817434" .
+<http://localhost:8080/source/STR042101103302S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+
+<http://localhost:8080/source/STR042101103702S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "FRAZIONE CORTE" .
+<http://localhost:8080/source/STR042101103702S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.11413" .
+<http://localhost:8080/source/STR042101103702S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101103702S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101103702S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38060" .
+<http://localhost:8080/source/STR042101103702S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "1" .
+<http://localhost:8080/source/STR042101103702S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101103702S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.782714" .
+<http://localhost:8080/source/STR042101103702S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA VALLARSA - AMB. FKT" .
+<http://localhost:8080/source/STR042101103702S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101103702S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "VALLARSA" .
+<http://localhost:8080/source/STR042101103702S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22210" .
+
+<http://localhost:8080/source/STR042101110101S01> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.423312" .
+<http://localhost:8080/source/STR042101110101S01> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22145" .
+<http://localhost:8080/source/STR042101110101S01> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "4" .
+<http://localhost:8080/source/STR042101110101S01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101110101S01> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "POZZA DI FASSA" .
+<http://localhost:8080/source/STR042101110101S01> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` CLINICA" .
+<http://localhost:8080/source/STR042101110101S01> <http://knowdive.disi.unitn.it/etype#has_nameCL> "DISTRETTO LADINO DI FASSA-POLIAMBULATORIO POZZA DI FASSA" .
+<http://localhost:8080/source/STR042101110101S01> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S01" .
+<http://localhost:8080/source/STR042101110101S01> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.678813" .
+<http://localhost:8080/source/STR042101110101S01> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101110101S01> <http://knowdive.disi.unitn.it/etype#has_addressCL> "STRADA DI PRÉ DE GEJIA" .
+<http://localhost:8080/source/STR042101110101S01> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38036" .
+
+<http://localhost:8080/source/STR042101010101S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38033" .
+<http://localhost:8080/source/STR042101010101S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101010101S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "17" .
+<http://localhost:8080/source/STR042101010101S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO DI CAVALESE" .
+<http://localhost:8080/source/STR042101010101S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.4551" .
+<http://localhost:8080/source/STR042101010101S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101010101S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA DOSSI" .
+<http://localhost:8080/source/STR042101010101S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22050" .
+<http://localhost:8080/source/STR042101010101S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.2884" .
+<http://localhost:8080/source/STR042101010101S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "CAVALESE" .
+<http://localhost:8080/source/STR042101010101S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101010101S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+
+<http://localhost:8080/source/STR042101010501S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22147" .
+<http://localhost:8080/source/STR042101010501S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38037" .
+<http://localhost:8080/source/STR042101010501S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101010501S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA DEGASPERI" .
+<http://localhost:8080/source/STR042101010501S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101010501S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "12" .
+<http://localhost:8080/source/STR042101010501S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.311858" .
+<http://localhost:8080/source/STR042101010501S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101010501S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "POLIAMBULATORIO DI PREDAZZO" .
+<http://localhost:8080/source/STR042101010501S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101010501S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "PREDAZZO" .
+<http://localhost:8080/source/STR042101010501S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.599532" .
+
+<http://localhost:8080/source/STR042101020101S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.831519" .
+<http://localhost:8080/source/STR042101020101S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101020101S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38054" .
+<http://localhost:8080/source/STR042101020101S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "POLIAMBULATORIO TONADICO" .
+<http://localhost:8080/source/STR042101020101S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.177751" .
+<http://localhost:8080/source/STR042101020101S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "1" .
+<http://localhost:8080/source/STR042101020101S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA ROMA" .
+<http://localhost:8080/source/STR042101020101S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "PRIMIERO SAN MARTINO DI CASTROZZA" .
+<http://localhost:8080/source/STR042101020101S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22245" .
+<http://localhost:8080/source/STR042101020101S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101020101S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101020101S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+
+<http://localhost:8080/source/STR042101030101S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIALE VICENZA" .
+<http://localhost:8080/source/STR042101030101S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101030101S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38051" .
+<http://localhost:8080/source/STR042101030101S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22022" .
+<http://localhost:8080/source/STR042101030101S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101030101S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "BORGO VALSUGANA" .
+<http://localhost:8080/source/STR042101030101S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101030101S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.4646" .
+<http://localhost:8080/source/STR042101030101S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "9" .
+<http://localhost:8080/source/STR042101030101S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0568" .
+<http://localhost:8080/source/STR042101030101S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101030101S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO DI BORGO VALSUGANA" .
+
+<http://localhost:8080/source/STR042101040101S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101040101S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "POLIAMBULATORIO DI PERGINE" .
+<http://localhost:8080/source/STR042101040101S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.2449" .
+<http://localhost:8080/source/STR042101040101S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101040101S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101040101S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "2" .
+<http://localhost:8080/source/STR042101040101S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101040101S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA S PIETRO" .
+<http://localhost:8080/source/STR042101040101S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38057" .
+<http://localhost:8080/source/STR042101040101S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0633" .
+<http://localhost:8080/source/STR042101040101S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101040101S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22139" .
+
+<http://localhost:8080/source/STR042101050101S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101050101S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101050101S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "LARGO MEDAGLIE D'ORO" .
+<http://localhost:8080/source/STR042101050101S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "1" .
+<http://localhost:8080/source/STR042101050101S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO S.CHIARA" .
+<http://localhost:8080/source/STR042101050101S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101050101S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101050101S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101050101S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0564" .
+<http://localhost:8080/source/STR042101050101S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101050101S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101050101S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.1342" .
+
+<http://localhost:8080/source/STR042101050406S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101050406S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "75" .
+<http://localhost:8080/source/STR042101050406S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CENTRO SANITARIO TRENTINO" .
+<http://localhost:8080/source/STR042101050406S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38017" .
+<http://localhost:8080/source/STR042101050406S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22117" .
+<http://localhost:8080/source/STR042101050406S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.21082" .
+<http://localhost:8080/source/STR042101050406S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101050406S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.093741" .
+<http://localhost:8080/source/STR042101050406S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "MEZZOLOMBARDO" .
+<http://localhost:8080/source/STR042101050406S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA ALCIDE DEGASPERI" .
+<http://localhost:8080/source/STR042101050406S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101050406S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+
+<http://localhost:8080/source/STR042101050501S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101050501S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.131722" .
+<http://localhost:8080/source/STR042101050501S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101050501S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "OSPEDALE  CLASSIFICATO S.CAMILLO" .
+<http://localhost:8080/source/STR042101050501S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA GIOVANELLI" .
+<http://localhost:8080/source/STR042101050501S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101050501S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101050501S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "19" .
+<http://localhost:8080/source/STR042101050501S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101050501S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.065474" .
+<http://localhost:8080/source/STR042101050501S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101050501S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+
+<http://localhost:8080/source/STR042101051401S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101051401S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101051401S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101051401S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101051401S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101051401S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA PIAVE" .
+<http://localhost:8080/source/STR042101051401S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.063077" .
+<http://localhost:8080/source/STR042101051401S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.126697" .
+<http://localhost:8080/source/STR042101051401S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101051401S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101051401S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CASA DI CURA VILLA BIANCA SPA" .
+<http://localhost:8080/source/STR042101051401S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "78" .
+
+<http://localhost:8080/source/STR042101051501S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0451" .
+<http://localhost:8080/source/STR042101051501S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101051501S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIALE VERONA" .
+<http://localhost:8080/source/STR042101051501S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38123" .
+<http://localhost:8080/source/STR042101051501S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101051501S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CENTRO SERVIZI SANITARI" .
+<http://localhost:8080/source/STR042101051501S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101051501S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.129" .
+<http://localhost:8080/source/STR042101051501S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101051501S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101051501S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+
+<http://localhost:8080/source/STR042101051800S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101051800S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.1283753" .
+<http://localhost:8080/source/STR042101051800S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101051800S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.047484" .
+<http://localhost:8080/source/STR042101051800S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101051800S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101051800S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101051800S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA PAOLO BORSELLINO" .
+<http://localhost:8080/source/STR042101051800S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "TECNOMED S.R.L." .
+<http://localhost:8080/source/STR042101051800S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "3" .
+<http://localhost:8080/source/STR042101051800S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101051800S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+
+<http://localhost:8080/source/STR042101052400S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101052400S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101052400S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101052400S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101052400S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38121" .
+<http://localhost:8080/source/STR042101052400S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA G B  TRENER" .
+<http://localhost:8080/source/STR042101052400S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101052400S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101052400S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "2/2" .
+<http://localhost:8080/source/STR042101052400S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.093287" .
+<http://localhost:8080/source/STR042101052400S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CST TRENTO" .
+<http://localhost:8080/source/STR042101052400S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.114829" .
+
+<http://localhost:8080/source/STR042101060201S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.0323" .
+<http://localhost:8080/source/STR042101060201S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101060201S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22062" .
+<http://localhost:8080/source/STR042101060201S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "31" .
+<http://localhost:8080/source/STR042101060201S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "CLES" .
+<http://localhost:8080/source/STR042101060201S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101060201S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.3608" .
+<http://localhost:8080/source/STR042101060201S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38023" .
+<http://localhost:8080/source/STR042101060201S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO DI CLES" .
+<http://localhost:8080/source/STR042101060201S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIALE DEGASPERI" .
+<http://localhost:8080/source/STR042101060201S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101060201S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+
+<http://localhost:8080/source/STR042101080101S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "11" .
+<http://localhost:8080/source/STR042101080101S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TIONE DI TRENTO" .
+<http://localhost:8080/source/STR042101080101S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA OSPEDALE" .
+<http://localhost:8080/source/STR042101080101S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22199" .
+<http://localhost:8080/source/STR042101080101S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO TIONE" .
+<http://localhost:8080/source/STR042101080101S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101080101S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0413" .
+<http://localhost:8080/source/STR042101080101S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.7244" .
+<http://localhost:8080/source/STR042101080101S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38079" .
+<http://localhost:8080/source/STR042101080101S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101080101S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101080101S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+
+<http://localhost:8080/source/STR042101091101S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101091101S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CASA DI CURA EREMO" .
+<http://localhost:8080/source/STR042101091101S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101091101S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38062" .
+<http://localhost:8080/source/STR042101091101S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "1" .
+<http://localhost:8080/source/STR042101091101S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101091101S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ARCO" .
+<http://localhost:8080/source/STR042101091101S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.919481" .
+<http://localhost:8080/source/STR042101091101S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.870444" .
+<http://localhost:8080/source/STR042101091101S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22006" .
+<http://localhost:8080/source/STR042101091101S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101091101S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA XXI APRILE" .
+
+<http://localhost:8080/source/STR042101091201S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38062" .
+<http://localhost:8080/source/STR042101091201S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ARCO" .
+<http://localhost:8080/source/STR042101091201S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.9192" .
+<http://localhost:8080/source/STR042101091201S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22006" .
+<http://localhost:8080/source/STR042101091201S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101091201S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.8741" .
+<http://localhost:8080/source/STR042101091201S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101091201S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101091201S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "48" .
+<http://localhost:8080/source/STR042101091201S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO ARCO" .
+<http://localhost:8080/source/STR042101091201S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101091201S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA CAPITELLI" .
+
+<http://localhost:8080/source/STR042101100101S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.0407" .
+<http://localhost:8080/source/STR042101100101S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101100101S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "CORSO VERONA" .
+<http://localhost:8080/source/STR042101100101S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101100101S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101100101S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101100101S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ROVERETO" .
+<http://localhost:8080/source/STR042101100101S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38068" .
+<http://localhost:8080/source/STR042101100101S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22161" .
+<http://localhost:8080/source/STR042101100101S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.8818" .
+<http://localhost:8080/source/STR042101100101S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO S.MARIA DEL CARMINE" .
+<http://localhost:8080/source/STR042101100101S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "4" .
+
+<http://localhost:8080/source/STR042101100201S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.000795" .
+<http://localhost:8080/source/STR042101100201S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101100201S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO DI ALA" .
+<http://localhost:8080/source/STR042101100201S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101100201S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38061" .
+<http://localhost:8080/source/STR042101100201S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101100201S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22001" .
+<http://localhost:8080/source/STR042101100201S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "13" .
+<http://localhost:8080/source/STR042101100201S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101100201S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ALA" .
+<http://localhost:8080/source/STR042101100201S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "PIAZZA S GIOVANNI XXIII" .
+<http://localhost:8080/source/STR042101100201S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.756172" .
+
+<http://localhost:8080/source/STR042101100701S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101100701S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CASA DI CURA SOLATRIX S.P.A." .
+<http://localhost:8080/source/STR042101100701S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA BELLINI" .
+<http://localhost:8080/source/STR042101100701S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.045548" .
+<http://localhost:8080/source/STR042101100701S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101100701S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101100701S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.898984" .
+<http://localhost:8080/source/STR042101100701S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ROVERETO" .
+<http://localhost:8080/source/STR042101100701S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38068" .
+<http://localhost:8080/source/STR042101100701S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "11" .
+<http://localhost:8080/source/STR042101100701S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22161" .
+<http://localhost:8080/source/STR042101100701S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+
+<http://localhost:8080/source/STR042101100801S02> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "DIAGNOSTICA STRUMENTALE E PER IMMAGINI" .
+<http://localhost:8080/source/STR042101100801S02> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22161" .
+<http://localhost:8080/source/STR042101100801S02> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.041274" .
+<http://localhost:8080/source/STR042101100801S02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101100801S02> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38068" .
+<http://localhost:8080/source/STR042101100801S02> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA S GIOVANNI BOSCO" .
+<http://localhost:8080/source/STR042101100801S02> <http://knowdive.disi.unitn.it/etype#has_nameCL> "POLIAMBULATORIO ROVERETO" .
+<http://localhost:8080/source/STR042101100801S02> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.892086" .
+<http://localhost:8080/source/STR042101100801S02> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101100801S02> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S02" .
+<http://localhost:8080/source/STR042101100801S02> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "6" .
+<http://localhost:8080/source/STR042101100801S02> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ROVERETO" .
+
+<http://localhost:8080/source/STR042101010101S03> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA DOSSI" .
+<http://localhost:8080/source/STR042101010101S03> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "CAVALESE" .
+<http://localhost:8080/source/STR042101010101S03> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO DI CAVALESE" .
+<http://localhost:8080/source/STR042101010101S03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101010101S03> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101010101S03> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "17" .
+<http://localhost:8080/source/STR042101010101S03> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.2884" .
+<http://localhost:8080/source/STR042101010101S03> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22050" .
+<http://localhost:8080/source/STR042101010101S03> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38033" .
+<http://localhost:8080/source/STR042101010101S03> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.4551" .
+<http://localhost:8080/source/STR042101010101S03> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S03" .
+<http://localhost:8080/source/STR042101010101S03> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` DI LABORATORIO" .
+
+<http://localhost:8080/source/STR042101030101S03> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22022" .
+<http://localhost:8080/source/STR042101030101S03> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S03" .
+<http://localhost:8080/source/STR042101030101S03> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101030101S03> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO DI BORGO VALSUGANA" .
+<http://localhost:8080/source/STR042101030101S03> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.4646" .
+<http://localhost:8080/source/STR042101030101S03> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "9" .
+<http://localhost:8080/source/STR042101030101S03> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0568" .
+<http://localhost:8080/source/STR042101030101S03> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIALE VICENZA" .
+<http://localhost:8080/source/STR042101030101S03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101030101S03> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` DI LABORATORIO" .
+<http://localhost:8080/source/STR042101030101S03> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38051" .
+<http://localhost:8080/source/STR042101030101S03> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "BORGO VALSUGANA" .
+
+<http://localhost:8080/source/STR042101040101S03> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA S PIETRO" .
+<http://localhost:8080/source/STR042101040101S03> <http://knowdive.disi.unitn.it/etype#has_nameCL> "POLIAMBULATORIO DI PERGINE" .
+<http://localhost:8080/source/STR042101040101S03> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "2" .
+<http://localhost:8080/source/STR042101040101S03> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.2449" .
+<http://localhost:8080/source/STR042101040101S03> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101040101S03> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` DI LABORATORIO" .
+<http://localhost:8080/source/STR042101040101S03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101040101S03> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S03" .
+<http://localhost:8080/source/STR042101040101S03> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22139" .
+<http://localhost:8080/source/STR042101040101S03> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101040101S03> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0633" .
+<http://localhost:8080/source/STR042101040101S03> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38057" .
+
+<http://localhost:8080/source/STR042101050101S03> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` DI LABORATORIO" .
+<http://localhost:8080/source/STR042101050101S03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101050101S03> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "1" .
+<http://localhost:8080/source/STR042101050101S03> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.1342" .
+<http://localhost:8080/source/STR042101050101S03> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101050101S03> <http://knowdive.disi.unitn.it/etype#has_addressCL> "LARGO MEDAGLIE D'ORO" .
+<http://localhost:8080/source/STR042101050101S03> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101050101S03> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S03" .
+<http://localhost:8080/source/STR042101050101S03> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0564" .
+<http://localhost:8080/source/STR042101050101S03> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101050101S03> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101050101S03> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO S.CHIARA" .
+
+<http://localhost:8080/source/STR042101051200S03> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101051200S03> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101051200S03> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.07233" .
+<http://localhost:8080/source/STR042101051200S03> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.122465" .
+<http://localhost:8080/source/STR042101051200S03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101051200S03> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101051200S03> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA GAZZOLETTI" .
+<http://localhost:8080/source/STR042101051200S03> <http://knowdive.disi.unitn.it/etype#has_nameCL> "LABORATORI ADIGE SRL" .
+<http://localhost:8080/source/STR042101051200S03> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101051200S03> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` DI LABORATORIO" .
+<http://localhost:8080/source/STR042101051200S03> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "12" .
+<http://localhost:8080/source/STR042101051200S03> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S03" .
+
+<http://localhost:8080/source/STR042101051300S03> <http://knowdive.disi.unitn.it/etype#has_nameCL> "LABORATORIO DRUSO SRL" .
+<http://localhost:8080/source/STR042101051300S03> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101051300S03> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101051300S03> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.121447" .
+<http://localhost:8080/source/STR042101051300S03> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S03" .
+<http://localhost:8080/source/STR042101051300S03> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "121" .
+<http://localhost:8080/source/STR042101051300S03> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA LAVISOTTO" .
+<http://localhost:8080/source/STR042101051300S03> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.064269" .
+<http://localhost:8080/source/STR042101051300S03> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101051300S03> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101051300S03> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` DI LABORATORIO" .
+<http://localhost:8080/source/STR042101051300S03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+
+<http://localhost:8080/source/STR042101051401S03> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38122" .
+<http://localhost:8080/source/STR042101051401S03> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` DI LABORATORIO" .
+<http://localhost:8080/source/STR042101051401S03> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S03" .
+<http://localhost:8080/source/STR042101051401S03> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.063077" .
+<http://localhost:8080/source/STR042101051401S03> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CASA DI CURA VILLA BIANCA SPA" .
+<http://localhost:8080/source/STR042101051401S03> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101051401S03> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+<http://localhost:8080/source/STR042101051401S03> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.126697" .
+<http://localhost:8080/source/STR042101051401S03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101051401S03> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101051401S03> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA PIAVE" .
+<http://localhost:8080/source/STR042101051401S03> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "78" .
+
+<http://localhost:8080/source/STR042101051501S03> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38123" .
+<http://localhost:8080/source/STR042101051501S03> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22205" .
+<http://localhost:8080/source/STR042101051501S03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101051501S03> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` DI LABORATORIO" .
+<http://localhost:8080/source/STR042101051501S03> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0451" .
+<http://localhost:8080/source/STR042101051501S03> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S03" .
+<http://localhost:8080/source/STR042101051501S03> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.129" .
+<http://localhost:8080/source/STR042101051501S03> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIALE VERONA" .
+<http://localhost:8080/source/STR042101051501S03> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CENTRO SERVIZI SANITARI" .
+<http://localhost:8080/source/STR042101051501S03> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101051501S03> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TRENTO" .
+
+<http://localhost:8080/source/STR042101060201S03> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "31" .
+<http://localhost:8080/source/STR042101060201S03> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101060201S03> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38023" .
+<http://localhost:8080/source/STR042101060201S03> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO DI CLES" .
+<http://localhost:8080/source/STR042101060201S03> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.3608" .
+<http://localhost:8080/source/STR042101060201S03> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22062" .
+<http://localhost:8080/source/STR042101060201S03> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S03" .
+<http://localhost:8080/source/STR042101060201S03> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.0323" .
+<http://localhost:8080/source/STR042101060201S03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101060201S03> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "CLES" .
+<http://localhost:8080/source/STR042101060201S03> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` DI LABORATORIO" .
+<http://localhost:8080/source/STR042101060201S03> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIALE DEGASPERI" .
+
+<http://localhost:8080/source/STR042101080101S03> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101080101S03> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "11" .
+<http://localhost:8080/source/STR042101080101S03> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` DI LABORATORIO" .
+<http://localhost:8080/source/STR042101080101S03> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA OSPEDALE" .
+<http://localhost:8080/source/STR042101080101S03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101080101S03> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.7244" .
+<http://localhost:8080/source/STR042101080101S03> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO TIONE" .
+<http://localhost:8080/source/STR042101080101S03> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22199" .
+<http://localhost:8080/source/STR042101080101S03> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "46.0413" .
+<http://localhost:8080/source/STR042101080101S03> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38079" .
+<http://localhost:8080/source/STR042101080101S03> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S03" .
+<http://localhost:8080/source/STR042101080101S03> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "TIONE DI TRENTO" .
+
+<http://localhost:8080/source/STR042101091201S03> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "10.8741" .
+<http://localhost:8080/source/STR042101091201S03> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22006" .
+<http://localhost:8080/source/STR042101091201S03> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38062" .
+<http://localhost:8080/source/STR042101091201S03> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.9192" .
+<http://localhost:8080/source/STR042101091201S03> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO ARCO" .
+<http://localhost:8080/source/STR042101091201S03> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` DI LABORATORIO" .
+<http://localhost:8080/source/STR042101091201S03> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101091201S03> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S03" .
+<http://localhost:8080/source/STR042101091201S03> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA CAPITELLI" .
+<http://localhost:8080/source/STR042101091201S03> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "48" .
+<http://localhost:8080/source/STR042101091201S03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101091201S03> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ARCO" .
+
+<http://localhost:8080/source/STR042101100101S03> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101100101S03> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38068" .
+<http://localhost:8080/source/STR042101100101S03> <http://knowdive.disi.unitn.it/etype#has_addressCL> "CORSO VERONA" .
+<http://localhost:8080/source/STR042101100101S03> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ROVERETO" .
+<http://localhost:8080/source/STR042101100101S03> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO S.MARIA DEL CARMINE" .
+<http://localhost:8080/source/STR042101100101S03> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.0407" .
+<http://localhost:8080/source/STR042101100101S03> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` DI LABORATORIO" .
+<http://localhost:8080/source/STR042101100101S03> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22161" .
+<http://localhost:8080/source/STR042101100101S03> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.8818" .
+<http://localhost:8080/source/STR042101100101S03> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S03" .
+<http://localhost:8080/source/STR042101100101S03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101100101S03> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "4" .
+
+<http://localhost:8080/source/STR042101100201S03> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22001" .
+<http://localhost:8080/source/STR042101100201S03> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38061" .
+<http://localhost:8080/source/STR042101100201S03> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.000795" .
+<http://localhost:8080/source/STR042101100201S03> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.756172" .
+<http://localhost:8080/source/STR042101100201S03> <http://knowdive.disi.unitn.it/etype#has_addressCL> "PIAZZA S GIOVANNI XXIII" .
+<http://localhost:8080/source/STR042101100201S03> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S03" .
+<http://localhost:8080/source/STR042101100201S03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101100201S03> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ALA" .
+<http://localhost:8080/source/STR042101100201S03> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "13" .
+<http://localhost:8080/source/STR042101100201S03> <http://knowdive.disi.unitn.it/etype#has_nameCL> "PRESIDIO OSPEDALIERO DI ALA" .
+<http://localhost:8080/source/STR042101100201S03> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101100201S03> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` DI LABORATORIO" .
+
+<http://localhost:8080/source/STR042101100701S03> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ROVERETO" .
+<http://localhost:8080/source/STR042101100701S03> <http://knowdive.disi.unitn.it/etype#has_nameCL> "CASA DI CURA SOLATRIX S.P.A." .
+<http://localhost:8080/source/STR042101100701S03> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38068" .
+<http://localhost:8080/source/STR042101100701S03> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "11.045548" .
+<http://localhost:8080/source/STR042101100701S03> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101100701S03> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` DI LABORATORIO" .
+<http://localhost:8080/source/STR042101100701S03> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA BELLINI" .
+<http://localhost:8080/source/STR042101100701S03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101100701S03> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S03" .
+<http://localhost:8080/source/STR042101100701S03> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "11" .
+<http://localhost:8080/source/STR042101100701S03> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "45.898984" .
+<http://localhost:8080/source/STR042101100701S03> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22161" .
+
+<http://localhost:8080/source/STR042101100803S03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Clinic_lab> .
+<http://localhost:8080/source/STR042101100803S03> <http://knowdive.disi.unitn.it/etype#has_assistanceCL> "ATTIVITA` DI LABORATORIO" .
+<http://localhost:8080/source/STR042101100803S03> <http://knowdive.disi.unitn.it/etype#has_codMuniCL> "22161" .
+<http://localhost:8080/source/STR042101100803S03> <http://knowdive.disi.unitn.it/etype#has_nameCL> "MAGI'S LAB S.R.L." .
+<http://localhost:8080/source/STR042101100803S03> <http://knowdive.disi.unitn.it/etype#has_CAPcl> "38068" .
+<http://localhost:8080/source/STR042101100803S03> <http://knowdive.disi.unitn.it/etype#has_municipalityCL> "ROVERETO" .
+<http://localhost:8080/source/STR042101100803S03> <http://knowdive.disi.unitn.it/etype#has_latitudeCL> "11.033921" .
+<http://localhost:8080/source/STR042101100803S03> <http://knowdive.disi.unitn.it/etype#has_houseNumberCL> "57" .
+<http://localhost:8080/source/STR042101100803S03> <http://knowdive.disi.unitn.it/etype#has_longitudeCL> "45.882557" .
+<http://localhost:8080/source/STR042101100803S03> <http://knowdive.disi.unitn.it/etype#has_addressCL> "VIA MAIOLICHE" .
+<http://localhost:8080/source/STR042101100803S03> <http://knowdive.disi.unitn.it/etype#has_typeStCL> "AMBULATORIO E LABORATORIO" .
+<http://localhost:8080/source/STR042101100803S03> <http://knowdive.disi.unitn.it/etype#has_codTypeAsCL> "S03" .
+

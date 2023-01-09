@@ -1,0 +1,61 @@
+<http://localhost:8080/source/taxi.0> <http://knowdive.disi.unitn.it/etype#has_longitudeT> "11.12323" .
+<http://localhost:8080/source/taxi.0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Taxi> .
+<http://localhost:8080/source/taxi.0> <http://knowdive.disi.unitn.it/etype#id_nameT> "TAXI TRENTO - VIA SANTA CROCE" .
+<http://localhost:8080/source/taxi.0> <http://knowdive.disi.unitn.it/etype#has_addressT> "via S.Croce" .
+<http://localhost:8080/source/taxi.0> <http://knowdive.disi.unitn.it/etype#has_latitudeT> "46.064461" .
+<http://localhost:8080/source/taxi.0> <http://knowdive.disi.unitn.it/etype#has_houseNumberT> "26" .
+
+<http://localhost:8080/source/taxi.1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Taxi> .
+<http://localhost:8080/source/taxi.1> <http://knowdive.disi.unitn.it/etype#has_longitudeT> "11.11596" .
+<http://localhost:8080/source/taxi.1> <http://knowdive.disi.unitn.it/etype#id_nameT> "TAXI TRENTO - VIA DELLA SCIENZA E DEL LAVORO" .
+<http://localhost:8080/source/taxi.1> <http://knowdive.disi.unitn.it/etype#has_addressT> "via della Scienza e del Lavoro" .
+<http://localhost:8080/source/taxi.1> <http://knowdive.disi.unitn.it/etype#has_latitudeT> "46.059791" .
+
+<http://localhost:8080/source/taxi.2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Taxi> .
+<http://localhost:8080/source/taxi.2> <http://knowdive.disi.unitn.it/etype#has_longitudeT> "11.121281" .
+<http://localhost:8080/source/taxi.2> <http://knowdive.disi.unitn.it/etype#has_houseNumberT> "45" .
+<http://localhost:8080/source/taxi.2> <http://knowdive.disi.unitn.it/etype#has_addressT> "piazza Duomo" .
+<http://localhost:8080/source/taxi.2> <http://knowdive.disi.unitn.it/etype#id_nameT> "TAXI TRENTO - PIAZZA DUOMO" .
+<http://localhost:8080/source/taxi.2> <http://knowdive.disi.unitn.it/etype#has_latitudeT> "46.067866" .
+
+<http://localhost:8080/source/taxi.3> <http://knowdive.disi.unitn.it/etype#has_houseNumberT> "9" .
+<http://localhost:8080/source/taxi.3> <http://knowdive.disi.unitn.it/etype#id_nameT> "TAXI TRENTO - PIAZZA DANTE" .
+<http://localhost:8080/source/taxi.3> <http://knowdive.disi.unitn.it/etype#has_addressT> "piazza Dante" .
+<http://localhost:8080/source/taxi.3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Taxi> .
+<http://localhost:8080/source/taxi.3> <http://knowdive.disi.unitn.it/etype#has_longitudeT> "11.121362" .
+<http://localhost:8080/source/taxi.3> <http://knowdive.disi.unitn.it/etype#has_latitudeT> "46.072017" .
+
+<http://localhost:8080/source/taxi.4> <http://knowdive.disi.unitn.it/etype#has_addressT> "via Petrarca" .
+<http://localhost:8080/source/taxi.4> <http://knowdive.disi.unitn.it/etype#has_latitudeT> "46.074755" .
+<http://localhost:8080/source/taxi.4> <http://knowdive.disi.unitn.it/etype#has_houseNumberT> "8" .
+<http://localhost:8080/source/taxi.4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Taxi> .
+<http://localhost:8080/source/taxi.4> <http://knowdive.disi.unitn.it/etype#id_nameT> "TAXI TRENTO - VIA PETRARCA" .
+<http://localhost:8080/source/taxi.4> <http://knowdive.disi.unitn.it/etype#has_longitudeT> "11.123907" .
+
+<http://localhost:8080/source/taxi.5> <http://knowdive.disi.unitn.it/etype#has_latitudeT> "46.075811" .
+<http://localhost:8080/source/taxi.5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Taxi> .
+<http://localhost:8080/source/taxi.5> <http://knowdive.disi.unitn.it/etype#has_longitudeT> "11.109615" .
+<http://localhost:8080/source/taxi.5> <http://knowdive.disi.unitn.it/etype#has_addressT> "piazzale Zuffo" .
+<http://localhost:8080/source/taxi.5> <http://knowdive.disi.unitn.it/etype#id_nameT> "TAXI TRENTO - PIAZZALE ZUFFO" .
+
+<http://localhost:8080/source/taxi.6> <http://knowdive.disi.unitn.it/etype#has_latitudeT> "46.090976" .
+<http://localhost:8080/source/taxi.6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Taxi> .
+<http://localhost:8080/source/taxi.6> <http://knowdive.disi.unitn.it/etype#has_addressT> "via Gilli" .
+<http://localhost:8080/source/taxi.6> <http://knowdive.disi.unitn.it/etype#has_longitudeT> "11.118946" .
+<http://localhost:8080/source/taxi.6> <http://knowdive.disi.unitn.it/etype#id_nameT> "TAXI TRENTO - VIA GILLI" .
+<http://localhost:8080/source/taxi.6> <http://knowdive.disi.unitn.it/etype#has_houseNumberT> "4" .
+
+<http://localhost:8080/source/taxi.7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Taxi> .
+<http://localhost:8080/source/taxi.7> <http://knowdive.disi.unitn.it/etype#has_longitudeT> "11.129531" .
+<http://localhost:8080/source/taxi.7> <http://knowdive.disi.unitn.it/etype#has_addressT> "via Degasperi" .
+<http://localhost:8080/source/taxi.7> <http://knowdive.disi.unitn.it/etype#has_houseNumberT> "77" .
+<http://localhost:8080/source/taxi.7> <http://knowdive.disi.unitn.it/etype#has_latitudeT> "46.044135" .
+<http://localhost:8080/source/taxi.7> <http://knowdive.disi.unitn.it/etype#id_nameT> "TAXI TRENTO - VIA DEGASPERI" .
+
+<http://localhost:8080/source/taxi.8> <http://knowdive.disi.unitn.it/etype#id_nameT> "TAXI TRENTO - LARGO MEDAGLIE D'ORO" .
+<http://localhost:8080/source/taxi.8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Taxi> .
+<http://localhost:8080/source/taxi.8> <http://knowdive.disi.unitn.it/etype#has_addressT> "Largo Medaglie d'oro" .
+<http://localhost:8080/source/taxi.8> <http://knowdive.disi.unitn.it/etype#has_houseNumberT> "9" .
+<http://localhost:8080/source/taxi.8> <http://knowdive.disi.unitn.it/etype#has_longitudeT> "11.132683" .
+<http://localhost:8080/source/taxi.8> <http://knowdive.disi.unitn.it/etype#has_latitudeT> "46.057744" .
+

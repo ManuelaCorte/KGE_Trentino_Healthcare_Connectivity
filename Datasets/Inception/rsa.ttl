@@ -1,0 +1,1162 @@
+<http://localhost:8080/source/STR042101010401S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101010401S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.601377" .
+<http://localhost:8080/source/STR042101010401S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA E SOTTSASS" .
+<http://localhost:8080/source/STR042101010401S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22147" .
+<http://localhost:8080/source/STR042101010401S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101010401S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38037" .
+<http://localhost:8080/source/STR042101010401S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "11" .
+<http://localhost:8080/source/STR042101010401S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "PREDAZZO" .
+<http://localhost:8080/source/STR042101010401S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.313561" .
+<http://localhost:8080/source/STR042101010401S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101010401S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101010401S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA -  RSA PREDAZZO" .
+
+<http://localhost:8080/source/STR042101010601S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101010601S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101010601S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.28919" .
+<http://localhost:8080/source/STR042101010601S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA GIOVANELLI" .
+<http://localhost:8080/source/STR042101010601S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38038" .
+<http://localhost:8080/source/STR042101010601S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101010601S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101010601S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA TESERO" .
+<http://localhost:8080/source/STR042101010601S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "12" .
+<http://localhost:8080/source/STR042101010601S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TESERO" .
+<http://localhost:8080/source/STR042101010601S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22196" .
+<http://localhost:8080/source/STR042101010601S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.510085" .
+
+<http://localhost:8080/source/STR042101020301S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.155424" .
+<http://localhost:8080/source/STR042101020301S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "15" .
+<http://localhost:8080/source/STR042101020301S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38050" .
+<http://localhost:8080/source/STR042101020301S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101020301S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "CANAL SAN BOVO" .
+<http://localhost:8080/source/STR042101020301S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA CANAL S.BOVO" .
+<http://localhost:8080/source/STR042101020301S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101020301S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101020301S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.734069" .
+<http://localhost:8080/source/STR042101020301S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101020301S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22038" .
+<http://localhost:8080/source/STR042101020301S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA DANOLI" .
+
+<http://localhost:8080/source/STR042101020401S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "19" .
+<http://localhost:8080/source/STR042101020401S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.175432" .
+<http://localhost:8080/source/STR042101020401S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "PRIMIERO SAN MARTINO DI CASTROZZA" .
+<http://localhost:8080/source/STR042101020401S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38054" .
+<http://localhost:8080/source/STR042101020401S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101020401S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22245" .
+<http://localhost:8080/source/STR042101020401S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA TRANSACQUA" .
+<http://localhost:8080/source/STR042101020401S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIALE MARCONI" .
+<http://localhost:8080/source/STR042101020401S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101020401S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101020401S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101020401S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.824865" .
+
+<http://localhost:8080/source/STR042101030405S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - SCURELLE" .
+<http://localhost:8080/source/STR042101030405S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101030405S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.0639666" .
+<http://localhost:8080/source/STR042101030405S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38050" .
+<http://localhost:8080/source/STR042101030405S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "48" .
+<http://localhost:8080/source/STR042101030405S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101030405S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101030405S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101030405S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "SCURELLE" .
+<http://localhost:8080/source/STR042101030405S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.5127521" .
+<http://localhost:8080/source/STR042101030405S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA XV AGOSTO" .
+<http://localhost:8080/source/STR042101030405S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22171" .
+
+<http://localhost:8080/source/STR042101032001S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38053" .
+<http://localhost:8080/source/STR042101032001S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22048" .
+<http://localhost:8080/source/STR042101032001S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.633137" .
+<http://localhost:8080/source/STR042101032001S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101032001S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101032001S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101032001S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101032001S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.064522" .
+<http://localhost:8080/source/STR042101032001S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "CASTELLO TESINO" .
+<http://localhost:8080/source/STR042101032001S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA CASTELLO TESINO" .
+<http://localhost:8080/source/STR042101032001S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "V OSPEDALE" .
+<http://localhost:8080/source/STR042101032001S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "12" .
+
+<http://localhost:8080/source/STR042101032002S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.632966" .
+<http://localhost:8080/source/STR042101032002S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.061351" .
+<http://localhost:8080/source/STR042101032002S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22048" .
+<http://localhost:8080/source/STR042101032002S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101032002S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "CASTELLO TESINO" .
+<http://localhost:8080/source/STR042101032002S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101032002S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38051" .
+<http://localhost:8080/source/STR042101032002S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101032002S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - CASTELLO TESINO" .
+<http://localhost:8080/source/STR042101032002S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "1" .
+<http://localhost:8080/source/STR042101032002S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101032002S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA F LLI BALLERIN" .
+
+<http://localhost:8080/source/STR042101032101S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101032101S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA PIEVE TESINO" .
+<http://localhost:8080/source/STR042101032101S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "19" .
+<http://localhost:8080/source/STR042101032101S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101032101S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101032101S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38050" .
+<http://localhost:8080/source/STR042101032101S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.633105" .
+<http://localhost:8080/source/STR042101032101S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA BATTAGLION FELTRE" .
+<http://localhost:8080/source/STR042101032101S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22142" .
+<http://localhost:8080/source/STR042101032101S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "PIEVE TESINO" .
+<http://localhost:8080/source/STR042101032101S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.065043" .
+<http://localhost:8080/source/STR042101032101S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+
+<http://localhost:8080/source/STR042101032201S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA STRIGNO" .
+<http://localhost:8080/source/STR042101032201S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22240" .
+<http://localhost:8080/source/STR042101032201S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "CASTEL IVANO" .
+<http://localhost:8080/source/STR042101032201S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38059" .
+<http://localhost:8080/source/STR042101032201S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101032201S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.525145" .
+<http://localhost:8080/source/STR042101032201S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101032201S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA BORGO ALLOCCO" .
+<http://localhost:8080/source/STR042101032201S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101032201S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.06942" .
+<http://localhost:8080/source/STR042101032201S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101032201S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "2" .
+
+<http://localhost:8080/source/STR042101032301S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101032301S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA ALLE FONTI" .
+<http://localhost:8080/source/STR042101032301S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38050" .
+<http://localhost:8080/source/STR042101032301S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "1" .
+<http://localhost:8080/source/STR042101032301S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA RONCEGNO" .
+<http://localhost:8080/source/STR042101032301S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101032301S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.05322" .
+<http://localhost:8080/source/STR042101032301S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.406355" .
+<http://localhost:8080/source/STR042101032301S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "RONCEGNO TERME" .
+<http://localhost:8080/source/STR042101032301S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101032301S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101032301S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22156" .
+
+<http://localhost:8080/source/STR042101032401S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101032401S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22022" .
+<http://localhost:8080/source/STR042101032401S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38051" .
+<http://localhost:8080/source/STR042101032401S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.468989" .
+<http://localhost:8080/source/STR042101032401S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.058153" .
+<http://localhost:8080/source/STR042101032401S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "BORGO VALSUGANA" .
+<http://localhost:8080/source/STR042101032401S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101032401S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA BORGO VALSUGANA" .
+<http://localhost:8080/source/STR042101032401S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101032401S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101032401S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "7" .
+<http://localhost:8080/source/STR042101032401S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA PER TELVE" .
+
+<http://localhost:8080/source/STR042101032501S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38055" .
+<http://localhost:8080/source/STR042101032501S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101032501S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101032501S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101032501S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA VITTORIO EMANUELE" .
+<http://localhost:8080/source/STR042101032501S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.016024" .
+<http://localhost:8080/source/STR042101032501S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.633234" .
+<http://localhost:8080/source/STR042101032501S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "131" .
+<http://localhost:8080/source/STR042101032501S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101032501S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA GRIGNO" .
+<http://localhost:8080/source/STR042101032501S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22095" .
+<http://localhost:8080/source/STR042101032501S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "GRIGNO" .
+
+<http://localhost:8080/source/STR042101040104S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22139" .
+<http://localhost:8080/source/STR042101040104S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA S  PIETRO" .
+<http://localhost:8080/source/STR042101040104S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.2449" .
+<http://localhost:8080/source/STR042101040104S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101040104S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.0633" .
+<http://localhost:8080/source/STR042101040104S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101040104S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "APSS - RSA PSICHIATRICA" .
+<http://localhost:8080/source/STR042101040104S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101040104S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38057" .
+<http://localhost:8080/source/STR042101040104S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101040104S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "2" .
+<http://localhost:8080/source/STR042101040104S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+
+<http://localhost:8080/source/STR042101041201S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101041201S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101041201S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.243005" .
+<http://localhost:8080/source/STR042101041201S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "4" .
+<http://localhost:8080/source/STR042101041201S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101041201S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA PERGINE" .
+<http://localhost:8080/source/STR042101041201S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101041201S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22139" .
+<http://localhost:8080/source/STR042101041201S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38057" .
+<http://localhost:8080/source/STR042101041201S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101041201S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.063539" .
+<http://localhost:8080/source/STR042101041201S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA MARCONI" .
+
+<http://localhost:8080/source/STR042101041204S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38057" .
+<http://localhost:8080/source/STR042101041204S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA MARCONI" .
+<http://localhost:8080/source/STR042101041204S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101041204S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.2429" .
+<http://localhost:8080/source/STR042101041204S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101041204S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - PERGINE" .
+<http://localhost:8080/source/STR042101041204S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "4" .
+<http://localhost:8080/source/STR042101041204S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.064968" .
+<http://localhost:8080/source/STR042101041204S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101041204S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22139" .
+<http://localhost:8080/source/STR042101041204S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101041204S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+
+<http://localhost:8080/source/STR042101041205S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101041205S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101041205S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "PERGINE VALSUGANA" .
+<http://localhost:8080/source/STR042101041205S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PRESA IN CARICO DEMENZE APSP" .
+<http://localhost:8080/source/STR042101041205S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "4" .
+<http://localhost:8080/source/STR042101041205S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA MARCONI" .
+<http://localhost:8080/source/STR042101041205S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22139" .
+<http://localhost:8080/source/STR042101041205S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38057" .
+<http://localhost:8080/source/STR042101041205S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "46.064968" .
+<http://localhost:8080/source/STR042101041205S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "11.2429" .
+<http://localhost:8080/source/STR042101041205S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101041205S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+
+<http://localhost:8080/source/STR042101041301S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101041301S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101041301S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "65" .
+<http://localhost:8080/source/STR042101041301S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA C CAVOUR" .
+<http://localhost:8080/source/STR042101041301S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA LEVICO TERME" .
+<http://localhost:8080/source/STR042101041301S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.009411" .
+<http://localhost:8080/source/STR042101041301S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38056" .
+<http://localhost:8080/source/STR042101041301S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22104" .
+<http://localhost:8080/source/STR042101041301S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.302842" .
+<http://localhost:8080/source/STR042101041301S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "LEVICO TERME" .
+<http://localhost:8080/source/STR042101041301S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101041301S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+
+<http://localhost:8080/source/STR042101041304S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "LEVICO TERME" .
+<http://localhost:8080/source/STR042101041304S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA CASOTTE" .
+<http://localhost:8080/source/STR042101041304S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38056" .
+<http://localhost:8080/source/STR042101041304S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "2" .
+<http://localhost:8080/source/STR042101041304S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22104" .
+<http://localhost:8080/source/STR042101041304S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.009267" .
+<http://localhost:8080/source/STR042101041304S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101041304S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101041304S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.302676" .
+<http://localhost:8080/source/STR042101041304S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - LEVICO TERME" .
+<http://localhost:8080/source/STR042101041304S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101041304S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+
+<http://localhost:8080/source/STR042101041401S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101041401S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38042" .
+<http://localhost:8080/source/STR042101041401S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.103828" .
+<http://localhost:8080/source/STR042101041401S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101041401S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101041401S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.237955" .
+<http://localhost:8080/source/STR042101041401S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101041401S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA IV NOVEMBRE  MONTAGNAGA" .
+<http://localhost:8080/source/STR042101041401S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "29" .
+<http://localhost:8080/source/STR042101041401S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "BASELGA DI PINÈ" .
+<http://localhost:8080/source/STR042101041401S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "RSA - SPES VILLA ALPINA - BASELGA DI PINE'" .
+<http://localhost:8080/source/STR042101041401S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22009" .
+
+<http://localhost:8080/source/STR042101041601S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.005528" .
+<http://localhost:8080/source/STR042101041601S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "39" .
+<http://localhost:8080/source/STR042101041601S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101041601S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101041601S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38049" .
+<http://localhost:8080/source/STR042101041601S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101041601S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "ALTOPIANO DELLA VIGOLANA" .
+<http://localhost:8080/source/STR042101041601S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.20397" .
+<http://localhost:8080/source/STR042101041601S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101041601S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA AL CASTELLO" .
+<http://localhost:8080/source/STR042101041601S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CASA SANTA MARIA - COOP. KALEIDOSCOPIO SCS" .
+<http://localhost:8080/source/STR042101041601S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22236" .
+
+<http://localhost:8080/source/STR042101050502S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101050502S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA GIOVANELLI" .
+<http://localhost:8080/source/STR042101050502S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101050502S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101050502S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101050502S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38122" .
+<http://localhost:8080/source/STR042101050502S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101050502S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "RSAO S. CAMILLO" .
+<http://localhost:8080/source/STR042101050502S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101050502S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.065474" .
+<http://localhost:8080/source/STR042101050502S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.131722" .
+<http://localhost:8080/source/STR042101050502S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "19" .
+
+<http://localhost:8080/source/STR042101052000S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38122" .
+<http://localhost:8080/source/STR042101052000S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052000S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.0456343" .
+<http://localhost:8080/source/STR042101052000S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101052000S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052000S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101052000S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "156" .
+<http://localhost:8080/source/STR042101052000S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101052000S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - CIVICA TRENTO - S.BARTOLOMEO" .
+<http://localhost:8080/source/STR042101052000S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA DELLA MALPENSADA" .
+<http://localhost:8080/source/STR042101052000S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.1325757" .
+<http://localhost:8080/source/STR042101052000S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+
+<http://localhost:8080/source/STR042101052001S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052001S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052001S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101052001S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA PIAVE" .
+<http://localhost:8080/source/STR042101052001S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101052001S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - \"BEATO DE TSCHIDERER\" -" .
+<http://localhost:8080/source/STR042101052001S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38122" .
+<http://localhost:8080/source/STR042101052001S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101052001S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "108" .
+<http://localhost:8080/source/STR042101052001S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052001S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.126997" .
+<http://localhost:8080/source/STR042101052001S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.063465" .
+
+<http://localhost:8080/source/STR042101052002S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.972357" .
+<http://localhost:8080/source/STR042101052002S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA OSPEDALE" .
+<http://localhost:8080/source/STR042101052002S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "CAVEDINE" .
+<http://localhost:8080/source/STR042101052002S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22053" .
+<http://localhost:8080/source/STR042101052002S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101052002S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "24" .
+<http://localhost:8080/source/STR042101052002S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA CAVEDINE" .
+<http://localhost:8080/source/STR042101052002S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.9947176" .
+<http://localhost:8080/source/STR042101052002S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38073" .
+<http://localhost:8080/source/STR042101052002S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052002S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052002S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+
+<http://localhost:8080/source/STR042101052003S09> <http://knowdive.disi.unitn.it/etype#has_districtRE> "POVO" .
+<http://localhost:8080/source/STR042101052003S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA DELLA RESISTENZA" .
+<http://localhost:8080/source/STR042101052003S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052003S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101052003S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101052003S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "63" .
+<http://localhost:8080/source/STR042101052003S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052003S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052003S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.068501" .
+<http://localhost:8080/source/STR042101052003S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101052003S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA POVO" .
+<http://localhost:8080/source/STR042101052003S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38123" .
+<http://localhost:8080/source/STR042101052003S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.160766" .
+
+<http://localhost:8080/source/STR042101052004S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22116" .
+<http://localhost:8080/source/STR042101052004S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38016" .
+<http://localhost:8080/source/STR042101052004S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.231153" .
+<http://localhost:8080/source/STR042101052004S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "MEZZOCORONA" .
+<http://localhost:8080/source/STR042101052004S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.119423" .
+<http://localhost:8080/source/STR042101052004S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "38" .
+<http://localhost:8080/source/STR042101052004S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052004S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA MEZZOCORONA" .
+<http://localhost:8080/source/STR042101052004S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052004S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052004S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA B CRISTANI" .
+<http://localhost:8080/source/STR042101052004S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+
+<http://localhost:8080/source/STR042101052005S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA DAMIANO CHIESA" .
+<http://localhost:8080/source/STR042101052005S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052005S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA MEZZOLOMBARDO" .
+<http://localhost:8080/source/STR042101052005S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.212968" .
+<http://localhost:8080/source/STR042101052005S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22117" .
+<http://localhost:8080/source/STR042101052005S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.09631" .
+<http://localhost:8080/source/STR042101052005S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052005S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052005S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38017" .
+<http://localhost:8080/source/STR042101052005S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "MEZZOLOMBARDO" .
+<http://localhost:8080/source/STR042101052005S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101052005S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "6" .
+
+<http://localhost:8080/source/STR042101052007S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052007S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.125229" .
+<http://localhost:8080/source/STR042101052007S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "RSA - SPES VIA VENETO - TRENTO" .
+<http://localhost:8080/source/STR042101052007S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "63" .
+<http://localhost:8080/source/STR042101052007S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.059552" .
+<http://localhost:8080/source/STR042101052007S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101052007S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA VENETO" .
+<http://localhost:8080/source/STR042101052007S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101052007S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38122" .
+<http://localhost:8080/source/STR042101052007S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101052007S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052007S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+
+<http://localhost:8080/source/STR042101052008S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052008S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.150021" .
+<http://localhost:8080/source/STR042101052008S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052008S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052008S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38123" .
+<http://localhost:8080/source/STR042101052008S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101052008S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "12" .
+<http://localhost:8080/source/STR042101052008S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA VILLA BELFONTE" .
+<http://localhost:8080/source/STR042101052008S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "RSA - SPES VILLA BELFONTE - TRENTO" .
+<http://localhost:8080/source/STR042101052008S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.045064" .
+<http://localhost:8080/source/STR042101052008S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101052008S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+
+<http://localhost:8080/source/STR042101052009S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA ORTI" .
+<http://localhost:8080/source/STR042101052009S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052009S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA LAVIS" .
+<http://localhost:8080/source/STR042101052009S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "LAVIS" .
+<http://localhost:8080/source/STR042101052009S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22103" .
+<http://localhost:8080/source/STR042101052009S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052009S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "50" .
+<http://localhost:8080/source/STR042101052009S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101052009S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.136261" .
+<http://localhost:8080/source/STR042101052009S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052009S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.111185" .
+<http://localhost:8080/source/STR042101052009S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38015" .
+
+<http://localhost:8080/source/STR042101052011S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052011S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101052011S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052011S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA DELLA COLLINA" .
+<http://localhost:8080/source/STR042101052011S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.069457" .
+<http://localhost:8080/source/STR042101052011S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052011S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38121" .
+<http://localhost:8080/source/STR042101052011S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101052011S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA CIVICA ANGELI CUSTODI" .
+<http://localhost:8080/source/STR042101052011S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.130534" .
+<http://localhost:8080/source/STR042101052011S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "2" .
+<http://localhost:8080/source/STR042101052011S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+
+<http://localhost:8080/source/STR042101052012S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052012S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052012S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.051609" .
+<http://localhost:8080/source/STR042101052012S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA CIVICA GABBIOLO" .
+<http://localhost:8080/source/STR042101052012S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.149423" .
+<http://localhost:8080/source/STR042101052012S09> <http://knowdive.disi.unitn.it/etype#has_districtRE> "GABBIOLO DI POVO" .
+<http://localhost:8080/source/STR042101052012S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38123" .
+<http://localhost:8080/source/STR042101052012S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA ZNOJMO" .
+<http://localhost:8080/source/STR042101052012S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "16" .
+<http://localhost:8080/source/STR042101052012S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052012S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101052012S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101052012S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+
+<http://localhost:8080/source/STR042101052013S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA AEROPORTO" .
+<http://localhost:8080/source/STR042101052013S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "38" .
+<http://localhost:8080/source/STR042101052013S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.100706" .
+<http://localhost:8080/source/STR042101052013S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.107495" .
+<http://localhost:8080/source/STR042101052013S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101052013S09> <http://knowdive.disi.unitn.it/etype#has_districtRE> "GARDOLO" .
+<http://localhost:8080/source/STR042101052013S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA CIVICA GARDOLO" .
+<http://localhost:8080/source/STR042101052013S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101052013S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101052013S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052013S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052013S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101052013S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38121" .
+
+<http://localhost:8080/source/STR042101052014S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.109338" .
+<http://localhost:8080/source/STR042101052014S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052014S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - GARDOLO - TN" .
+<http://localhost:8080/source/STR042101052014S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA S ANNA" .
+<http://localhost:8080/source/STR042101052014S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38121" .
+<http://localhost:8080/source/STR042101052014S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101052014S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.110928" .
+<http://localhost:8080/source/STR042101052014S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "5" .
+<http://localhost:8080/source/STR042101052014S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101052014S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052014S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101052014S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+
+<http://localhost:8080/source/STR042101052016S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101052016S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101052016S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38123" .
+<http://localhost:8080/source/STR042101052016S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052016S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052016S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101052016S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA GRAMSCI" .
+<http://localhost:8080/source/STR042101052016S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.12469" .
+<http://localhost:8080/source/STR042101052016S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "36" .
+<http://localhost:8080/source/STR042101052016S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101052016S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.053467" .
+<http://localhost:8080/source/STR042101052016S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - CLARINA - TN" .
+
+<http://localhost:8080/source/STR042101052017S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101052017S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.107456" .
+<http://localhost:8080/source/STR042101052017S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "4" .
+<http://localhost:8080/source/STR042101052017S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.038443" .
+<http://localhost:8080/source/STR042101052017S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101052017S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052017S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - RAVINA - TN" .
+<http://localhost:8080/source/STR042101052017S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052017S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101052017S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101052017S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA BELVEDERE" .
+<http://localhost:8080/source/STR042101052017S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38123" .
+
+<http://localhost:8080/source/STR042101052018S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "6" .
+<http://localhost:8080/source/STR042101052018S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101052018S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38123" .
+<http://localhost:8080/source/STR042101052018S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101052018S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.12842" .
+<http://localhost:8080/source/STR042101052018S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - MATTARELLO - TN" .
+<http://localhost:8080/source/STR042101052018S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101052018S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA DON TRENTINI" .
+<http://localhost:8080/source/STR042101052018S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052018S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052018S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.005099" .
+<http://localhost:8080/source/STR042101052018S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+
+<http://localhost:8080/source/STR042101052019S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052019S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.161066" .
+<http://localhost:8080/source/STR042101052019S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101052019S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101052019S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.069256" .
+<http://localhost:8080/source/STR042101052019S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101052019S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "61/F" .
+<http://localhost:8080/source/STR042101052019S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101052019S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - POVO - TN" .
+<http://localhost:8080/source/STR042101052019S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38123" .
+<http://localhost:8080/source/STR042101052019S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA DELLA RESISTENZA" .
+<http://localhost:8080/source/STR042101052019S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+
+<http://localhost:8080/source/STR042101052020S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101052020S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA S GIOVANNI BOSCO" .
+<http://localhost:8080/source/STR042101052020S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101052020S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101052020S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101052020S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "10" .
+<http://localhost:8080/source/STR042101052020S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.064656" .
+<http://localhost:8080/source/STR042101052020S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38122" .
+<http://localhost:8080/source/STR042101052020S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101052020S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052020S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.126563" .
+<http://localhost:8080/source/STR042101052020S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO ALZHEIMER - TRENTO" .
+
+<http://localhost:8080/source/STR042101055401S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.120083" .
+<http://localhost:8080/source/STR042101055401S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38123" .
+<http://localhost:8080/source/STR042101055401S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101055401S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101055401S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101055401S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "138" .
+<http://localhost:8080/source/STR042101055401S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "RSA - SPES CASA FAMIGLIA - TRENTO" .
+<http://localhost:8080/source/STR042101055401S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA DELLA COLTURA" .
+<http://localhost:8080/source/STR042101055401S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101055401S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.065503" .
+<http://localhost:8080/source/STR042101055401S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101055401S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101055401S09> <http://knowdive.disi.unitn.it/etype#has_districtRE> "LOC  CADINE" .
+
+<http://localhost:8080/source/STR042101056000S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "LOC  BEDIN" .
+<http://localhost:8080/source/STR042101056000S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.161795" .
+<http://localhost:8080/source/STR042101056000S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "CEMBRA LISIGNAGO" .
+<http://localhost:8080/source/STR042101056000S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "4" .
+<http://localhost:8080/source/STR042101056000S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101056000S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.198441" .
+<http://localhost:8080/source/STR042101056000S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101056000S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101056000S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38030" .
+<http://localhost:8080/source/STR042101056000S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22241" .
+<http://localhost:8080/source/STR042101056000S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101056000S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "RSA VALLE DI CEMBRA" .
+
+<http://localhost:8080/source/STR042101060401S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101060401S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA THOMAS A  EDISON" .
+<http://localhost:8080/source/STR042101060401S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101060401S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "20" .
+<http://localhost:8080/source/STR042101060401S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101060401S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101060401S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.065975" .
+<http://localhost:8080/source/STR042101060401S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22230" .
+<http://localhost:8080/source/STR042101060401S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA ANAUNIA" .
+<http://localhost:8080/source/STR042101060401S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "PREDAIA" .
+<http://localhost:8080/source/STR042101060401S09> <http://knowdive.disi.unitn.it/etype#has_districtRE> "LOC  TAIO" .
+<http://localhost:8080/source/STR042101060401S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38012" .
+<http://localhost:8080/source/STR042101060401S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.324779" .
+
+<http://localhost:8080/source/STR042101060501S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22062" .
+<http://localhost:8080/source/STR042101060501S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA CLES" .
+<http://localhost:8080/source/STR042101060501S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101060501S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38023" .
+<http://localhost:8080/source/STR042101060501S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.364397" .
+<http://localhost:8080/source/STR042101060501S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.029533" .
+<http://localhost:8080/source/STR042101060501S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "37" .
+<http://localhost:8080/source/STR042101060501S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101060501S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "CLES" .
+<http://localhost:8080/source/STR042101060501S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA CHINI" .
+<http://localhost:8080/source/STR042101060501S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101060501S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+
+<http://localhost:8080/source/STR042101060505S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - CLES" .
+<http://localhost:8080/source/STR042101060505S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.364397" .
+<http://localhost:8080/source/STR042101060505S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22062" .
+<http://localhost:8080/source/STR042101060505S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101060505S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101060505S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.029533" .
+<http://localhost:8080/source/STR042101060505S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "CLES" .
+<http://localhost:8080/source/STR042101060505S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "37" .
+<http://localhost:8080/source/STR042101060505S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA CHINI" .
+<http://localhost:8080/source/STR042101060505S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38023" .
+<http://localhost:8080/source/STR042101060505S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101060505S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+
+<http://localhost:8080/source/STR042101060601S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "FONDO" .
+<http://localhost:8080/source/STR042101060601S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.440599" .
+<http://localhost:8080/source/STR042101060601S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "RSA - STELLA MONTIS - FONDO" .
+<http://localhost:8080/source/STR042101060601S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101060601S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101060601S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.135037" .
+<http://localhost:8080/source/STR042101060601S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA S LUCIA" .
+<http://localhost:8080/source/STR042101060601S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101060601S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101060601S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22088" .
+<http://localhost:8080/source/STR042101060601S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "11" .
+<http://localhost:8080/source/STR042101060601S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38050" .
+
+<http://localhost:8080/source/STR042101071201S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101071201S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA MALE'" .
+<http://localhost:8080/source/STR042101071201S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.907661" .
+<http://localhost:8080/source/STR042101071201S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "MALÈ" .
+<http://localhost:8080/source/STR042101071201S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.356643" .
+<http://localhost:8080/source/STR042101071201S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101071201S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "4/A" .
+<http://localhost:8080/source/STR042101071201S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101071201S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22110" .
+<http://localhost:8080/source/STR042101071201S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIALE IV NOVEMBRE" .
+<http://localhost:8080/source/STR042101071201S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101071201S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38027" .
+
+<http://localhost:8080/source/STR042101071202S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIALE IV NOVEMBRE" .
+<http://localhost:8080/source/STR042101071202S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101071202S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "MALÈ" .
+<http://localhost:8080/source/STR042101071202S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "4/A" .
+<http://localhost:8080/source/STR042101071202S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101071202S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.351181" .
+<http://localhost:8080/source/STR042101071202S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22110" .
+<http://localhost:8080/source/STR042101071202S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38027" .
+<http://localhost:8080/source/STR042101071202S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO ANZIANI - MALE'" .
+<http://localhost:8080/source/STR042101071202S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.91003" .
+<http://localhost:8080/source/STR042101071202S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101071202S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+
+<http://localhost:8080/source/STR042101071301S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22137" .
+<http://localhost:8080/source/STR042101071301S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "PELLIZZANO" .
+<http://localhost:8080/source/STR042101071301S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.907993" .
+<http://localhost:8080/source/STR042101071301S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101071301S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.310982" .
+<http://localhost:8080/source/STR042101071301S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA DEI BASCHENIS" .
+<http://localhost:8080/source/STR042101071301S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101071301S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101071301S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101071301S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38024" .
+<http://localhost:8080/source/STR042101071301S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "6" .
+<http://localhost:8080/source/STR042101071301S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA PELLIZZANO" .
+
+<http://localhost:8080/source/STR042101080103S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101080103S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "APSS - RSO TIONE" .
+<http://localhost:8080/source/STR042101080103S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101080103S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.0413" .
+<http://localhost:8080/source/STR042101080103S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101080103S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.7244" .
+<http://localhost:8080/source/STR042101080103S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22199" .
+<http://localhost:8080/source/STR042101080103S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101080103S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TIONE DI TRENTO" .
+<http://localhost:8080/source/STR042101080103S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38079" .
+<http://localhost:8080/source/STR042101080103S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "C/O OSPEDALE" .
+
+<http://localhost:8080/source/STR042101080107S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101080107S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22199" .
+<http://localhost:8080/source/STR042101080107S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TIONE DI TRENTO" .
+<http://localhost:8080/source/STR042101080107S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA MONS  PERLI" .
+<http://localhost:8080/source/STR042101080107S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101080107S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "11" .
+<http://localhost:8080/source/STR042101080107S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.034903" .
+<http://localhost:8080/source/STR042101080107S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101080107S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.72641" .
+<http://localhost:8080/source/STR042101080107S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38079" .
+<http://localhost:8080/source/STR042101080107S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - TIONE" .
+<http://localhost:8080/source/STR042101080107S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+
+<http://localhost:8080/source/STR042101080202S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101080202S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.889396" .
+<http://localhost:8080/source/STR042101080202S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.598116" .
+<http://localhost:8080/source/STR042101080202S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101080202S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22238" .
+<http://localhost:8080/source/STR042101080202S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA BATTISTI" .
+<http://localhost:8080/source/STR042101080202S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA CONDINO" .
+<http://localhost:8080/source/STR042101080202S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "BORGO CHIESE" .
+<http://localhost:8080/source/STR042101080202S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101080202S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101080202S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "6" .
+<http://localhost:8080/source/STR042101080202S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38083" .
+
+<http://localhost:8080/source/STR042101080203S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.10398" .
+<http://localhost:8080/source/STR042101080203S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101080203S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "SPIAZZO" .
+<http://localhost:8080/source/STR042101080203S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38088" .
+<http://localhost:8080/source/STR042101080203S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101080203S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "13" .
+<http://localhost:8080/source/STR042101080203S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22179" .
+<http://localhost:8080/source/STR042101080203S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.736351" .
+<http://localhost:8080/source/STR042101080203S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101080203S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA S VIGILIO" .
+<http://localhost:8080/source/STR042101080203S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101080203S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA SPIAZZO" .
+
+<http://localhost:8080/source/STR042101080207S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38083" .
+<http://localhost:8080/source/STR042101080207S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "BORGO CHIESE" .
+<http://localhost:8080/source/STR042101080207S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA C  BATTISTI" .
+<http://localhost:8080/source/STR042101080207S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "6" .
+<http://localhost:8080/source/STR042101080207S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101080207S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101080207S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.889396" .
+<http://localhost:8080/source/STR042101080207S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22238" .
+<http://localhost:8080/source/STR042101080207S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101080207S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.598116" .
+<http://localhost:8080/source/STR042101080207S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101080207S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - CONDINO" .
+
+<http://localhost:8080/source/STR042101080301S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22017" .
+<http://localhost:8080/source/STR042101080301S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101080301S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101080301S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101080301S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "BLEGGIO SUPERIORE" .
+<http://localhost:8080/source/STR042101080301S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA BLEGGIO SUPERIORE" .
+<http://localhost:8080/source/STR042101080301S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38071" .
+<http://localhost:8080/source/STR042101080301S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.038446" .
+<http://localhost:8080/source/STR042101080301S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "41" .
+<http://localhost:8080/source/STR042101080301S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101080301S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.836639" .
+<http://localhost:8080/source/STR042101080301S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "FR S CROCE" .
+
+<http://localhost:8080/source/STR042101080402S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "46.05525" .
+<http://localhost:8080/source/STR042101080402S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "10.713303" .
+<http://localhost:8080/source/STR042101080402S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "PORTE DI RENDENA" .
+<http://localhost:8080/source/STR042101080402S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38080" .
+<http://localhost:8080/source/STR042101080402S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "C/O CASA APERTA PER ANZIANI" .
+<http://localhost:8080/source/STR042101080402S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101080402S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101080402S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - VILLA RENDENA" .
+<http://localhost:8080/source/STR042101080402S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22244" .
+<http://localhost:8080/source/STR042101080402S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101080402S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+
+<http://localhost:8080/source/STR042101081700S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101081700S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101081700S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101081700S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38085" .
+<http://localhost:8080/source/STR042101081700S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "1" .
+<http://localhost:8080/source/STR042101081700S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.644529" .
+<http://localhost:8080/source/STR042101081700S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "PIEVE DI BONO-PREZZO" .
+<http://localhost:8080/source/STR042101081700S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA PIEVE DI BONO" .
+<http://localhost:8080/source/STR042101081700S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101081700S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "FRAZIONE STRADA" .
+<http://localhost:8080/source/STR042101081700S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.946465" .
+<http://localhost:8080/source/STR042101081700S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22234" .
+
+<http://localhost:8080/source/STR042101081901S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101081901S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA STORO" .
+<http://localhost:8080/source/STR042101081901S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.848487" .
+<http://localhost:8080/source/STR042101081901S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101081901S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.57462" .
+<http://localhost:8080/source/STR042101081901S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA SETTE PIEVI" .
+<http://localhost:8080/source/STR042101081901S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101081901S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "STORO" .
+<http://localhost:8080/source/STR042101081901S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101081901S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "9" .
+<http://localhost:8080/source/STR042101081901S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38089" .
+<http://localhost:8080/source/STR042101081901S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22183" .
+
+<http://localhost:8080/source/STR042101082101S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101082101S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.159175" .
+<http://localhost:8080/source/STR042101082101S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101082101S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101082101S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA GENOVA" .
+<http://localhost:8080/source/STR042101082101S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22143" .
+<http://localhost:8080/source/STR042101082101S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38086" .
+<http://localhost:8080/source/STR042101082101S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.76201" .
+<http://localhost:8080/source/STR042101082101S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "PINZOLO" .
+<http://localhost:8080/source/STR042101082101S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "84" .
+<http://localhost:8080/source/STR042101082101S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101082101S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA PINZOLO" .
+
+<http://localhost:8080/source/STR042101092000S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101092000S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38060" .
+<http://localhost:8080/source/STR042101092000S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101092000S09> <http://knowdive.disi.unitn.it/etype#has_districtRE> "BEZZECCA" .
+<http://localhost:8080/source/STR042101092000S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA BEZZECCA" .
+<http://localhost:8080/source/STR042101092000S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.715561" .
+<http://localhost:8080/source/STR042101092000S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101092000S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101092000S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA G  CIS" .
+<http://localhost:8080/source/STR042101092000S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22229" .
+<http://localhost:8080/source/STR042101092000S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "45" .
+<http://localhost:8080/source/STR042101092000S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.917721" .
+<http://localhost:8080/source/STR042101092000S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "LEDRO" .
+
+<http://localhost:8080/source/STR042101092001S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101092001S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - BEZZECCA" .
+<http://localhost:8080/source/STR042101092001S09> <http://knowdive.disi.unitn.it/etype#has_districtRE> "LOC  BEZZECCA" .
+<http://localhost:8080/source/STR042101092001S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38067" .
+<http://localhost:8080/source/STR042101092001S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.722764" .
+<http://localhost:8080/source/STR042101092001S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22229" .
+<http://localhost:8080/source/STR042101092001S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.893867" .
+<http://localhost:8080/source/STR042101092001S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "LEDRO" .
+<http://localhost:8080/source/STR042101092001S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101092001S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101092001S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "47" .
+<http://localhost:8080/source/STR042101092001S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA G CIS" .
+<http://localhost:8080/source/STR042101092001S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+
+<http://localhost:8080/source/STR042101092100S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "RIVA DEL GARDA" .
+<http://localhost:8080/source/STR042101092100S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA ARDARO" .
+<http://localhost:8080/source/STR042101092100S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.892039" .
+<http://localhost:8080/source/STR042101092100S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101092100S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA RIVA DEL GARDA" .
+<http://localhost:8080/source/STR042101092100S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101092100S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101092100S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.841589" .
+<http://localhost:8080/source/STR042101092100S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22153" .
+<http://localhost:8080/source/STR042101092100S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101092100S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "20/A" .
+<http://localhost:8080/source/STR042101092100S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38066" .
+
+<http://localhost:8080/source/STR042101092101S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101092101S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "20/A" .
+<http://localhost:8080/source/STR042101092101S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101092101S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.892039" .
+<http://localhost:8080/source/STR042101092101S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22153" .
+<http://localhost:8080/source/STR042101092101S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "RIVA DEL GARDA" .
+<http://localhost:8080/source/STR042101092101S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.841589" .
+<http://localhost:8080/source/STR042101092101S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38066" .
+<http://localhost:8080/source/STR042101092101S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101092101S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - RIVA" .
+<http://localhost:8080/source/STR042101092101S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101092101S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA ARDARO" .
+
+<http://localhost:8080/source/STR042101092200S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA DRO" .
+<http://localhost:8080/source/STR042101092200S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.962229" .
+<http://localhost:8080/source/STR042101092200S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38074" .
+<http://localhost:8080/source/STR042101092200S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "DRO" .
+<http://localhost:8080/source/STR042101092200S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "9" .
+<http://localhost:8080/source/STR042101092200S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA MOLINO" .
+<http://localhost:8080/source/STR042101092200S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101092200S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101092200S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.913738" .
+<http://localhost:8080/source/STR042101092200S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101092200S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22079" .
+<http://localhost:8080/source/STR042101092200S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+
+<http://localhost:8080/source/STR042101092300S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101092300S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA ARCO" .
+<http://localhost:8080/source/STR042101092300S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101092300S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101092300S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.879609" .
+<http://localhost:8080/source/STR042101092300S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22006" .
+<http://localhost:8080/source/STR042101092300S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101092300S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "ARCO" .
+<http://localhost:8080/source/STR042101092300S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA STRAPPAZOCCHE" .
+<http://localhost:8080/source/STR042101092300S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.917956" .
+<http://localhost:8080/source/STR042101092300S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "18" .
+<http://localhost:8080/source/STR042101092300S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38062" .
+
+<http://localhost:8080/source/STR042101092301S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101092301S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101092301S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA STRAPPAZOCCHE" .
+<http://localhost:8080/source/STR042101092301S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22006" .
+<http://localhost:8080/source/STR042101092301S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "18" .
+<http://localhost:8080/source/STR042101092301S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38062" .
+<http://localhost:8080/source/STR042101092301S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - ARCO" .
+<http://localhost:8080/source/STR042101092301S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101092301S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.879609" .
+<http://localhost:8080/source/STR042101092301S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.917956" .
+<http://localhost:8080/source/STR042101092301S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "ARCO" .
+<http://localhost:8080/source/STR042101092301S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+
+<http://localhost:8080/source/STR042101092500S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "4" .
+<http://localhost:8080/source/STR042101092500S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "ARCO" .
+<http://localhost:8080/source/STR042101092500S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22006" .
+<http://localhost:8080/source/STR042101092500S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.876268" .
+<http://localhost:8080/source/STR042101092500S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101092500S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "RSA PICCOLE SUORE S.FAMIGLIA - ARCO" .
+<http://localhost:8080/source/STR042101092500S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101092500S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101092500S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.917617" .
+<http://localhost:8080/source/STR042101092500S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA NAS" .
+<http://localhost:8080/source/STR042101092500S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38062" .
+<http://localhost:8080/source/STR042101092500S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+
+<http://localhost:8080/source/STR042101100108S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA S MARIA" .
+<http://localhost:8080/source/STR042101100108S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22161" .
+<http://localhost:8080/source/STR042101100108S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "95" .
+<http://localhost:8080/source/STR042101100108S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101100108S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - LA CASA - ROVERETO" .
+<http://localhost:8080/source/STR042101100108S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101100108S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101100108S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.884757" .
+<http://localhost:8080/source/STR042101100108S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "ROVERETO" .
+<http://localhost:8080/source/STR042101100108S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101100108S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38068" .
+<http://localhost:8080/source/STR042101100108S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.04349" .
+
+<http://localhost:8080/source/STR042101100205S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101100205S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - ALA" .
+<http://localhost:8080/source/STR042101100205S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101100205S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101100205S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "4" .
+<http://localhost:8080/source/STR042101100205S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.0013118" .
+<http://localhost:8080/source/STR042101100205S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "ALA" .
+<http://localhost:8080/source/STR042101100205S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101100205S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38061" .
+<http://localhost:8080/source/STR042101100205S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22001" .
+<http://localhost:8080/source/STR042101100205S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.7568166" .
+<http://localhost:8080/source/STR042101100205S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "PIAZZA GIOVANNI XXIII" .
+
+<http://localhost:8080/source/STR042101100702S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22161" .
+<http://localhost:8080/source/STR042101100702S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101100702S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.898984" .
+<http://localhost:8080/source/STR042101100702S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101100702S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "RSAO SOLATRIX" .
+<http://localhost:8080/source/STR042101100702S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.045548" .
+<http://localhost:8080/source/STR042101100702S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101100702S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101100702S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "ROVERETO" .
+<http://localhost:8080/source/STR042101100702S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA BELLINI" .
+<http://localhost:8080/source/STR042101100702S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38068" .
+<http://localhost:8080/source/STR042101100702S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "11" .
+
+<http://localhost:8080/source/STR042101100703S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22161" .
+<http://localhost:8080/source/STR042101100703S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "ROVERETO" .
+<http://localhost:8080/source/STR042101100703S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.898984" .
+<http://localhost:8080/source/STR042101100703S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "RSA SOLATRIX - ST GESTIONI SOC.COOP. SOC." .
+<http://localhost:8080/source/STR042101100703S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101100703S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.045548" .
+<http://localhost:8080/source/STR042101100703S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38068" .
+<http://localhost:8080/source/STR042101100703S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA BELLINI" .
+<http://localhost:8080/source/STR042101100703S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101100703S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "11" .
+<http://localhost:8080/source/STR042101100703S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101100703S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+
+<http://localhost:8080/source/STR042101103001S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101103001S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103001S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101103001S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "6" .
+<http://localhost:8080/source/STR042101103001S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA ROVERETO VIA VANNETTI" .
+<http://localhost:8080/source/STR042101103001S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.889996" .
+<http://localhost:8080/source/STR042101103001S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38068" .
+<http://localhost:8080/source/STR042101103001S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22161" .
+<http://localhost:8080/source/STR042101103001S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA VANNETTI" .
+<http://localhost:8080/source/STR042101103001S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101103001S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.036813" .
+<http://localhost:8080/source/STR042101103001S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "ROVERETO" .
+
+<http://localhost:8080/source/STR042101103002S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103002S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "ROVERETO" .
+<http://localhost:8080/source/STR042101103002S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "7" .
+<http://localhost:8080/source/STR042101103002S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38068" .
+<http://localhost:8080/source/STR042101103002S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.887021" .
+<http://localhost:8080/source/STR042101103002S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA ROVERETO VIA FEDRIGOTTI" .
+<http://localhost:8080/source/STR042101103002S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101103002S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA FEDRIGOTTI" .
+<http://localhost:8080/source/STR042101103002S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22161" .
+<http://localhost:8080/source/STR042101103002S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.019874" .
+<http://localhost:8080/source/STR042101103002S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101103002S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+
+<http://localhost:8080/source/STR042101103003S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101103003S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103003S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101103003S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101103003S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.037437" .
+<http://localhost:8080/source/STR042101103003S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.889826" .
+<http://localhost:8080/source/STR042101103003S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22161" .
+<http://localhost:8080/source/STR042101103003S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38068" .
+<http://localhost:8080/source/STR042101103003S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "2" .
+<http://localhost:8080/source/STR042101103003S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA VANNETTI" .
+<http://localhost:8080/source/STR042101103003S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "ROVERETO" .
+<http://localhost:8080/source/STR042101103003S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - VANNETTI - ROVERETO" .
+
+<http://localhost:8080/source/STR042101103101S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA DEL GARDA" .
+<http://localhost:8080/source/STR042101103101S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.964928" .
+<http://localhost:8080/source/STR042101103101S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101103101S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103101S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "MORI" .
+<http://localhost:8080/source/STR042101103101S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38065" .
+<http://localhost:8080/source/STR042101103101S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22123" .
+<http://localhost:8080/source/STR042101103101S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "62" .
+<http://localhost:8080/source/STR042101103101S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA MORI" .
+<http://localhost:8080/source/STR042101103101S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101103101S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.868975" .
+<http://localhost:8080/source/STR042101103101S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+
+<http://localhost:8080/source/STR042101103102S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101103102S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.868975" .
+<http://localhost:8080/source/STR042101103102S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38065" .
+<http://localhost:8080/source/STR042101103102S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.964928" .
+<http://localhost:8080/source/STR042101103102S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101103102S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "MORI" .
+<http://localhost:8080/source/STR042101103102S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22123" .
+<http://localhost:8080/source/STR042101103102S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103102S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - MORI" .
+<http://localhost:8080/source/STR042101103102S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "54" .
+<http://localhost:8080/source/STR042101103102S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101103102S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA DEL GARDA" .
+
+<http://localhost:8080/source/STR042101103201S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103201S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "FOLGARIA" .
+<http://localhost:8080/source/STR042101103201S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22087" .
+<http://localhost:8080/source/STR042101103201S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.919513" .
+<http://localhost:8080/source/STR042101103201S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA FOLGARIA" .
+<http://localhost:8080/source/STR042101103201S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.167603" .
+<http://localhost:8080/source/STR042101103201S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101103201S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38064" .
+<http://localhost:8080/source/STR042101103201S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101103201S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA PAPA GIOVANNI XXIII" .
+<http://localhost:8080/source/STR042101103201S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "1" .
+<http://localhost:8080/source/STR042101103201S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+
+<http://localhost:8080/source/STR042101103203S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "FOLGARIA" .
+<http://localhost:8080/source/STR042101103203S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103203S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101103203S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38064" .
+<http://localhost:8080/source/STR042101103203S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "1" .
+<http://localhost:8080/source/STR042101103203S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101103203S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.1648721" .
+<http://localhost:8080/source/STR042101103203S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - FOLGARIA" .
+<http://localhost:8080/source/STR042101103203S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22087" .
+<http://localhost:8080/source/STR042101103203S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.914805" .
+<http://localhost:8080/source/STR042101103203S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101103203S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA PAPA GIOVANNI XXIII" .
+
+<http://localhost:8080/source/STR042101103301S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22025" .
+<http://localhost:8080/source/STR042101103301S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38060" .
+<http://localhost:8080/source/STR042101103301S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101103301S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA BALISTA  BRENTONICO" .
+<http://localhost:8080/source/STR042101103301S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101103301S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "7" .
+<http://localhost:8080/source/STR042101103301S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101103301S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA BRENTONICO" .
+<http://localhost:8080/source/STR042101103301S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103301S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.95871" .
+<http://localhost:8080/source/STR042101103301S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.817434" .
+<http://localhost:8080/source/STR042101103301S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "BRENTONICO" .
+
+<http://localhost:8080/source/STR042101103303S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38060" .
+<http://localhost:8080/source/STR042101103303S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.817434" .
+<http://localhost:8080/source/STR042101103303S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22025" .
+<http://localhost:8080/source/STR042101103303S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA BALISTA" .
+<http://localhost:8080/source/STR042101103303S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101103303S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.95871" .
+<http://localhost:8080/source/STR042101103303S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101103303S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - BRENTONICO" .
+<http://localhost:8080/source/STR042101103303S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103303S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "7" .
+<http://localhost:8080/source/STR042101103303S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "BRENTONICO" .
+<http://localhost:8080/source/STR042101103303S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+
+<http://localhost:8080/source/STR042101103401S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA CAMPAGNOLA" .
+<http://localhost:8080/source/STR042101103401S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.733699" .
+<http://localhost:8080/source/STR042101103401S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "5" .
+<http://localhost:8080/source/STR042101103401S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103401S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38063" .
+<http://localhost:8080/source/STR042101103401S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA AVIO" .
+<http://localhost:8080/source/STR042101103401S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "AVIO" .
+<http://localhost:8080/source/STR042101103401S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.937465" .
+<http://localhost:8080/source/STR042101103401S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22007" .
+<http://localhost:8080/source/STR042101103401S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101103401S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101103401S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+
+<http://localhost:8080/source/STR042101103402S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "5" .
+<http://localhost:8080/source/STR042101103402S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103402S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "10.937465" .
+<http://localhost:8080/source/STR042101103402S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101103402S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101103402S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.733699" .
+<http://localhost:8080/source/STR042101103402S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101103402S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38063" .
+<http://localhost:8080/source/STR042101103402S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA CAMPAGNOLA" .
+<http://localhost:8080/source/STR042101103402S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "AVIO" .
+<http://localhost:8080/source/STR042101103402S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22007" .
+<http://localhost:8080/source/STR042101103402S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - AVIO" .
+
+<http://localhost:8080/source/STR042101103501S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "NOMI" .
+<http://localhost:8080/source/STR042101103501S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38060" .
+<http://localhost:8080/source/STR042101103501S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "21" .
+<http://localhost:8080/source/STR042101103501S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101103501S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101103501S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA NOMI" .
+<http://localhost:8080/source/STR042101103501S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA ROMA" .
+<http://localhost:8080/source/STR042101103501S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.0729" .
+<http://localhost:8080/source/STR042101103501S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101103501S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.9295" .
+<http://localhost:8080/source/STR042101103501S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103501S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22128" .
+
+<http://localhost:8080/source/STR042101103502S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101103502S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "21" .
+<http://localhost:8080/source/STR042101103502S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.9295" .
+<http://localhost:8080/source/STR042101103502S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101103502S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA ROMA" .
+<http://localhost:8080/source/STR042101103502S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38060" .
+<http://localhost:8080/source/STR042101103502S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103502S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22128" .
+<http://localhost:8080/source/STR042101103502S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.0729" .
+<http://localhost:8080/source/STR042101103502S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101103502S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "NOMI" .
+<http://localhost:8080/source/STR042101103502S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO PER ANZIANI - NOMI" .
+
+<http://localhost:8080/source/STR042101103601S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "ROVERETO" .
+<http://localhost:8080/source/STR042101103601S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103601S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "6/B" .
+<http://localhost:8080/source/STR042101103601S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101103601S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "RSA PICCOLE SUORE S.FAMIGLIA - ROVERETO" .
+<http://localhost:8080/source/STR042101103601S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22161" .
+<http://localhost:8080/source/STR042101103601S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38068" .
+<http://localhost:8080/source/STR042101103601S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.939691" .
+<http://localhost:8080/source/STR042101103601S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101103601S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.049042" .
+<http://localhost:8080/source/STR042101103601S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101103601S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA SAIBANTI" .
+
+<http://localhost:8080/source/STR042101103602S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101103602S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38068" .
+<http://localhost:8080/source/STR042101103602S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO ALZHEIMER - ROVERETO" .
+<http://localhost:8080/source/STR042101103602S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101103602S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103602S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22161" .
+<http://localhost:8080/source/STR042101103602S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA SAIBANTI" .
+<http://localhost:8080/source/STR042101103602S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.939691" .
+<http://localhost:8080/source/STR042101103602S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "ROVERETO" .
+<http://localhost:8080/source/STR042101103602S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.049042" .
+<http://localhost:8080/source/STR042101103602S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101103602S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "6/B" .
+
+<http://localhost:8080/source/STR042101103701S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101103701S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38060" .
+<http://localhost:8080/source/STR042101103701S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "VALLARSA" .
+<http://localhost:8080/source/STR042101103701S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "45.782714" .
+<http://localhost:8080/source/STR042101103701S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101103701S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101103701S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.11413" .
+<http://localhost:8080/source/STR042101103701S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA VALLARSA" .
+<http://localhost:8080/source/STR042101103701S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22210" .
+<http://localhost:8080/source/STR042101103701S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "FRAZIONE CORTE" .
+<http://localhost:8080/source/STR042101103701S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+<http://localhost:8080/source/STR042101103701S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "1" .
+
+<http://localhost:8080/source/STR042101110102S09> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "12" .
+<http://localhost:8080/source/STR042101110102S09> <http://knowdive.disi.unitn.it/etype#has_nameRE> "AZIENDA PUBBLICA SERVIZI ALLA PERSONA - RSA VIGO DI FASSA" .
+<http://localhost:8080/source/STR042101110102S09> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22217" .
+<http://localhost:8080/source/STR042101110102S09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101110102S09> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38039" .
+<http://localhost:8080/source/STR042101110102S09> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AGLI ANZIANI" .
+<http://localhost:8080/source/STR042101110102S09> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "VIGO DI FASSA" .
+<http://localhost:8080/source/STR042101110102S09> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.678591" .
+<http://localhost:8080/source/STR042101110102S09> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101110102S09> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.422655" .
+<http://localhost:8080/source/STR042101110102S09> <http://knowdive.disi.unitn.it/etype#has_addressRE> "STRADA DI PRÈ DE LEJIA" .
+<http://localhost:8080/source/STR042101110102S09> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S09" .
+
+<http://localhost:8080/source/STR042101041305S10> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DON ZIGLIO -CENTRO RESIDENZIALE DISABILI - LEVICO TERME" .
+<http://localhost:8080/source/STR042101041305S10> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA RESIDENZIALE" .
+<http://localhost:8080/source/STR042101041305S10> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "LEVICO TERME" .
+<http://localhost:8080/source/STR042101041305S10> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA SILVA DOMINI" .
+<http://localhost:8080/source/STR042101041305S10> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.30383" .
+<http://localhost:8080/source/STR042101041305S10> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "37" .
+<http://localhost:8080/source/STR042101041305S10> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.012926" .
+<http://localhost:8080/source/STR042101041305S10> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22104" .
+<http://localhost:8080/source/STR042101041305S10> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38056" .
+<http://localhost:8080/source/STR042101041305S10> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AI DISABILI FISICI" .
+<http://localhost:8080/source/STR042101041305S10> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S10" .
+<http://localhost:8080/source/STR042101041305S10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+
+<http://localhost:8080/source/STR042101052024S10> <http://knowdive.disi.unitn.it/etype#has_latitudeRE> "46.06128" .
+<http://localhost:8080/source/STR042101052024S10> <http://knowdive.disi.unitn.it/etype#has_typeStRE> "STRUTTURA SEMIRESIDENZIALE" .
+<http://localhost:8080/source/STR042101052024S10> <http://knowdive.disi.unitn.it/etype#has_addressRE> "VIA T  TARAMELLI" .
+<http://localhost:8080/source/STR042101052024S10> <http://knowdive.disi.unitn.it/etype#has_assistanceRE> "ASSISTENZA AI DISABILI FISICI" .
+<http://localhost:8080/source/STR042101052024S10> <http://knowdive.disi.unitn.it/etype#has_nameRE> "CENTRO DIURNO SOCIO RIAB. PER DISABILI FRANCA MARTINI - A.T.S.M. - TRENTO" .
+<http://localhost:8080/source/STR042101052024S10> <http://knowdive.disi.unitn.it/etype#has_CAPre> "38121" .
+<http://localhost:8080/source/STR042101052024S10> <http://knowdive.disi.unitn.it/etype#has_longitudeRE> "11.116986" .
+<http://localhost:8080/source/STR042101052024S10> <http://knowdive.disi.unitn.it/etype#has_codMuniRE> "22205" .
+<http://localhost:8080/source/STR042101052024S10> <http://knowdive.disi.unitn.it/etype#has_municipalityRE> "TRENTO" .
+<http://localhost:8080/source/STR042101052024S10> <http://knowdive.disi.unitn.it/etype#has_codTypeAsRE> "S10" .
+<http://localhost:8080/source/STR042101052024S10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#RSA_elderlyPeople> .
+<http://localhost:8080/source/STR042101052024S10> <http://knowdive.disi.unitn.it/etype#has_houseNumberRE> "8/C" .
+

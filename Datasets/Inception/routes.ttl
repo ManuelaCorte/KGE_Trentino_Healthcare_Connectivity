@@ -1,0 +1,1533 @@
+<http://localhost:8080/source/URB396> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB396> <http://www.w3.org/2000/01/rdf-schema#label> "Cortesano Gardolo P.Dante Villazzano 3" .
+<http://localhost:8080/source/URB396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB396> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+<http://localhost:8080/source/URB396> <http://www.w3.org/2000/01/rdf-schema#label> "3" .
+<http://localhost:8080/source/URB396> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Cortesano Gardolo P.Dante Villazzano 3" .
+<http://localhost:8080/source/URB396> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB396> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB396> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "3" .
+<http://localhost:8080/source/URB396> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "C52720" .
+
+<http://localhost:8080/source/URB400> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "000000" .
+<http://localhost:8080/source/URB400> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Piazza Dante P.Fiera Povo Oltrecastello" .
+<http://localhost:8080/source/URB400> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "F5C500" .
+<http://localhost:8080/source/URB400> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "5" .
+<http://localhost:8080/source/URB400> <http://www.w3.org/2000/01/rdf-schema#label> "Piazza Dante P.Fiera Povo Oltrecastello" .
+<http://localhost:8080/source/URB400> <http://www.w3.org/2000/01/rdf-schema#label> "5" .
+<http://localhost:8080/source/URB400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB400> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB400> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB400> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/URB402> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB402> <http://www.w3.org/2000/01/rdf-schema#label> "7" .
+<http://localhost:8080/source/URB402> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Canova Melta Piazza Dante Gocciadoro" .
+<http://localhost:8080/source/URB402> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+<http://localhost:8080/source/URB402> <http://www.w3.org/2000/01/rdf-schema#label> "Canova Melta Piazza Dante Gocciadoro" .
+<http://localhost:8080/source/URB402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB402> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB402> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "7" .
+<http://localhost:8080/source/URB402> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "0A9B86" .
+<http://localhost:8080/source/URB402> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/URB404> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "52332A" .
+<http://localhost:8080/source/URB404> <http://www.w3.org/2000/01/rdf-schema#label> "Centochiavi Piazza Dante Mattarello" .
+<http://localhost:8080/source/URB404> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Centochiavi Piazza Dante Mattarello" .
+<http://localhost:8080/source/URB404> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB404> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+<http://localhost:8080/source/URB404> <http://www.w3.org/2000/01/rdf-schema#label> "8" .
+<http://localhost:8080/source/URB404> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB404> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "8" .
+<http://localhost:8080/source/URB404> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB404> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/URB406> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "8B4E2B" .
+<http://localhost:8080/source/URB406> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+<http://localhost:8080/source/URB406> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "P.Dante S.Donà Cognola Villamontagna" .
+<http://localhost:8080/source/URB406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB406> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB406> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB406> <http://www.w3.org/2000/01/rdf-schema#label> "9" .
+<http://localhost:8080/source/URB406> <http://www.w3.org/2000/01/rdf-schema#label> "P.Dante S.Donà Cognola Villamontagna" .
+<http://localhost:8080/source/URB406> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB406> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "9" .
+
+<http://localhost:8080/source/URB408> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB408> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "P.Dante Martignano Cognola / Montevaccino" .
+<http://localhost:8080/source/URB408> <http://www.w3.org/2000/01/rdf-schema#label> "P.Dante Martignano Cognola / Montevaccino" .
+<http://localhost:8080/source/URB408> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+<http://localhost:8080/source/URB408> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB408> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "0A5543" .
+<http://localhost:8080/source/URB408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB408> <http://www.w3.org/2000/01/rdf-schema#label> "10" .
+<http://localhost:8080/source/URB408> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "10" .
+<http://localhost:8080/source/URB408> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/URB411> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "P.Dante Via Ghiaie Ravina Romagnano" .
+<http://localhost:8080/source/URB411> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "95293B" .
+<http://localhost:8080/source/URB411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB411> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB411> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+<http://localhost:8080/source/URB411> <http://www.w3.org/2000/01/rdf-schema#label> "P.Dante Via Ghiaie Ravina Romagnano" .
+<http://localhost:8080/source/URB411> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "12" .
+<http://localhost:8080/source/URB411> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB411> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/URB415> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB415> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "P.Dante Via Sanseverino Belvedere Ravina" .
+<http://localhost:8080/source/URB415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB415> <http://www.w3.org/2000/01/rdf-schema#label> "P.Dante Via Sanseverino Belvedere Ravina" .
+<http://localhost:8080/source/URB415> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "E490B0" .
+<http://localhost:8080/source/URB415> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "000000" .
+<http://localhost:8080/source/URB415> <http://www.w3.org/2000/01/rdf-schema#label> "14" .
+<http://localhost:8080/source/URB415> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB415> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB415> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "14" .
+
+<http://localhost:8080/source/URB425> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB425> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Piazza Dante Via Brennero Gardolo Spini" .
+<http://localhost:8080/source/URB425> <http://www.w3.org/2000/01/rdf-schema#label> "Piazza Dante Via Brennero Gardolo Spini" .
+<http://localhost:8080/source/URB425> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+<http://localhost:8080/source/URB425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB425> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "582E79" .
+<http://localhost:8080/source/URB425> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "11" .
+<http://localhost:8080/source/URB425> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB425> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB425> <http://www.w3.org/2000/01/rdf-schema#label> "11" .
+
+<http://localhost:8080/source/URB460> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "000000" .
+<http://localhost:8080/source/URB460> <http://www.w3.org/2000/01/rdf-schema#label> "NP" .
+<http://localhost:8080/source/URB460> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "NP" .
+<http://localhost:8080/source/URB460> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB460> <http://www.w3.org/2000/01/rdf-schema#label> "Navetta Parcheggi: Zuffo M.Te Baldo Zuffo" .
+<http://localhost:8080/source/URB460> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Navetta Parcheggi: Zuffo M.Te Baldo Zuffo" .
+<http://localhost:8080/source/URB460> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+<http://localhost:8080/source/URB460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB460> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB460> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/URB466> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB466> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB466> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "P.Dante Rosmini S.Rocco Povo Polo Soc." .
+<http://localhost:8080/source/URB466> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB466> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "000000" .
+<http://localhost:8080/source/URB466> <http://www.w3.org/2000/01/rdf-schema#label> "13" .
+<http://localhost:8080/source/URB466> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "BF6092" .
+<http://localhost:8080/source/URB466> <http://www.w3.org/2000/01/rdf-schema#label> "P.Dante Rosmini S.Rocco Povo Polo Soc." .
+<http://localhost:8080/source/URB466> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "13" .
+<http://localhost:8080/source/URB466> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/URB478> <http://www.w3.org/2000/01/rdf-schema#label> "Piazza Dante Interporto Spini Di Gardolo" .
+<http://localhost:8080/source/URB478> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB478> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "72E006" .
+<http://localhost:8080/source/URB478> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB478> <http://www.w3.org/2000/01/rdf-schema#label> "15" .
+<http://localhost:8080/source/URB478> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Piazza Dante Interporto Spini Di Gardolo" .
+<http://localhost:8080/source/URB478> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "15" .
+<http://localhost:8080/source/URB478> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+<http://localhost:8080/source/URB478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB478> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/URB484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB484> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB484> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB484> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB484> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+<http://localhost:8080/source/URB484> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "16" .
+<http://localhost:8080/source/URB484> <http://www.w3.org/2000/01/rdf-schema#label> "16" .
+<http://localhost:8080/source/URB484> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Centochiavi Martignano Cognola Povo" .
+<http://localhost:8080/source/URB484> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "3564B1" .
+<http://localhost:8080/source/URB484> <http://www.w3.org/2000/01/rdf-schema#label> "Centochiavi Martignano Cognola Povo" .
+
+<http://localhost:8080/source/URB512> <http://www.w3.org/2000/01/rdf-schema#label> "Moietto Rosmini Campana Dei Caduti" .
+<http://localhost:8080/source/URB512> <http://www.w3.org/2000/01/rdf-schema#label> "7" .
+<http://localhost:8080/source/URB512> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB512> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "7" .
+<http://localhost:8080/source/URB512> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Moietto Rosmini Campana Dei Caduti" .
+<http://localhost:8080/source/URB512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB512> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB512> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/URB531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB531> <http://www.w3.org/2000/01/rdf-schema#label> "Funivia Trento Sardagna" .
+<http://localhost:8080/source/URB531> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Funivia Trento Sardagna" .
+<http://localhost:8080/source/URB531> <http://www.w3.org/2000/01/rdf-schema#label> "Fu" .
+<http://localhost:8080/source/URB531> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "Fu" .
+<http://localhost:8080/source/URB531> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB531> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "5" .
+<http://localhost:8080/source/URB531> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/URB533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB533> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB533> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Rsa \"S.Bart.\" \"Angeli Custodi\" Laste" .
+<http://localhost:8080/source/URB533> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB533> <http://www.w3.org/2000/01/rdf-schema#label> "C" .
+<http://localhost:8080/source/URB533> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "C" .
+<http://localhost:8080/source/URB533> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB533> <http://www.w3.org/2000/01/rdf-schema#label> "Rsa \"S.Bart.\" \"Angeli Custodi\" Laste" .
+<http://localhost:8080/source/URB533> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+<http://localhost:8080/source/URB533> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "000000" .
+
+<http://localhost:8080/source/URB535> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "P.Dante P.Fiera Università Mesiano Povo" .
+<http://localhost:8080/source/URB535> <http://www.w3.org/2000/01/rdf-schema#label> "P.Dante P.Fiera Università Mesiano Povo" .
+<http://localhost:8080/source/URB535> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "5/" .
+<http://localhost:8080/source/URB535> <http://www.w3.org/2000/01/rdf-schema#label> "5/" .
+<http://localhost:8080/source/URB535> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB535> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB535> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/URB536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB536> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB536> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB536> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "1" .
+<http://localhost:8080/source/URB536> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Ospedale P.Dante Sopramonte" .
+<http://localhost:8080/source/URB536> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+<http://localhost:8080/source/URB536> <http://www.w3.org/2000/01/rdf-schema#label> "1" .
+<http://localhost:8080/source/URB536> <http://www.w3.org/2000/01/rdf-schema#label> "Ospedale P.Dante Sopramonte" .
+<http://localhost:8080/source/URB536> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "1D3F72" .
+<http://localhost:8080/source/URB536> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/URB538> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "DB5826" .
+<http://localhost:8080/source/URB538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB538> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB538> <http://www.w3.org/2000/01/rdf-schema#label> "2" .
+<http://localhost:8080/source/URB538> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "2" .
+<http://localhost:8080/source/URB538> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB538> <http://www.w3.org/2000/01/rdf-schema#label> "Piedic. Stazione Osp.S.Chiara Regione Piedic." .
+<http://localhost:8080/source/URB538> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Piedic. Stazione Osp.S.Chiara Regione Piedic." .
+<http://localhost:8080/source/URB538> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB538> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+
+<http://localhost:8080/source/URB539> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB539> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "007BC3" .
+<http://localhost:8080/source/URB539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB539> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB539> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "4" .
+<http://localhost:8080/source/URB539> <http://www.w3.org/2000/01/rdf-schema#label> "4" .
+<http://localhost:8080/source/URB539> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB539> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+<http://localhost:8080/source/URB539> <http://www.w3.org/2000/01/rdf-schema#label> "Gardolo Roncafort Stazione V.Deg. Mad.Bianca" .
+<http://localhost:8080/source/URB539> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Gardolo Roncafort Stazione V.Deg. Mad.Bianca" .
+
+<http://localhost:8080/source/URB541> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Vela P.Dante Villazzano Grotta" .
+<http://localhost:8080/source/URB541> <http://www.w3.org/2000/01/rdf-schema#label> "Vela P.Dante Villazzano Grotta" .
+<http://localhost:8080/source/URB541> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "70B442" .
+<http://localhost:8080/source/URB541> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB541> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB541> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB541> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+<http://localhost:8080/source/URB541> <http://www.w3.org/2000/01/rdf-schema#label> "6" .
+<http://localhost:8080/source/URB541> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "6" .
+
+<http://localhost:8080/source/URB543> <http://www.w3.org/2000/01/rdf-schema#label> "Piazza Dante Via Bolzano Lamar Lavis" .
+<http://localhost:8080/source/URB543> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB543> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "1F9ACF" .
+<http://localhost:8080/source/URB543> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB543> <http://www.w3.org/2000/01/rdf-schema#label> "17" .
+<http://localhost:8080/source/URB543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB543> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "FFFFFF" .
+<http://localhost:8080/source/URB543> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB543> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Piazza Dante Via Bolzano Lamar Lavis" .
+<http://localhost:8080/source/URB543> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "17" .
+
+<http://localhost:8080/source/URB562> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB562> <http://www.w3.org/2000/01/rdf-schema#label> "A" .
+<http://localhost:8080/source/URB562> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB562> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB562> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Brione Cesari Ospedale Podesta' Brione" .
+<http://localhost:8080/source/URB562> <http://www.w3.org/2000/01/rdf-schema#label> "Brione Cesari Ospedale Podesta' Brione" .
+<http://localhost:8080/source/URB562> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "A" .
+
+<http://localhost:8080/source/URB563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB563> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB563> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB563> <http://www.w3.org/2000/01/rdf-schema#label> "B" .
+<http://localhost:8080/source/URB563> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB563> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Ossario Osp. S.Giorgio Osp. Ossario" .
+<http://localhost:8080/source/URB563> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B" .
+<http://localhost:8080/source/URB563> <http://www.w3.org/2000/01/rdf-schema#label> "Ossario Osp. S.Giorgio Osp. Ossario" .
+
+<http://localhost:8080/source/URB566> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Via Magazol S.Giorgio Cornacalda" .
+<http://localhost:8080/source/URB566> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB566> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB566> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB566> <http://www.w3.org/2000/01/rdf-schema#label> "Via Magazol S.Giorgio Cornacalda" .
+<http://localhost:8080/source/URB566> <http://www.w3.org/2000/01/rdf-schema#label> "AB" .
+<http://localhost:8080/source/URB566> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "AB" .
+<http://localhost:8080/source/URB566> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/URB568> <http://www.w3.org/2000/01/rdf-schema#label> "G" .
+<http://localhost:8080/source/URB568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB568> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB568> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB568> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB568> <http://www.w3.org/2000/01/rdf-schema#label> "Gardolo Gardolo Di Mezzo E Spini" .
+<http://localhost:8080/source/URB568> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "G" .
+<http://localhost:8080/source/URB568> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Gardolo Gardolo Di Mezzo E Spini" .
+
+<http://localhost:8080/source/URB570> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "CM" .
+<http://localhost:8080/source/URB570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB570> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB570> <http://www.w3.org/2000/01/rdf-schema#label> "CM" .
+<http://localhost:8080/source/URB570> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB570> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Povo Borino Celva Passo Cimirlo" .
+<http://localhost:8080/source/URB570> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB570> <http://www.w3.org/2000/01/rdf-schema#label> "Povo Borino Celva Passo Cimirlo" .
+
+<http://localhost:8080/source/URB578> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "(Volano) Bettini Staz. Lizzana Marco" .
+<http://localhost:8080/source/URB578> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB578> <http://www.w3.org/2000/01/rdf-schema#label> "1" .
+<http://localhost:8080/source/URB578> <http://www.w3.org/2000/01/rdf-schema#label> "(Volano) Bettini Staz. Lizzana Marco" .
+<http://localhost:8080/source/URB578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB578> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB578> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB578> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "1" .
+
+<http://localhost:8080/source/URB580> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB580> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "6" .
+<http://localhost:8080/source/URB580> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB580> <http://www.w3.org/2000/01/rdf-schema#label> "Costa Corso Rosmini S.Giorgio/Ospedale" .
+<http://localhost:8080/source/URB580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB580> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Costa Corso Rosmini S.Giorgio/Ospedale" .
+<http://localhost:8080/source/URB580> <http://www.w3.org/2000/01/rdf-schema#label> "6" .
+<http://localhost:8080/source/URB580> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/URB582> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB582> <http://www.w3.org/2000/01/rdf-schema#label> "2" .
+<http://localhost:8080/source/URB582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB582> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB582> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "2" .
+<http://localhost:8080/source/URB582> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Nomi Villa Lagarina Stazione Mori" .
+<http://localhost:8080/source/URB582> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB582> <http://www.w3.org/2000/01/rdf-schema#label> "Nomi Villa Lagarina Stazione Mori" .
+
+<http://localhost:8080/source/URB590> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB590> <http://www.w3.org/2000/01/rdf-schema#label> "03 Peders. Brione Stazione Isera (Lenzima)" .
+<http://localhost:8080/source/URB590> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB590> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "03 Peders. Brione Stazione Isera (Lenzima)" .
+<http://localhost:8080/source/URB590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB590> <http://www.w3.org/2000/01/rdf-schema#label> "3" .
+<http://localhost:8080/source/URB590> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB590> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "3" .
+
+<http://localhost:8080/source/URB592> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Villa Lag. Brione Staz. Isera Lenzima" .
+<http://localhost:8080/source/URB592> <http://www.w3.org/2000/01/rdf-schema#label> "4" .
+<http://localhost:8080/source/URB592> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB592> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB592> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB592> <http://www.w3.org/2000/01/rdf-schema#label> "Villa Lag. Brione Staz. Isera Lenzima" .
+<http://localhost:8080/source/URB592> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB592> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "4" .
+
+<http://localhost:8080/source/URB594> <http://www.w3.org/2000/01/rdf-schema#label> "Ospedale Stazione Isera Villa Lagar." .
+<http://localhost:8080/source/URB594> <http://www.w3.org/2000/01/rdf-schema#label> "5" .
+<http://localhost:8080/source/URB594> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB594> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Ospedale Stazione Isera Villa Lagar." .
+<http://localhost:8080/source/URB594> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "5" .
+<http://localhost:8080/source/URB594> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB594> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/URB598> <http://www.w3.org/2000/01/rdf-schema#label> "Volano Besenello Calliano Nomi" .
+<http://localhost:8080/source/URB598> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB598> <http://www.w3.org/2000/01/rdf-schema#label> "V" .
+<http://localhost:8080/source/URB598> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Volano Besenello Calliano Nomi" .
+<http://localhost:8080/source/URB598> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB598> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB598> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "V" .
+<http://localhost:8080/source/URB598> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/URB601> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB601> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB601> <http://www.w3.org/2000/01/rdf-schema#label> "Castellano Molini Villa Lagarina" .
+<http://localhost:8080/source/URB601> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "P" .
+<http://localhost:8080/source/URB601> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB601> <http://www.w3.org/2000/01/rdf-schema#label> "P" .
+<http://localhost:8080/source/URB601> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Castellano Molini Villa Lagarina" .
+
+<http://localhost:8080/source/URB602> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB602> <http://www.w3.org/2000/01/rdf-schema#label> "S" .
+<http://localhost:8080/source/URB602> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "S" .
+<http://localhost:8080/source/URB602> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Savignano Pomarolo" .
+<http://localhost:8080/source/URB602> <http://www.w3.org/2000/01/rdf-schema#label> "Savignano Pomarolo" .
+<http://localhost:8080/source/URB602> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB602> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/URB607> <http://www.w3.org/2000/01/rdf-schema#label> "L1" .
+<http://localhost:8080/source/URB607> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB607> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB607> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "01 Lavis Pressano Nave S.Felice Sorni" .
+<http://localhost:8080/source/URB607> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB607> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "L1" .
+<http://localhost:8080/source/URB607> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB607> <http://www.w3.org/2000/01/rdf-schema#label> "01 Lavis Pressano Nave S.Felice Sorni" .
+
+<http://localhost:8080/source/URB610> <http://www.w3.org/2000/01/rdf-schema#label> "L3" .
+<http://localhost:8080/source/URB610> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "L3" .
+<http://localhost:8080/source/URB610> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB610> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "03 Lavis Stazione Fs" .
+<http://localhost:8080/source/URB610> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB610> <http://www.w3.org/2000/01/rdf-schema#label> "03 Lavis Stazione Fs" .
+<http://localhost:8080/source/URB610> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/URB612> <http://www.w3.org/2000/01/rdf-schema#label> "04 Lavis Zona Industriale Lavis" .
+<http://localhost:8080/source/URB612> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB612> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "04 Lavis Zona Industriale Lavis" .
+<http://localhost:8080/source/URB612> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB612> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB612> <http://www.w3.org/2000/01/rdf-schema#label> "L4" .
+<http://localhost:8080/source/URB612> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "L4" .
+<http://localhost:8080/source/URB612> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/URB613> <http://www.w3.org/2000/01/rdf-schema#label> "L2" .
+<http://localhost:8080/source/URB613> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB613> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB613> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "L2" .
+<http://localhost:8080/source/URB613> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "02 Lavis Pressano Masi Sp.131 Sorni" .
+<http://localhost:8080/source/URB613> <http://www.w3.org/2000/01/rdf-schema#label> "02 Lavis Pressano Masi Sp.131 Sorni" .
+<http://localhost:8080/source/URB613> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/URB614> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "P.Dante Ospedale Fersina Clarina P.Dante" .
+<http://localhost:8080/source/URB614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/URB614> <http://knowdive.disi.unitn.it/etype#has_routeTextColorR> "000000" .
+<http://localhost:8080/source/URB614> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/URB614> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/URB614> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "A" .
+<http://localhost:8080/source/URB614> <http://www.w3.org/2000/01/rdf-schema#label> "A" .
+<http://localhost:8080/source/URB614> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/URB614> <http://knowdive.disi.unitn.it/etype#has_routeColorR> "BABAB7" .
+<http://localhost:8080/source/URB614> <http://www.w3.org/2000/01/rdf-schema#label> "P.Dante Ospedale Fersina Clarina P.Dante" .
+
+<http://localhost:8080/source/EXT1> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B101" .
+<http://localhost:8080/source/EXT1> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT1> <http://www.w3.org/2000/01/rdf-schema#label> "Cavalese-Predazzo-Moena-Canazei-Penia" .
+<http://localhost:8080/source/EXT1> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Cavalese-Predazzo-Moena-Canazei-Penia" .
+<http://localhost:8080/source/EXT1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT1> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT1> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT1> <http://www.w3.org/2000/01/rdf-schema#label> "B101" .
+
+<http://localhost:8080/source/EXT3> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT3> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT3> <http://www.w3.org/2000/01/rdf-schema#label> "B102" .
+<http://localhost:8080/source/EXT3> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento -  Cembra - Capriana - Cavalese" .
+<http://localhost:8080/source/EXT3> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B102" .
+<http://localhost:8080/source/EXT3> <http://www.w3.org/2000/01/rdf-schema#label> "Trento -  Cembra - Capriana - Cavalese" .
+<http://localhost:8080/source/EXT3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT3> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT7> <http://www.w3.org/2000/01/rdf-schema#label> "B114" .
+<http://localhost:8080/source/EXT7> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Casatta di Valfloriana - Palu' - Sicina" .
+<http://localhost:8080/source/EXT7> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT7> <http://www.w3.org/2000/01/rdf-schema#label> "Casatta di Valfloriana - Palu' - Sicina" .
+<http://localhost:8080/source/EXT7> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT7> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT7> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B114" .
+
+<http://localhost:8080/source/EXT55> <http://www.w3.org/2000/01/rdf-schema#label> "B104" .
+<http://localhost:8080/source/EXT55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT55> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-S.Michele a/A-Salorno-Egna-Ora-Cavalese" .
+<http://localhost:8080/source/EXT55> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B104" .
+<http://localhost:8080/source/EXT55> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT55> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-S.Michele a/A-Salorno-Egna-Ora-Cavalese" .
+<http://localhost:8080/source/EXT55> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT55> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/EXT60> <http://www.w3.org/2000/01/rdf-schema#label> "B105" .
+<http://localhost:8080/source/EXT60> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT60> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Verla - Valternigo - Palu' di Giovo" .
+<http://localhost:8080/source/EXT60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT60> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT60> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT60> <http://www.w3.org/2000/01/rdf-schema#label> "Verla - Valternigo - Palu' di Giovo" .
+<http://localhost:8080/source/EXT60> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B105" .
+
+<http://localhost:8080/source/EXT63> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT63> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B121" .
+<http://localhost:8080/source/EXT63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT63> <http://www.w3.org/2000/01/rdf-schema#label> "Montesover - Sover" .
+<http://localhost:8080/source/EXT63> <http://www.w3.org/2000/01/rdf-schema#label> "B121" .
+<http://localhost:8080/source/EXT63> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Montesover - Sover" .
+<http://localhost:8080/source/EXT63> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT63> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/EXT65> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B109" .
+<http://localhost:8080/source/EXT65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT65> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT65> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT65> <http://www.w3.org/2000/01/rdf-schema#label> "B109" .
+<http://localhost:8080/source/EXT65> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT65> <http://www.w3.org/2000/01/rdf-schema#label> "Cavalese - Masi di Cavalese" .
+<http://localhost:8080/source/EXT65> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Cavalese - Masi di Cavalese" .
+
+<http://localhost:8080/source/EXT67> <http://www.w3.org/2000/01/rdf-schema#label> "Cavalese - Carano - Villaggio Veronza" .
+<http://localhost:8080/source/EXT67> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT67> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B111" .
+<http://localhost:8080/source/EXT67> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT67> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Cavalese - Carano - Villaggio Veronza" .
+<http://localhost:8080/source/EXT67> <http://www.w3.org/2000/01/rdf-schema#label> "B111" .
+<http://localhost:8080/source/EXT67> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/EXT69> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT69> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT69> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B402" .
+<http://localhost:8080/source/EXT69> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento - Nogarè - Baselga di Pinè -Montesover" .
+<http://localhost:8080/source/EXT69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT69> <http://www.w3.org/2000/01/rdf-schema#label> "Trento - Nogarè - Baselga di Pinè -Montesover" .
+<http://localhost:8080/source/EXT69> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT69> <http://www.w3.org/2000/01/rdf-schema#label> "B402" .
+
+<http://localhost:8080/source/EXT71> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-Vezzano-Sarche-Tione" .
+<http://localhost:8080/source/EXT71> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-Vezzano-Sarche-Tione" .
+<http://localhost:8080/source/EXT71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT71> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT71> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B201" .
+<http://localhost:8080/source/EXT71> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT71> <http://www.w3.org/2000/01/rdf-schema#label> "B201" .
+<http://localhost:8080/source/EXT71> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/EXT73> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Tione-Bolbeno-Ragoli-Montagne" .
+<http://localhost:8080/source/EXT73> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT73> <http://www.w3.org/2000/01/rdf-schema#label> "B216" .
+<http://localhost:8080/source/EXT73> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B216" .
+<http://localhost:8080/source/EXT73> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT73> <http://www.w3.org/2000/01/rdf-schema#label> "Tione-Bolbeno-Ragoli-Montagne" .
+<http://localhost:8080/source/EXT73> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/EXT76> <http://www.w3.org/2000/01/rdf-schema#label> "B202" .
+<http://localhost:8080/source/EXT76> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT76> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT76> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-Sardagna-Candriai-Vaneze-Vason-Viote" .
+<http://localhost:8080/source/EXT76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT76> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT76> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B202" .
+<http://localhost:8080/source/EXT76> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-Sardagna-Candriai-Vaneze-Vason-Viote" .
+
+<http://localhost:8080/source/EXT78> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Vezzano-Ciago-Ranzo-Margone" .
+<http://localhost:8080/source/EXT78> <http://www.w3.org/2000/01/rdf-schema#label> "B203" .
+<http://localhost:8080/source/EXT78> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT78> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT78> <http://www.w3.org/2000/01/rdf-schema#label> "Vezzano-Ciago-Ranzo-Margone" .
+<http://localhost:8080/source/EXT78> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B203" .
+<http://localhost:8080/source/EXT78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT78> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/EXT80> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT80> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B206" .
+<http://localhost:8080/source/EXT80> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT80> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT80> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-Cadine-Sopramonte-Terlago-MTerlago" .
+<http://localhost:8080/source/EXT80> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-Cadine-Sopramonte-Terlago-MTerlago" .
+<http://localhost:8080/source/EXT80> <http://www.w3.org/2000/01/rdf-schema#label> "B206" .
+
+<http://localhost:8080/source/EXT84> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Centrale - Regnana" .
+<http://localhost:8080/source/EXT84> <http://www.w3.org/2000/01/rdf-schema#label> "B429" .
+<http://localhost:8080/source/EXT84> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT84> <http://www.w3.org/2000/01/rdf-schema#label> "Centrale - Regnana" .
+<http://localhost:8080/source/EXT84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT84> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT84> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B429" .
+<http://localhost:8080/source/EXT84> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/EXT86> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT86> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B408" .
+<http://localhost:8080/source/EXT86> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Borgo Valsugana - Olle" .
+<http://localhost:8080/source/EXT86> <http://www.w3.org/2000/01/rdf-schema#label> "B408" .
+<http://localhost:8080/source/EXT86> <http://www.w3.org/2000/01/rdf-schema#label> "Borgo Valsugana - Olle" .
+<http://localhost:8080/source/EXT86> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT86> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/EXT90> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT90> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT90> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B415" .
+<http://localhost:8080/source/EXT90> <http://www.w3.org/2000/01/rdf-schema#label> "B415" .
+<http://localhost:8080/source/EXT90> <http://www.w3.org/2000/01/rdf-schema#label> "Levico Terme - Barco - S.Giuliana - Lochere" .
+<http://localhost:8080/source/EXT90> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Levico Terme - Barco - S.Giuliana - Lochere" .
+<http://localhost:8080/source/EXT90> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/EXT92> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B431" .
+<http://localhost:8080/source/EXT92> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT92> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT92> <http://www.w3.org/2000/01/rdf-schema#label> "Baselga di Pinè - S.Mauro" .
+<http://localhost:8080/source/EXT92> <http://www.w3.org/2000/01/rdf-schema#label> "B431" .
+<http://localhost:8080/source/EXT92> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT92> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Baselga di Pinè - S.Mauro" .
+
+<http://localhost:8080/source/EXT94> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT94> <http://www.w3.org/2000/01/rdf-schema#label> "B413" .
+<http://localhost:8080/source/EXT94> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Brusago-Valcava" .
+<http://localhost:8080/source/EXT94> <http://www.w3.org/2000/01/rdf-schema#label> "Brusago-Valcava" .
+<http://localhost:8080/source/EXT94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT94> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B413" .
+<http://localhost:8080/source/EXT94> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT94> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/EXT96> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B428" .
+<http://localhost:8080/source/EXT96> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT96> <http://www.w3.org/2000/01/rdf-schema#label> "B428" .
+<http://localhost:8080/source/EXT96> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Bedollo-Svaldi" .
+<http://localhost:8080/source/EXT96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT96> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT96> <http://www.w3.org/2000/01/rdf-schema#label> "Bedollo-Svaldi" .
+<http://localhost:8080/source/EXT96> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT98> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT98> <http://www.w3.org/2000/01/rdf-schema#label> "B410" .
+<http://localhost:8080/source/EXT98> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT98> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT98> <http://www.w3.org/2000/01/rdf-schema#label> "Borgo Valsugana - Tezze - Primolano" .
+<http://localhost:8080/source/EXT98> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Borgo Valsugana - Tezze - Primolano" .
+<http://localhost:8080/source/EXT98> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B410" .
+
+<http://localhost:8080/source/EXT102> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "S.Martino di Castrozza-Fiera di Primiero-Feltre" .
+<http://localhost:8080/source/EXT102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT102> <http://www.w3.org/2000/01/rdf-schema#label> "B501" .
+<http://localhost:8080/source/EXT102> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B501" .
+<http://localhost:8080/source/EXT102> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT102> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT102> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT102> <http://www.w3.org/2000/01/rdf-schema#label> "S.Martino di Castrozza-Fiera di Primiero-Feltre" .
+
+<http://localhost:8080/source/EXT106> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT106> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT106> <http://www.w3.org/2000/01/rdf-schema#label> "B504" .
+<http://localhost:8080/source/EXT106> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT106> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Canal S.Bovo - Ronco Fosse - Ronco Chiesa" .
+<http://localhost:8080/source/EXT106> <http://www.w3.org/2000/01/rdf-schema#label> "Canal S.Bovo - Ronco Fosse - Ronco Chiesa" .
+<http://localhost:8080/source/EXT106> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B504" .
+
+<http://localhost:8080/source/EXT108> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT108> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-Borgo Valsugana-Arten-Feltre" .
+<http://localhost:8080/source/EXT108> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-Borgo Valsugana-Arten-Feltre" .
+<http://localhost:8080/source/EXT108> <http://www.w3.org/2000/01/rdf-schema#label> "B512" .
+<http://localhost:8080/source/EXT108> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT108> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B512" .
+<http://localhost:8080/source/EXT108> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/EXT110> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT110> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-Besenello-Calliano-Rovereto" .
+<http://localhost:8080/source/EXT110> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT110> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B301" .
+<http://localhost:8080/source/EXT110> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT110> <http://www.w3.org/2000/01/rdf-schema#label> "B301" .
+<http://localhost:8080/source/EXT110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT110> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-Besenello-Calliano-Rovereto" .
+
+<http://localhost:8080/source/EXT116> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Fiera di Primiero-Imer-Canal S.Bovo-Caoria" .
+<http://localhost:8080/source/EXT116> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT116> <http://www.w3.org/2000/01/rdf-schema#label> "B506" .
+<http://localhost:8080/source/EXT116> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT116> <http://www.w3.org/2000/01/rdf-schema#label> "Fiera di Primiero-Imer-Canal S.Bovo-Caoria" .
+<http://localhost:8080/source/EXT116> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT116> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B506" .
+<http://localhost:8080/source/EXT116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/EXT117> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT117> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT117> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT117> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Cavalese - Daiano - Varena" .
+<http://localhost:8080/source/EXT117> <http://www.w3.org/2000/01/rdf-schema#label> "B112" .
+<http://localhost:8080/source/EXT117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT117> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B112" .
+<http://localhost:8080/source/EXT117> <http://www.w3.org/2000/01/rdf-schema#label> "Cavalese - Daiano - Varena" .
+
+<http://localhost:8080/source/EXT120> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT120> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento - Civezzano - Sover - Cavalese" .
+<http://localhost:8080/source/EXT120> <http://www.w3.org/2000/01/rdf-schema#label> "Trento - Civezzano - Sover - Cavalese" .
+<http://localhost:8080/source/EXT120> <http://www.w3.org/2000/01/rdf-schema#label> "B103" .
+<http://localhost:8080/source/EXT120> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT120> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B103" .
+<http://localhost:8080/source/EXT120> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT123> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT123> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-Borgo V.-Arten-Fiera di P.-S. Martino C." .
+<http://localhost:8080/source/EXT123> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT123> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B514" .
+<http://localhost:8080/source/EXT123> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-Borgo V.-Arten-Fiera di P.-S. Martino C." .
+<http://localhost:8080/source/EXT123> <http://www.w3.org/2000/01/rdf-schema#label> "B514" .
+<http://localhost:8080/source/EXT123> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/EXT130> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B122" .
+<http://localhost:8080/source/EXT130> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT130> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT130> <http://www.w3.org/2000/01/rdf-schema#label> "Predazzo-P.sso Rolle-Fiera di P." .
+<http://localhost:8080/source/EXT130> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT130> <http://www.w3.org/2000/01/rdf-schema#label> "B122" .
+<http://localhost:8080/source/EXT130> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Predazzo-P.sso Rolle-Fiera di P." .
+<http://localhost:8080/source/EXT130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/EXT132> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT132> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT132> <http://www.w3.org/2000/01/rdf-schema#label> "Borgo Valsugana -Roncegno Terme -Ronchi" .
+<http://localhost:8080/source/EXT132> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT132> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Borgo Valsugana -Roncegno Terme -Ronchi" .
+<http://localhost:8080/source/EXT132> <http://www.w3.org/2000/01/rdf-schema#label> "B409" .
+<http://localhost:8080/source/EXT132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT132> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B409" .
+
+<http://localhost:8080/source/EXT134> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B205" .
+<http://localhost:8080/source/EXT134> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT134> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-Vezzano-Sarche-Dro-Arco-Riva" .
+<http://localhost:8080/source/EXT134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT134> <http://www.w3.org/2000/01/rdf-schema#label> "B205" .
+<http://localhost:8080/source/EXT134> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-Vezzano-Sarche-Dro-Arco-Riva" .
+<http://localhost:8080/source/EXT134> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT134> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/EXT136> <http://www.w3.org/2000/01/rdf-schema#label> "Cavalese - Daiano - Carano - Tesero - Cavalese" .
+<http://localhost:8080/source/EXT136> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT136> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT136> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B113" .
+<http://localhost:8080/source/EXT136> <http://www.w3.org/2000/01/rdf-schema#label> "B113" .
+<http://localhost:8080/source/EXT136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT136> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT136> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Cavalese - Daiano - Carano - Tesero - Cavalese" .
+
+<http://localhost:8080/source/EXT138> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT138> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT138> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Baselga di Pinè - Faida  - Montagnaga" .
+<http://localhost:8080/source/EXT138> <http://www.w3.org/2000/01/rdf-schema#label> "Baselga di Pinè - Faida  - Montagnaga" .
+<http://localhost:8080/source/EXT138> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT138> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B404" .
+<http://localhost:8080/source/EXT138> <http://www.w3.org/2000/01/rdf-schema#label> "B404" .
+
+<http://localhost:8080/source/EXT151> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT151> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT151> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT151> <http://www.w3.org/2000/01/rdf-schema#label> "B116" .
+<http://localhost:8080/source/EXT151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT151> <http://www.w3.org/2000/01/rdf-schema#label> "Trento - Civezzano - S.Agnese - Bosco" .
+<http://localhost:8080/source/EXT151> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento - Civezzano - S.Agnese - Bosco" .
+<http://localhost:8080/source/EXT151> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B116" .
+
+<http://localhost:8080/source/EXT153> <http://www.w3.org/2000/01/rdf-schema#label> "Riva del Garda-Tenno-Fiave'-Ponte Arche" .
+<http://localhost:8080/source/EXT153> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT153> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Riva del Garda-Tenno-Fiave'-Ponte Arche" .
+<http://localhost:8080/source/EXT153> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B211" .
+<http://localhost:8080/source/EXT153> <http://www.w3.org/2000/01/rdf-schema#label> "B211" .
+<http://localhost:8080/source/EXT153> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT153> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/EXT155> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT155> <http://www.w3.org/2000/01/rdf-schema#label> "Ponte Arche-S.Croce-Cavrasto-Bivedo" .
+<http://localhost:8080/source/EXT155> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Ponte Arche-S.Croce-Cavrasto-Bivedo" .
+<http://localhost:8080/source/EXT155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT155> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT155> <http://www.w3.org/2000/01/rdf-schema#label> "B210" .
+<http://localhost:8080/source/EXT155> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B210" .
+<http://localhost:8080/source/EXT155> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/EXT157> <http://www.w3.org/2000/01/rdf-schema#label> "B215" .
+<http://localhost:8080/source/EXT157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT157> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Tione-Pieve di Bono-Storo-Baitoni-Ponte Caffaro" .
+<http://localhost:8080/source/EXT157> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT157> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT157> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B215" .
+<http://localhost:8080/source/EXT157> <http://www.w3.org/2000/01/rdf-schema#label> "Tione-Pieve di Bono-Storo-Baitoni-Ponte Caffaro" .
+<http://localhost:8080/source/EXT157> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/EXT159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT159> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B209" .
+<http://localhost:8080/source/EXT159> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT159> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT159> <http://www.w3.org/2000/01/rdf-schema#label> "Ponte Arche-Lundo" .
+<http://localhost:8080/source/EXT159> <http://www.w3.org/2000/01/rdf-schema#label> "B209" .
+<http://localhost:8080/source/EXT159> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Ponte Arche-Lundo" .
+<http://localhost:8080/source/EXT159> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT161> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT161> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT161> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT161> <http://www.w3.org/2000/01/rdf-schema#label> "Ponte Arche-S.Lorenzo in B.-Molveno" .
+<http://localhost:8080/source/EXT161> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Ponte Arche-S.Lorenzo in B.-Molveno" .
+<http://localhost:8080/source/EXT161> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B208" .
+<http://localhost:8080/source/EXT161> <http://www.w3.org/2000/01/rdf-schema#label> "B208" .
+
+<http://localhost:8080/source/EXT164> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT164> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B213" .
+<http://localhost:8080/source/EXT164> <http://www.w3.org/2000/01/rdf-schema#label> "Pieve di Bono-Castel Condino-Por" .
+<http://localhost:8080/source/EXT164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT164> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Pieve di Bono-Castel Condino-Por" .
+<http://localhost:8080/source/EXT164> <http://www.w3.org/2000/01/rdf-schema#label> "B213" .
+<http://localhost:8080/source/EXT164> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT164> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT167> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT167> <http://www.w3.org/2000/01/rdf-schema#label> "B212" .
+<http://localhost:8080/source/EXT167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT167> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B212" .
+<http://localhost:8080/source/EXT167> <http://www.w3.org/2000/01/rdf-schema#label> "Pieve di Bono-Praso-Daone" .
+<http://localhost:8080/source/EXT167> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT167> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Pieve di Bono-Praso-Daone" .
+<http://localhost:8080/source/EXT167> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT169> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Borgo Valsugana -Carzano -Strigno -Samone" .
+<http://localhost:8080/source/EXT169> <http://www.w3.org/2000/01/rdf-schema#label> "B406" .
+<http://localhost:8080/source/EXT169> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT169> <http://www.w3.org/2000/01/rdf-schema#label> "Borgo Valsugana -Carzano -Strigno -Samone" .
+<http://localhost:8080/source/EXT169> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT169> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT169> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B406" .
+
+<http://localhost:8080/source/EXT171> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT171> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B214" .
+<http://localhost:8080/source/EXT171> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT171> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT171> <http://www.w3.org/2000/01/rdf-schema#label> "B214" .
+<http://localhost:8080/source/EXT171> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Riva-Pregasina-Bezzecca-Storo-Pieve di Bono" .
+<http://localhost:8080/source/EXT171> <http://www.w3.org/2000/01/rdf-schema#label> "Riva-Pregasina-Bezzecca-Storo-Pieve di Bono" .
+
+<http://localhost:8080/source/EXT175> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-Vezzano Apt-Vigo Cavedine-Riva del Garda" .
+<http://localhost:8080/source/EXT175> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT175> <http://www.w3.org/2000/01/rdf-schema#label> "B204" .
+<http://localhost:8080/source/EXT175> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B204" .
+<http://localhost:8080/source/EXT175> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-Vezzano Apt-Vigo Cavedine-Riva del Garda" .
+<http://localhost:8080/source/EXT175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT175> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT175> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT177> <http://www.w3.org/2000/01/rdf-schema#label> "Pergine-Kamauz-Frassilongo-S.Felice F.-Hacleri" .
+<http://localhost:8080/source/EXT177> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT177> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Pergine-Kamauz-Frassilongo-S.Felice F.-Hacleri" .
+<http://localhost:8080/source/EXT177> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT177> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT177> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B418" .
+<http://localhost:8080/source/EXT177> <http://www.w3.org/2000/01/rdf-schema#label> "B418" .
+<http://localhost:8080/source/EXT177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/EXT179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT179> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT179> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Pergine -Canezza -Viarago -S.Orsola -Palù" .
+<http://localhost:8080/source/EXT179> <http://www.w3.org/2000/01/rdf-schema#label> "B417" .
+<http://localhost:8080/source/EXT179> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT179> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B417" .
+<http://localhost:8080/source/EXT179> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT179> <http://www.w3.org/2000/01/rdf-schema#label> "Pergine -Canezza -Viarago -S.Orsola -Palù" .
+
+<http://localhost:8080/source/EXT181> <http://www.w3.org/2000/01/rdf-schema#label> "B302" .
+<http://localhost:8080/source/EXT181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT181> <http://www.w3.org/2000/01/rdf-schema#label> "Trento -Ravina -Mattarello -Aldeno -Garniga Terme" .
+<http://localhost:8080/source/EXT181> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B302" .
+<http://localhost:8080/source/EXT181> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT181> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento -Ravina -Mattarello -Aldeno -Garniga Terme" .
+<http://localhost:8080/source/EXT181> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT181> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/EXT184> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Borgo Valsugana - Telve - Torcegno" .
+<http://localhost:8080/source/EXT184> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT184> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT184> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B407" .
+<http://localhost:8080/source/EXT184> <http://www.w3.org/2000/01/rdf-schema#label> "B407" .
+<http://localhost:8080/source/EXT184> <http://www.w3.org/2000/01/rdf-schema#label> "Borgo Valsugana - Telve - Torcegno" .
+<http://localhost:8080/source/EXT184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT184> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/EXT186> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B303" .
+<http://localhost:8080/source/EXT186> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT186> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT186> <http://www.w3.org/2000/01/rdf-schema#label> "B303" .
+<http://localhost:8080/source/EXT186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT186> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-V.Vattaro-Centa-Carbonare-Lavarone-Luserna" .
+<http://localhost:8080/source/EXT186> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-V.Vattaro-Centa-Carbonare-Lavarone-Luserna" .
+<http://localhost:8080/source/EXT186> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT188> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT188> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B423" .
+<http://localhost:8080/source/EXT188> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT188> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Pergine Vals.-Ischia-Tenna-Levico Terme" .
+<http://localhost:8080/source/EXT188> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT188> <http://www.w3.org/2000/01/rdf-schema#label> "Pergine Vals.-Ischia-Tenna-Levico Terme" .
+<http://localhost:8080/source/EXT188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT188> <http://www.w3.org/2000/01/rdf-schema#label> "B423" .
+
+<http://localhost:8080/source/EXT194> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT194> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Rovereto-Villa-Nomi-Aldeno" .
+<http://localhost:8080/source/EXT194> <http://www.w3.org/2000/01/rdf-schema#label> "B311" .
+<http://localhost:8080/source/EXT194> <http://www.w3.org/2000/01/rdf-schema#label> "Rovereto-Villa-Nomi-Aldeno" .
+<http://localhost:8080/source/EXT194> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B311" .
+<http://localhost:8080/source/EXT194> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT194> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/EXT196> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Rovereto-Calliano-Folgaria-Lavarone" .
+<http://localhost:8080/source/EXT196> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT196> <http://www.w3.org/2000/01/rdf-schema#label> "Rovereto-Calliano-Folgaria-Lavarone" .
+<http://localhost:8080/source/EXT196> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT196> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT196> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B306" .
+<http://localhost:8080/source/EXT196> <http://www.w3.org/2000/01/rdf-schema#label> "B306" .
+
+<http://localhost:8080/source/EXT198> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B315" .
+<http://localhost:8080/source/EXT198> <http://www.w3.org/2000/01/rdf-schema#label> "Rovereto-Terragnolo-Serrada-Folgaria" .
+<http://localhost:8080/source/EXT198> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT198> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT198> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT198> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Rovereto-Terragnolo-Serrada-Folgaria" .
+<http://localhost:8080/source/EXT198> <http://www.w3.org/2000/01/rdf-schema#label> "B315" .
+
+<http://localhost:8080/source/EXT200> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT200> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B307" .
+<http://localhost:8080/source/EXT200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT200> <http://www.w3.org/2000/01/rdf-schema#label> "Rovereto-Mori-Chizzola-Cornè-Ala-Avio" .
+<http://localhost:8080/source/EXT200> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT200> <http://www.w3.org/2000/01/rdf-schema#label> "B307" .
+<http://localhost:8080/source/EXT200> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT200> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Rovereto-Mori-Chizzola-Cornè-Ala-Avio" .
+
+<http://localhost:8080/source/EXT203> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT203> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Rovereto-Riva-Obra di Vallarsa-Ometto" .
+<http://localhost:8080/source/EXT203> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B314" .
+<http://localhost:8080/source/EXT203> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT203> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT203> <http://www.w3.org/2000/01/rdf-schema#label> "B314" .
+<http://localhost:8080/source/EXT203> <http://www.w3.org/2000/01/rdf-schema#label> "Rovereto-Riva-Obra di Vallarsa-Ometto" .
+
+<http://localhost:8080/source/EXT215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT215> <http://www.w3.org/2000/01/rdf-schema#label> "Rovereto-Pozzacchio-Raossi-P.Vallarsa-P.Fugazze" .
+<http://localhost:8080/source/EXT215> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT215> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B312" .
+<http://localhost:8080/source/EXT215> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT215> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT215> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Rovereto-Pozzacchio-Raossi-P.Vallarsa-P.Fugazze" .
+<http://localhost:8080/source/EXT215> <http://www.w3.org/2000/01/rdf-schema#label> "B312" .
+
+<http://localhost:8080/source/EXT220> <http://www.w3.org/2000/01/rdf-schema#label> "B310" .
+<http://localhost:8080/source/EXT220> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT220> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B310" .
+<http://localhost:8080/source/EXT220> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT220> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT220> <http://www.w3.org/2000/01/rdf-schema#label> "Rovereto-Mori-S.Felice-Ronzo Chienis" .
+<http://localhost:8080/source/EXT220> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Rovereto-Mori-S.Felice-Ronzo Chienis" .
+<http://localhost:8080/source/EXT220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/EXT227> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT227> <http://www.w3.org/2000/01/rdf-schema#label> "Caoria-Canal S.Bovo-Feltre" .
+<http://localhost:8080/source/EXT227> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B507" .
+<http://localhost:8080/source/EXT227> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT227> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Caoria-Canal S.Bovo-Feltre" .
+<http://localhost:8080/source/EXT227> <http://www.w3.org/2000/01/rdf-schema#label> "B507" .
+<http://localhost:8080/source/EXT227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT227> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT229> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-Ciago-Monte Terlago-Ranzo-Margone" .
+<http://localhost:8080/source/EXT229> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT229> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B230" .
+<http://localhost:8080/source/EXT229> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT229> <http://www.w3.org/2000/01/rdf-schema#label> "B230" .
+<http://localhost:8080/source/EXT229> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-Ciago-Monte Terlago-Ranzo-Margone" .
+<http://localhost:8080/source/EXT229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT229> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/EXT231> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B305" .
+<http://localhost:8080/source/EXT231> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT231> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT231> <http://www.w3.org/2000/01/rdf-schema#label> "Rovereto-Mori-Brentonico-Saccone" .
+<http://localhost:8080/source/EXT231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT231> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT231> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Rovereto-Mori-Brentonico-Saccone" .
+<http://localhost:8080/source/EXT231> <http://www.w3.org/2000/01/rdf-schema#label> "B305" .
+
+<http://localhost:8080/source/EXT233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT233> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT233> <http://www.w3.org/2000/01/rdf-schema#label> "B319" .
+<http://localhost:8080/source/EXT233> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B319" .
+<http://localhost:8080/source/EXT233> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Besagno-Crosano-Cornè-Saccone" .
+<http://localhost:8080/source/EXT233> <http://www.w3.org/2000/01/rdf-schema#label> "Besagno-Crosano-Cornè-Saccone" .
+<http://localhost:8080/source/EXT233> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT233> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/EXT235> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Valle S.Felice-Manzano-Nomesino" .
+<http://localhost:8080/source/EXT235> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT235> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT235> <http://www.w3.org/2000/01/rdf-schema#label> "B318" .
+<http://localhost:8080/source/EXT235> <http://www.w3.org/2000/01/rdf-schema#label> "Valle S.Felice-Manzano-Nomesino" .
+<http://localhost:8080/source/EXT235> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT235> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B318" .
+
+<http://localhost:8080/source/EXT300> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B115" .
+<http://localhost:8080/source/EXT300> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT300> <http://www.w3.org/2000/01/rdf-schema#label> "B115" .
+<http://localhost:8080/source/EXT300> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT300> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Pergine - Civezzano" .
+<http://localhost:8080/source/EXT300> <http://www.w3.org/2000/01/rdf-schema#label> "Pergine - Civezzano" .
+<http://localhost:8080/source/EXT300> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT309> <http://www.w3.org/2000/01/rdf-schema#label> "B425" .
+<http://localhost:8080/source/EXT309> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B425" .
+<http://localhost:8080/source/EXT309> <http://www.w3.org/2000/01/rdf-schema#label> "Pergine Vals.-Masetti-Assizzi-Vignola-Falesina" .
+<http://localhost:8080/source/EXT309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT309> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT309> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Pergine Vals.-Masetti-Assizzi-Vignola-Falesina" .
+<http://localhost:8080/source/EXT309> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT309> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT311> <http://www.w3.org/2000/01/rdf-schema#label> "B511" .
+<http://localhost:8080/source/EXT311> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT311> <http://www.w3.org/2000/01/rdf-schema#label> "Siror - Fiera di Primiero - Imer - Masi Imer" .
+<http://localhost:8080/source/EXT311> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT311> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B511" .
+<http://localhost:8080/source/EXT311> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Siror - Fiera di Primiero - Imer - Masi Imer" .
+<http://localhost:8080/source/EXT311> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT316> <http://www.w3.org/2000/01/rdf-schema#label> "Moena-Passo  S.Pellegrino-Falcade" .
+<http://localhost:8080/source/EXT316> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT316> <http://www.w3.org/2000/01/rdf-schema#label> "B123" .
+<http://localhost:8080/source/EXT316> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT316> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B123" .
+<http://localhost:8080/source/EXT316> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT316> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Moena-Passo  S.Pellegrino-Falcade" .
+
+<http://localhost:8080/source/EXT322> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT322> <http://www.w3.org/2000/01/rdf-schema#label> "B218" .
+<http://localhost:8080/source/EXT322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT322> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT322> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT322> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Vigo Cavedine - Masi di Vigo Cavedine" .
+<http://localhost:8080/source/EXT322> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B218" .
+<http://localhost:8080/source/EXT322> <http://www.w3.org/2000/01/rdf-schema#label> "Vigo Cavedine - Masi di Vigo Cavedine" .
+
+<http://localhost:8080/source/EXT324> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT324> <http://www.w3.org/2000/01/rdf-schema#label> "B640" .
+<http://localhost:8080/source/EXT324> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B640" .
+<http://localhost:8080/source/EXT324> <http://www.w3.org/2000/01/rdf-schema#label> "Malè - Rabbi Bagni - Somrabbi" .
+<http://localhost:8080/source/EXT324> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT324> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Malè - Rabbi Bagni - Somrabbi" .
+<http://localhost:8080/source/EXT324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT324> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/EXT326> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT326> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B642" .
+<http://localhost:8080/source/EXT326> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT326> <http://www.w3.org/2000/01/rdf-schema#label> "Malè - Folgarida - Madonna di Campiglio" .
+<http://localhost:8080/source/EXT326> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT326> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Malè - Folgarida - Madonna di Campiglio" .
+<http://localhost:8080/source/EXT326> <http://www.w3.org/2000/01/rdf-schema#label> "B642" .
+<http://localhost:8080/source/EXT326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/EXT328> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT328> <http://www.w3.org/2000/01/rdf-schema#label> "B644" .
+<http://localhost:8080/source/EXT328> <http://www.w3.org/2000/01/rdf-schema#label> "Pellizzano - Menas" .
+<http://localhost:8080/source/EXT328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT328> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Pellizzano - Menas" .
+<http://localhost:8080/source/EXT328> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B644" .
+<http://localhost:8080/source/EXT328> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT328> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT330> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Malè - Bolentina" .
+<http://localhost:8080/source/EXT330> <http://www.w3.org/2000/01/rdf-schema#label> "Malè - Bolentina" .
+<http://localhost:8080/source/EXT330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT330> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT330> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT330> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B641" .
+<http://localhost:8080/source/EXT330> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT330> <http://www.w3.org/2000/01/rdf-schema#label> "B641" .
+
+<http://localhost:8080/source/EXT332> <http://www.w3.org/2000/01/rdf-schema#label> "B646" .
+<http://localhost:8080/source/EXT332> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT332> <http://www.w3.org/2000/01/rdf-schema#label> "Malè-Mezzana-Fucine-Vermiglio-Passo Tonale" .
+<http://localhost:8080/source/EXT332> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT332> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Malè-Mezzana-Fucine-Vermiglio-Passo Tonale" .
+<http://localhost:8080/source/EXT332> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B646" .
+<http://localhost:8080/source/EXT332> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/EXT334> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT334> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Malè - Mezzana - Marilleva 1400" .
+<http://localhost:8080/source/EXT334> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT334> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B643" .
+<http://localhost:8080/source/EXT334> <http://www.w3.org/2000/01/rdf-schema#label> "Malè - Mezzana - Marilleva 1400" .
+<http://localhost:8080/source/EXT334> <http://www.w3.org/2000/01/rdf-schema#label> "B643" .
+<http://localhost:8080/source/EXT334> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/EXT336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT336> <http://www.w3.org/2000/01/rdf-schema#label> "Malè-Mezzana-Fucine-Cogolo-Peio" .
+<http://localhost:8080/source/EXT336> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B645" .
+<http://localhost:8080/source/EXT336> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT336> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT336> <http://www.w3.org/2000/01/rdf-schema#label> "B645" .
+<http://localhost:8080/source/EXT336> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Malè-Mezzana-Fucine-Cogolo-Peio" .
+<http://localhost:8080/source/EXT336> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT340> <http://www.w3.org/2000/01/rdf-schema#label> "Mezzolombardo - Roverè della Luna" .
+<http://localhost:8080/source/EXT340> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Mezzolombardo - Roverè della Luna" .
+<http://localhost:8080/source/EXT340> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT340> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B107" .
+<http://localhost:8080/source/EXT340> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT340> <http://www.w3.org/2000/01/rdf-schema#label> "B107" .
+<http://localhost:8080/source/EXT340> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/EXT343> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT343> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Mezzocorona Ferrovia - S.Michele - Faedo Pineta" .
+<http://localhost:8080/source/EXT343> <http://www.w3.org/2000/01/rdf-schema#label> "Mezzocorona Ferrovia - S.Michele - Faedo Pineta" .
+<http://localhost:8080/source/EXT343> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT343> <http://www.w3.org/2000/01/rdf-schema#label> "B106" .
+<http://localhost:8080/source/EXT343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT343> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B106" .
+<http://localhost:8080/source/EXT343> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/EXT345> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT345> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-Mezzocorona-Fai d/Paganella-Andalo-Molveno" .
+<http://localhost:8080/source/EXT345> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT345> <http://www.w3.org/2000/01/rdf-schema#label> "B611" .
+<http://localhost:8080/source/EXT345> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B611" .
+<http://localhost:8080/source/EXT345> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-Mezzocorona-Fai d/Paganella-Andalo-Molveno" .
+<http://localhost:8080/source/EXT345> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT352> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> " FERROVIA TRENTO - MALE' - MEZZANA" .
+<http://localhost:8080/source/EXT352> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "R35" .
+<http://localhost:8080/source/EXT352> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "2" .
+<http://localhost:8080/source/EXT352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT352> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT352> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT352> <http://www.w3.org/2000/01/rdf-schema#label> "R35" .
+<http://localhost:8080/source/EXT352> <http://www.w3.org/2000/01/rdf-schema#label> " FERROVIA TRENTO - MALE' - MEZZANA" .
+
+<http://localhost:8080/source/EXT354> <http://www.w3.org/2000/01/rdf-schema#label> "Cles - Mechel" .
+<http://localhost:8080/source/EXT354> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT354> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT354> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT354> <http://www.w3.org/2000/01/rdf-schema#label> "B624" .
+<http://localhost:8080/source/EXT354> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B624" .
+<http://localhost:8080/source/EXT354> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Cles - Mechel" .
+
+<http://localhost:8080/source/EXT357> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Cles - Livo - Bresimo - Lanza di Rumo" .
+<http://localhost:8080/source/EXT357> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT357> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B634" .
+<http://localhost:8080/source/EXT357> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT357> <http://www.w3.org/2000/01/rdf-schema#label> "B634" .
+<http://localhost:8080/source/EXT357> <http://www.w3.org/2000/01/rdf-schema#label> "Cles - Livo - Bresimo - Lanza di Rumo" .
+<http://localhost:8080/source/EXT357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT357> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/EXT364> <http://www.w3.org/2000/01/rdf-schema#label> "Cles - Revò - Castelfondo - Fondo" .
+<http://localhost:8080/source/EXT364> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT364> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT364> <http://www.w3.org/2000/01/rdf-schema#label> "B632" .
+<http://localhost:8080/source/EXT364> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B632" .
+<http://localhost:8080/source/EXT364> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Cles - Revò - Castelfondo - Fondo" .
+<http://localhost:8080/source/EXT364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT364> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/EXT366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT366> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT366> <http://www.w3.org/2000/01/rdf-schema#label> "B620" .
+<http://localhost:8080/source/EXT366> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT366> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Mezzolombardo-Campodenno-Denno-Cles" .
+<http://localhost:8080/source/EXT366> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B620" .
+<http://localhost:8080/source/EXT366> <http://www.w3.org/2000/01/rdf-schema#label> "Mezzolombardo-Campodenno-Denno-Cles" .
+<http://localhost:8080/source/EXT366> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT368> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT368> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B627" .
+<http://localhost:8080/source/EXT368> <http://www.w3.org/2000/01/rdf-schema#label> "B627" .
+<http://localhost:8080/source/EXT368> <http://www.w3.org/2000/01/rdf-schema#label> "Cles - Dermulo - Coredo - Smarano - Sfruz" .
+<http://localhost:8080/source/EXT368> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Cles - Dermulo - Coredo - Smarano - Sfruz" .
+<http://localhost:8080/source/EXT368> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT368> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/EXT371> <http://www.w3.org/2000/01/rdf-schema#label> "Fondo - Tret" .
+<http://localhost:8080/source/EXT371> <http://www.w3.org/2000/01/rdf-schema#label> "B631" .
+<http://localhost:8080/source/EXT371> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT371> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B631" .
+<http://localhost:8080/source/EXT371> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT371> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Fondo - Tret" .
+<http://localhost:8080/source/EXT371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT371> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT375> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT375> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Cles -Dermulo -Dambel -Don -Fondo -P.Mendola" .
+<http://localhost:8080/source/EXT375> <http://www.w3.org/2000/01/rdf-schema#label> "B630" .
+<http://localhost:8080/source/EXT375> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT375> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B630" .
+<http://localhost:8080/source/EXT375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT375> <http://www.w3.org/2000/01/rdf-schema#label> "Cles -Dermulo -Dambel -Don -Fondo -P.Mendola" .
+<http://localhost:8080/source/EXT375> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/EXT378> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT378> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Cles - Mostizzolo - Cis" .
+<http://localhost:8080/source/EXT378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT378> <http://www.w3.org/2000/01/rdf-schema#label> "B633" .
+<http://localhost:8080/source/EXT378> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT378> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT378> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B633" .
+<http://localhost:8080/source/EXT378> <http://www.w3.org/2000/01/rdf-schema#label> "Cles - Mostizzolo - Cis" .
+
+<http://localhost:8080/source/EXT395> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT395> <http://www.w3.org/2000/01/rdf-schema#label> "B615" .
+<http://localhost:8080/source/EXT395> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Mezzolombardo - Vigo di Ton -  Toss" .
+<http://localhost:8080/source/EXT395> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT395> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT395> <http://www.w3.org/2000/01/rdf-schema#label> "Mezzolombardo - Vigo di Ton -  Toss" .
+<http://localhost:8080/source/EXT395> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B615" .
+<http://localhost:8080/source/EXT395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/EXT397> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B623" .
+<http://localhost:8080/source/EXT397> <http://www.w3.org/2000/01/rdf-schema#label> "Cles - Pavillo - Tuenno - Nanno - Portolo" .
+<http://localhost:8080/source/EXT397> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT397> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT397> <http://www.w3.org/2000/01/rdf-schema#label> "B623" .
+<http://localhost:8080/source/EXT397> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT397> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Cles - Pavillo - Tuenno - Nanno - Portolo" .
+<http://localhost:8080/source/EXT397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/EXT401> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT401> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Mollaro - Priò - Vervò - Tres" .
+<http://localhost:8080/source/EXT401> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B625" .
+<http://localhost:8080/source/EXT401> <http://www.w3.org/2000/01/rdf-schema#label> "B625" .
+<http://localhost:8080/source/EXT401> <http://www.w3.org/2000/01/rdf-schema#label> "Mollaro - Priò - Vervò - Tres" .
+<http://localhost:8080/source/EXT401> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT401> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT417> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B863" .
+<http://localhost:8080/source/EXT417> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT417> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Linea 3 integrata:Nago-Torbole-Riva-Arco-Bolognano" .
+<http://localhost:8080/source/EXT417> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT417> <http://www.w3.org/2000/01/rdf-schema#label> "Linea 3 integrata:Nago-Torbole-Riva-Arco-Bolognano" .
+<http://localhost:8080/source/EXT417> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT417> <http://www.w3.org/2000/01/rdf-schema#label> "B863" .
+
+<http://localhost:8080/source/EXT420> <http://www.w3.org/2000/01/rdf-schema#label> "Linea 1: Riva -Varone -Arco -S.Giorgio-Brione-Riva" .
+<http://localhost:8080/source/EXT420> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Linea 1: Riva -Varone -Arco -S.Giorgio-Brione-Riva" .
+<http://localhost:8080/source/EXT420> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT420> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT420> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT420> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B861" .
+<http://localhost:8080/source/EXT420> <http://www.w3.org/2000/01/rdf-schema#label> "B861" .
+
+<http://localhost:8080/source/EXT423> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Linea 2: Riva-Brione-S.Giorgio-Arco-Varone-Riva" .
+<http://localhost:8080/source/EXT423> <http://www.w3.org/2000/01/rdf-schema#label> "Linea 2: Riva-Brione-S.Giorgio-Arco-Varone-Riva" .
+<http://localhost:8080/source/EXT423> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B862" .
+<http://localhost:8080/source/EXT423> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT423> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT423> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT423> <http://www.w3.org/2000/01/rdf-schema#label> "B862" .
+
+<http://localhost:8080/source/EXT494> <http://www.w3.org/2000/01/rdf-schema#label> "Trento - Pergine - Baselga di Pinè - Montesover" .
+<http://localhost:8080/source/EXT494> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B403" .
+<http://localhost:8080/source/EXT494> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento - Pergine - Baselga di Pinè - Montesover" .
+<http://localhost:8080/source/EXT494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT494> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT494> <http://www.w3.org/2000/01/rdf-schema#label> "B403" .
+<http://localhost:8080/source/EXT494> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT494> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+
+<http://localhost:8080/source/EXT503> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Rovereto-Ala-Masi d'Avio-Avio-Rovereto" .
+<http://localhost:8080/source/EXT503> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT503> <http://www.w3.org/2000/01/rdf-schema#label> "Rovereto-Ala-Masi d'Avio-Avio-Rovereto" .
+<http://localhost:8080/source/EXT503> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT503> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT503> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B335" .
+<http://localhost:8080/source/EXT503> <http://www.w3.org/2000/01/rdf-schema#label> "B335" .
+
+<http://localhost:8080/source/EXT507> <http://www.w3.org/2000/01/rdf-schema#label> "Rovereto-Ala-Sabbionara-Avio-Masi-Rovereto" .
+<http://localhost:8080/source/EXT507> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Rovereto-Ala-Sabbionara-Avio-Masi-Rovereto" .
+<http://localhost:8080/source/EXT507> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT507> <http://www.w3.org/2000/01/rdf-schema#label> "B334" .
+<http://localhost:8080/source/EXT507> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B334" .
+<http://localhost:8080/source/EXT507> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT507> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+
+<http://localhost:8080/source/EXT520> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT520> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT520> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-Pergine V.-Levico T.-Borgo V." .
+<http://localhost:8080/source/EXT520> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT520> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-Pergine V.-Levico T.-Borgo V." .
+<http://localhost:8080/source/EXT520> <http://www.w3.org/2000/01/rdf-schema#label> "B401" .
+<http://localhost:8080/source/EXT520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT520> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B401" .
+
+<http://localhost:8080/source/EXT522> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT522> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT522> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Borgo V.- Strigno - Castello Tesino" .
+<http://localhost:8080/source/EXT522> <http://www.w3.org/2000/01/rdf-schema#label> "B405" .
+<http://localhost:8080/source/EXT522> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT522> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B405" .
+<http://localhost:8080/source/EXT522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT522> <http://www.w3.org/2000/01/rdf-schema#label> "Borgo V.- Strigno - Castello Tesino" .
+
+<http://localhost:8080/source/EXT549> <http://www.w3.org/2000/01/rdf-schema#label> "B461" .
+<http://localhost:8080/source/EXT549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT549> <http://www.w3.org/2000/01/rdf-schema#label> "Linea 1 Pergine Valsugana - Madrano - Nogarè" .
+<http://localhost:8080/source/EXT549> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT549> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Linea 1 Pergine Valsugana - Madrano - Nogarè" .
+<http://localhost:8080/source/EXT549> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B461" .
+<http://localhost:8080/source/EXT549> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT549> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT551> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B462" .
+<http://localhost:8080/source/EXT551> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT551> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT551> <http://www.w3.org/2000/01/rdf-schema#label> "B462" .
+<http://localhost:8080/source/EXT551> <http://www.w3.org/2000/01/rdf-schema#label> "Linea 2 Pergine-Zivignago-Canezza-Viarago-Serso" .
+<http://localhost:8080/source/EXT551> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT551> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Linea 2 Pergine-Zivignago-Canezza-Viarago-Serso" .
+
+<http://localhost:8080/source/EXT552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT552> <http://www.w3.org/2000/01/rdf-schema#label> "B466" .
+<http://localhost:8080/source/EXT552> <http://www.w3.org/2000/01/rdf-schema#label> "Linea 6 Pergine Valsugana-Costasavina-Roncogno" .
+<http://localhost:8080/source/EXT552> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B466" .
+<http://localhost:8080/source/EXT552> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT552> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT552> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Linea 6 Pergine Valsugana-Costasavina-Roncogno" .
+<http://localhost:8080/source/EXT552> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/EXT554> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT554> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT554> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Linea 4 Pergine Valsugana - Ischia" .
+<http://localhost:8080/source/EXT554> <http://www.w3.org/2000/01/rdf-schema#label> "Linea 4 Pergine Valsugana - Ischia" .
+<http://localhost:8080/source/EXT554> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B464" .
+<http://localhost:8080/source/EXT554> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT554> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT554> <http://www.w3.org/2000/01/rdf-schema#label> "B464" .
+
+<http://localhost:8080/source/EXT556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT556> <http://www.w3.org/2000/01/rdf-schema#label> "Linea 3 Pergine Valsugana-Masetti-Assizzi-Zava" .
+<http://localhost:8080/source/EXT556> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT556> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Linea 3 Pergine Valsugana-Masetti-Assizzi-Zava" .
+<http://localhost:8080/source/EXT556> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT556> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B463" .
+<http://localhost:8080/source/EXT556> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT556> <http://www.w3.org/2000/01/rdf-schema#label> "B463" .
+
+<http://localhost:8080/source/EXT562> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT562> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT562> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Linea 5 Pergine V-Susà-S.Vito-Canale-S.Caterina" .
+<http://localhost:8080/source/EXT562> <http://www.w3.org/2000/01/rdf-schema#label> "B465" .
+<http://localhost:8080/source/EXT562> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B465" .
+<http://localhost:8080/source/EXT562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT562> <http://www.w3.org/2000/01/rdf-schema#label> "Linea 5 Pergine V-Susà-S.Vito-Canale-S.Caterina" .
+<http://localhost:8080/source/EXT562> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT565> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT565> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT565> <http://www.w3.org/2000/01/rdf-schema#label> "Sopramonte-Baselga-Vigolo B.-Terlago-M.Terlago" .
+<http://localhost:8080/source/EXT565> <http://www.w3.org/2000/01/rdf-schema#label> "B236" .
+<http://localhost:8080/source/EXT565> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B236" .
+<http://localhost:8080/source/EXT565> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Sopramonte-Baselga-Vigolo B.-Terlago-M.Terlago" .
+<http://localhost:8080/source/EXT565> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT578> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "2" .
+<http://localhost:8080/source/EXT578> <http://www.w3.org/2000/01/rdf-schema#label> "R15" .
+<http://localhost:8080/source/EXT578> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Servizi Trenitalia - Brennero Andata" .
+<http://localhost:8080/source/EXT578> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT578> <http://www.w3.org/2000/01/rdf-schema#label> "Servizi Trenitalia - Brennero Andata" .
+<http://localhost:8080/source/EXT578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT578> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT578> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "R15" .
+
+<http://localhost:8080/source/EXT580> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B336" .
+<http://localhost:8080/source/EXT580> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT580> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Ala-Ronchi di Ala-Ponzolotti" .
+<http://localhost:8080/source/EXT580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT580> <http://www.w3.org/2000/01/rdf-schema#label> "B336" .
+<http://localhost:8080/source/EXT580> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT580> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT580> <http://www.w3.org/2000/01/rdf-schema#label> "Ala-Ronchi di Ala-Ponzolotti" .
+
+<http://localhost:8080/source/EXT604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT604> <http://www.w3.org/2000/01/rdf-schema#label> "B120" .
+<http://localhost:8080/source/EXT604> <http://www.w3.org/2000/01/rdf-schema#label> "Cavalese Autostazione - Ospedale" .
+<http://localhost:8080/source/EXT604> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B120" .
+<http://localhost:8080/source/EXT604> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT604> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT604> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT604> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Cavalese Autostazione - Ospedale" .
+
+<http://localhost:8080/source/EXT618> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT618> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT618> <http://www.w3.org/2000/01/rdf-schema#label> "B503" .
+<http://localhost:8080/source/EXT618> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT618> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B503" .
+<http://localhost:8080/source/EXT618> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Caoria-Imer-Fiera di Primiero-Voltago-Agordo" .
+<http://localhost:8080/source/EXT618> <http://www.w3.org/2000/01/rdf-schema#label> "Caoria-Imer-Fiera di Primiero-Voltago-Agordo" .
+
+<http://localhost:8080/source/EXT634> <http://www.w3.org/2000/01/rdf-schema#label> "Rovereto-Mori-Riva-Arco-Bolognano" .
+<http://localhost:8080/source/EXT634> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT634> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Rovereto-Mori-Riva-Arco-Bolognano" .
+<http://localhost:8080/source/EXT634> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT634> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT634> <http://www.w3.org/2000/01/rdf-schema#label> "B332" .
+<http://localhost:8080/source/EXT634> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B332" .
+
+<http://localhost:8080/source/EXT636> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Tione-Pinzolo-Madonna di C.-C.C.Magno" .
+<http://localhost:8080/source/EXT636> <http://www.w3.org/2000/01/rdf-schema#label> "Tione-Pinzolo-Madonna di C.-C.C.Magno" .
+<http://localhost:8080/source/EXT636> <http://www.w3.org/2000/01/rdf-schema#label> "B231" .
+<http://localhost:8080/source/EXT636> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT636> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B231" .
+<http://localhost:8080/source/EXT636> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT636> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT638> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B140" .
+<http://localhost:8080/source/EXT638> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT638> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "AAM: Ora-S.Lugano-Castello di Fiemme-Cavalese" .
+<http://localhost:8080/source/EXT638> <http://www.w3.org/2000/01/rdf-schema#label> "AAM: Ora-S.Lugano-Castello di Fiemme-Cavalese" .
+<http://localhost:8080/source/EXT638> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT638> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT638> <http://www.w3.org/2000/01/rdf-schema#label> "B140" .
+
+<http://localhost:8080/source/EXT640> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Linea 8: Pergine I.-Ospedale Villa Rosa-Zivignago" .
+<http://localhost:8080/source/EXT640> <http://www.w3.org/2000/01/rdf-schema#label> "Linea 8: Pergine I.-Ospedale Villa Rosa-Zivignago" .
+<http://localhost:8080/source/EXT640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT640> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT640> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT640> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT640> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B468" .
+<http://localhost:8080/source/EXT640> <http://www.w3.org/2000/01/rdf-schema#label> "B468" .
+
+<http://localhost:8080/source/EXT647> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Siror - Fiera  P. - Imer - Canal S.B." .
+<http://localhost:8080/source/EXT647> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT647> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT647> <http://www.w3.org/2000/01/rdf-schema#label> "Siror - Fiera  P. - Imer - Canal S.B." .
+<http://localhost:8080/source/EXT647> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B511" .
+<http://localhost:8080/source/EXT647> <http://www.w3.org/2000/01/rdf-schema#label> "B511" .
+<http://localhost:8080/source/EXT647> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT665> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B221" .
+<http://localhost:8080/source/EXT665> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Riva del Garda-Deva-Pranzo-Campi" .
+<http://localhost:8080/source/EXT665> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT665> <http://www.w3.org/2000/01/rdf-schema#label> "B221" .
+<http://localhost:8080/source/EXT665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT665> <http://www.w3.org/2000/01/rdf-schema#label> "Riva del Garda-Deva-Pranzo-Campi" .
+<http://localhost:8080/source/EXT665> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT665> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/EXT672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT672> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> " Riva del Garda-Deva-Pranzo-Campi" .
+<http://localhost:8080/source/EXT672> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT672> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT672> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B869" .
+<http://localhost:8080/source/EXT672> <http://www.w3.org/2000/01/rdf-schema#label> " Riva del Garda-Deva-Pranzo-Campi" .
+<http://localhost:8080/source/EXT672> <http://www.w3.org/2000/01/rdf-schema#label> "B869" .
+<http://localhost:8080/source/EXT672> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT681> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B665" .
+<http://localhost:8080/source/EXT681> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT681> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT681> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "SU.Ville Anaunia:Portolo-Nanno-Rallo-Pavillo-Cles" .
+<http://localhost:8080/source/EXT681> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT681> <http://www.w3.org/2000/01/rdf-schema#label> "B665" .
+<http://localhost:8080/source/EXT681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT681> <http://www.w3.org/2000/01/rdf-schema#label> "SU.Ville Anaunia:Portolo-Nanno-Rallo-Pavillo-Cles" .
+
+<http://localhost:8080/source/EXT687> <http://www.w3.org/2000/01/rdf-schema#label> "SU Vallelaghi: Terlago-M.Terlago-Ciago-Lon-Vezzano" .
+<http://localhost:8080/source/EXT687> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT687> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "SU Vallelaghi: Terlago-M.Terlago-Ciago-Lon-Vezzano" .
+<http://localhost:8080/source/EXT687> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT687> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B261" .
+<http://localhost:8080/source/EXT687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT687> <http://www.w3.org/2000/01/rdf-schema#label> "B261" .
+<http://localhost:8080/source/EXT687> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT691> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-Bassano Trentino Trasporti Spa" .
+<http://localhost:8080/source/EXT691> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT691> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "R25" .
+<http://localhost:8080/source/EXT691> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "2" .
+<http://localhost:8080/source/EXT691> <http://www.w3.org/2000/01/rdf-schema#label> "R25" .
+<http://localhost:8080/source/EXT691> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-Bassano Trentino Trasporti Spa" .
+<http://localhost:8080/source/EXT691> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+
+<http://localhost:8080/source/EXT693> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT693> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "2" .
+<http://localhost:8080/source/EXT693> <http://www.w3.org/2000/01/rdf-schema#label> "R26" .
+<http://localhost:8080/source/EXT693> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-Borgo Trentino Trasporti Spa" .
+<http://localhost:8080/source/EXT693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT693> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT693> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "R26" .
+<http://localhost:8080/source/EXT693> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-Borgo Trentino Trasporti Spa" .
+
+<http://localhost:8080/source/EXT695> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT695> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT695> <http://www.w3.org/2000/01/rdf-schema#label> "R25" .
+<http://localhost:8080/source/EXT695> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Servizi Trenitalia - Andata Tn-Bassano" .
+<http://localhost:8080/source/EXT695> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "R25" .
+<http://localhost:8080/source/EXT695> <http://www.w3.org/2000/01/rdf-schema#label> "Servizi Trenitalia - Andata Tn-Bassano" .
+<http://localhost:8080/source/EXT695> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "2" .
+
+<http://localhost:8080/source/EXT696> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT696> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Servizi Trenitalia - AndataTn-Borgo" .
+<http://localhost:8080/source/EXT696> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "2" .
+<http://localhost:8080/source/EXT696> <http://www.w3.org/2000/01/rdf-schema#label> "Servizi Trenitalia - AndataTn-Borgo" .
+<http://localhost:8080/source/EXT696> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "R26" .
+<http://localhost:8080/source/EXT696> <http://www.w3.org/2000/01/rdf-schema#label> "R26" .
+<http://localhost:8080/source/EXT696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT696> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+
+<http://localhost:8080/source/EXT703> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT703> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-Lavis-Zambana-Nave S.Rocco-Mezzolombardo" .
+<http://localhost:8080/source/EXT703> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT703> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B621" .
+<http://localhost:8080/source/EXT703> <http://www.w3.org/2000/01/rdf-schema#label> "B621" .
+<http://localhost:8080/source/EXT703> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT703> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-Lavis-Zambana-Nave S.Rocco-Mezzolombardo" .
+
+<http://localhost:8080/source/EXT713> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B601" .
+<http://localhost:8080/source/EXT713> <http://www.w3.org/2000/01/rdf-schema#label> "B601" .
+<http://localhost:8080/source/EXT713> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT713> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Trento-Dermulo-Cles-Malè" .
+<http://localhost:8080/source/EXT713> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT713> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT713> <http://www.w3.org/2000/01/rdf-schema#label> "Trento-Dermulo-Cles-Malè" .
+
+<http://localhost:8080/source/EXT717> <http://www.w3.org/2000/01/rdf-schema#label> "B450" .
+<http://localhost:8080/source/EXT717> <http://www.w3.org/2000/01/rdf-schema#label> "Servizio sostitutivo treno-Andata" .
+<http://localhost:8080/source/EXT717> <http://knowdive.disi.unitn.it/etype#has_routeShortNameR> "B450" .
+<http://localhost:8080/source/EXT717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Route> .
+<http://localhost:8080/source/EXT717> <http://knowdive.disi.unitn.it/etype#has_agencyIdR> "12" .
+<http://localhost:8080/source/EXT717> <http://www.w3.org/2000/01/rdf-schema#label> "12" .
+<http://localhost:8080/source/EXT717> <http://knowdive.disi.unitn.it/etype#has_routeTypeUR> "3" .
+<http://localhost:8080/source/EXT717> <http://knowdive.disi.unitn.it/etype#has_routeLongNameR> "Servizio sostitutivo treno-Andata" .
+

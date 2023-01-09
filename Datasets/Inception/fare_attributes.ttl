@@ -1,0 +1,387 @@
+<http://localhost:8080/source/URB_INTERA%20314-Biglietto%20Urbano%20Alto%20Garda%2070%20Min> <http://www.w3.org/2000/01/rdf-schema#label> "1.00" .
+<http://localhost:8080/source/URB_INTERA%20314-Biglietto%20Urbano%20Alto%20Garda%2070%20Min> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20314-Biglietto%20Urbano%20Alto%20Garda%2070%20Min> <http://knowdive.disi.unitn.it/etype#has_priceFA> "1.00" .
+<http://localhost:8080/source/URB_INTERA%20314-Biglietto%20Urbano%20Alto%20Garda%2070%20Min> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "4200" .
+<http://localhost:8080/source/URB_INTERA%20314-Biglietto%20Urbano%20Alto%20Garda%2070%20Min> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/URB_INTERA%20314-Biglietto%20Urbano%20Alto%20Garda%2070%20Min> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/URB_INTERA%20314-Biglietto%20Urbano%20Alto%20Garda%2070%20Min> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20314-Biglietto%20Urbano%20Alto%20Garda%2070%20Min> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+
+<http://localhost:8080/source/URB_INTERA%20442-Biglietto%20Urbano%20Pda%20Rovereto%2070%20min> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "4200" .
+<http://localhost:8080/source/URB_INTERA%20442-Biglietto%20Urbano%20Pda%20Rovereto%2070%20min> <http://knowdive.disi.unitn.it/etype#has_priceFA> "1.00" .
+<http://localhost:8080/source/URB_INTERA%20442-Biglietto%20Urbano%20Pda%20Rovereto%2070%20min> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20442-Biglietto%20Urbano%20Pda%20Rovereto%2070%20min> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/URB_INTERA%20442-Biglietto%20Urbano%20Pda%20Rovereto%2070%20min> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/URB_INTERA%20442-Biglietto%20Urbano%20Pda%20Rovereto%2070%20min> <http://www.w3.org/2000/01/rdf-schema#label> "1.00" .
+<http://localhost:8080/source/URB_INTERA%20442-Biglietto%20Urbano%20Pda%20Rovereto%2070%20min> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20442-Biglietto%20Urbano%20Pda%20Rovereto%2070%20min> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+
+<http://localhost:8080/source/URB_INTERA%20702-Biglietto%20Urbano%20Pergine%2070%20Minuti> <http://www.w3.org/2000/01/rdf-schema#label> "1.00" .
+<http://localhost:8080/source/URB_INTERA%20702-Biglietto%20Urbano%20Pergine%2070%20Minuti> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "4200" .
+<http://localhost:8080/source/URB_INTERA%20702-Biglietto%20Urbano%20Pergine%2070%20Minuti> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20702-Biglietto%20Urbano%20Pergine%2070%20Minuti> <http://knowdive.disi.unitn.it/etype#has_priceFA> "1.00" .
+<http://localhost:8080/source/URB_INTERA%20702-Biglietto%20Urbano%20Pergine%2070%20Minuti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/URB_INTERA%20702-Biglietto%20Urbano%20Pergine%2070%20Minuti> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/URB_INTERA%20702-Biglietto%20Urbano%20Pergine%2070%20Minuti> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20702-Biglietto%20Urbano%20Pergine%2070%20Minuti> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+
+<http://localhost:8080/source/URB_INTERA%20318-Biglietto%20Urbano%20Trento%2070%20Minuti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/URB_INTERA%20318-Biglietto%20Urbano%20Trento%2070%20Minuti> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "4200" .
+<http://localhost:8080/source/URB_INTERA%20318-Biglietto%20Urbano%20Trento%2070%20Minuti> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/URB_INTERA%20318-Biglietto%20Urbano%20Trento%2070%20Minuti> <http://www.w3.org/2000/01/rdf-schema#label> "1.20" .
+<http://localhost:8080/source/URB_INTERA%20318-Biglietto%20Urbano%20Trento%2070%20Minuti> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20318-Biglietto%20Urbano%20Trento%2070%20Minuti> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20318-Biglietto%20Urbano%20Trento%2070%20Minuti> <http://knowdive.disi.unitn.it/etype#has_priceFA> "1.20" .
+<http://localhost:8080/source/URB_INTERA%20318-Biglietto%20Urbano%20Trento%2070%20Minuti> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+
+<http://localhost:8080/source/URB_INTERA%20450-Biglietto%20Urbano%20Alto%20Garda%20120%20Min> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/URB_INTERA%20450-Biglietto%20Urbano%20Alto%20Garda%20120%20Min> <http://knowdive.disi.unitn.it/etype#has_priceFA> "1.30" .
+<http://localhost:8080/source/URB_INTERA%20450-Biglietto%20Urbano%20Alto%20Garda%20120%20Min> <http://www.w3.org/2000/01/rdf-schema#label> "1.30" .
+<http://localhost:8080/source/URB_INTERA%20450-Biglietto%20Urbano%20Alto%20Garda%20120%20Min> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20450-Biglietto%20Urbano%20Alto%20Garda%20120%20Min> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20450-Biglietto%20Urbano%20Alto%20Garda%20120%20Min> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "7200" .
+<http://localhost:8080/source/URB_INTERA%20450-Biglietto%20Urbano%20Alto%20Garda%20120%20Min> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20450-Biglietto%20Urbano%20Alto%20Garda%20120%20Min> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+
+<http://localhost:8080/source/URB_INTERA%20709-Biglietto%20Urbano%20Pergine%20150%20Minuti> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20709-Biglietto%20Urbano%20Pergine%20150%20Minuti> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20709-Biglietto%20Urbano%20Pergine%20150%20Minuti> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/URB_INTERA%20709-Biglietto%20Urbano%20Pergine%20150%20Minuti> <http://www.w3.org/2000/01/rdf-schema#label> "1.30" .
+<http://localhost:8080/source/URB_INTERA%20709-Biglietto%20Urbano%20Pergine%20150%20Minuti> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20709-Biglietto%20Urbano%20Pergine%20150%20Minuti> <http://knowdive.disi.unitn.it/etype#has_priceFA> "1.30" .
+<http://localhost:8080/source/URB_INTERA%20709-Biglietto%20Urbano%20Pergine%20150%20Minuti> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "9000" .
+<http://localhost:8080/source/URB_INTERA%20709-Biglietto%20Urbano%20Pergine%20150%20Minuti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+
+<http://localhost:8080/source/URB_INTERA%20445-Biglietto%20Urbano%20Pda%20Rovereto%20180%20Min> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/URB_INTERA%20445-Biglietto%20Urbano%20Pda%20Rovereto%20180%20Min> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "10800" .
+<http://localhost:8080/source/URB_INTERA%20445-Biglietto%20Urbano%20Pda%20Rovereto%20180%20Min> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20445-Biglietto%20Urbano%20Pda%20Rovereto%20180%20Min> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20445-Biglietto%20Urbano%20Pda%20Rovereto%20180%20Min> <http://www.w3.org/2000/01/rdf-schema#label> "1.40" .
+<http://localhost:8080/source/URB_INTERA%20445-Biglietto%20Urbano%20Pda%20Rovereto%20180%20Min> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20445-Biglietto%20Urbano%20Pda%20Rovereto%20180%20Min> <http://knowdive.disi.unitn.it/etype#has_priceFA> "1.40" .
+<http://localhost:8080/source/URB_INTERA%20445-Biglietto%20Urbano%20Pda%20Rovereto%20180%20Min> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+
+<http://localhost:8080/source/URB_INTERA%20435-Biglietto%20Urbano%20Trento%20120%20Min> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/URB_INTERA%20435-Biglietto%20Urbano%20Trento%20120%20Min> <http://knowdive.disi.unitn.it/etype#has_priceFA> "1.50" .
+<http://localhost:8080/source/URB_INTERA%20435-Biglietto%20Urbano%20Trento%20120%20Min> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20435-Biglietto%20Urbano%20Trento%20120%20Min> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/URB_INTERA%20435-Biglietto%20Urbano%20Trento%20120%20Min> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20435-Biglietto%20Urbano%20Trento%20120%20Min> <http://www.w3.org/2000/01/rdf-schema#label> "1.50" .
+<http://localhost:8080/source/URB_INTERA%20435-Biglietto%20Urbano%20Trento%20120%20Min> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20435-Biglietto%20Urbano%20Trento%20120%20Min> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "7200" .
+
+<http://localhost:8080/source/URB_INTERA%20729-Biglietto%20Giornaliero%20Linea%20A%20Rovereto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/URB_INTERA%20729-Biglietto%20Giornaliero%20Linea%20A%20Rovereto> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20729-Biglietto%20Giornaliero%20Linea%20A%20Rovereto> <http://www.w3.org/2000/01/rdf-schema#label> "1.50" .
+<http://localhost:8080/source/URB_INTERA%20729-Biglietto%20Giornaliero%20Linea%20A%20Rovereto> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/URB_INTERA%20729-Biglietto%20Giornaliero%20Linea%20A%20Rovereto> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "86400" .
+<http://localhost:8080/source/URB_INTERA%20729-Biglietto%20Giornaliero%20Linea%20A%20Rovereto> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20729-Biglietto%20Giornaliero%20Linea%20A%20Rovereto> <http://knowdive.disi.unitn.it/etype#has_priceFA> "1.50" .
+<http://localhost:8080/source/URB_INTERA%20729-Biglietto%20Giornaliero%20Linea%20A%20Rovereto> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+
+<http://localhost:8080/source/URB_INTERA%20446-Biglietto%20Urbano%20Giornaliero%20Pda%20Rovereto> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "86400" .
+<http://localhost:8080/source/URB_INTERA%20446-Biglietto%20Urbano%20Giornaliero%20Pda%20Rovereto> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20446-Biglietto%20Urbano%20Giornaliero%20Pda%20Rovereto> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/URB_INTERA%20446-Biglietto%20Urbano%20Giornaliero%20Pda%20Rovereto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/URB_INTERA%20446-Biglietto%20Urbano%20Giornaliero%20Pda%20Rovereto> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20446-Biglietto%20Urbano%20Giornaliero%20Pda%20Rovereto> <http://www.w3.org/2000/01/rdf-schema#label> "2.50" .
+<http://localhost:8080/source/URB_INTERA%20446-Biglietto%20Urbano%20Giornaliero%20Pda%20Rovereto> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20446-Biglietto%20Urbano%20Giornaliero%20Pda%20Rovereto> <http://knowdive.disi.unitn.it/etype#has_priceFA> "2.50" .
+
+<http://localhost:8080/source/URB_INTERA%20607-Biglietto%20Urbano%20Giornaliero%20Alto%20Garda> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/URB_INTERA%20607-Biglietto%20Urbano%20Giornaliero%20Alto%20Garda> <http://knowdive.disi.unitn.it/etype#has_priceFA> "2.50" .
+<http://localhost:8080/source/URB_INTERA%20607-Biglietto%20Urbano%20Giornaliero%20Alto%20Garda> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20607-Biglietto%20Urbano%20Giornaliero%20Alto%20Garda> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "86400" .
+<http://localhost:8080/source/URB_INTERA%20607-Biglietto%20Urbano%20Giornaliero%20Alto%20Garda> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20607-Biglietto%20Urbano%20Giornaliero%20Alto%20Garda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/URB_INTERA%20607-Biglietto%20Urbano%20Giornaliero%20Alto%20Garda> <http://www.w3.org/2000/01/rdf-schema#label> "2.50" .
+<http://localhost:8080/source/URB_INTERA%20607-Biglietto%20Urbano%20Giornaliero%20Alto%20Garda> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+
+<http://localhost:8080/source/URB_INTERA%20742-Biglietto%20Urbano%20Giornaliero%20Pergine> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "86400" .
+<http://localhost:8080/source/URB_INTERA%20742-Biglietto%20Urbano%20Giornaliero%20Pergine> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20742-Biglietto%20Urbano%20Giornaliero%20Pergine> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/URB_INTERA%20742-Biglietto%20Urbano%20Giornaliero%20Pergine> <http://knowdive.disi.unitn.it/etype#has_priceFA> "2.60" .
+<http://localhost:8080/source/URB_INTERA%20742-Biglietto%20Urbano%20Giornaliero%20Pergine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/URB_INTERA%20742-Biglietto%20Urbano%20Giornaliero%20Pergine> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20742-Biglietto%20Urbano%20Giornaliero%20Pergine> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20742-Biglietto%20Urbano%20Giornaliero%20Pergine> <http://www.w3.org/2000/01/rdf-schema#label> "2.60" .
+
+<http://localhost:8080/source/URB_INTERA%20397-Biglietto%20Urbano%20Giornaliero%20Trento> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20397-Biglietto%20Urbano%20Giornaliero%20Trento> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/URB_INTERA%20397-Biglietto%20Urbano%20Giornaliero%20Trento> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/URB_INTERA%20397-Biglietto%20Urbano%20Giornaliero%20Trento> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20397-Biglietto%20Urbano%20Giornaliero%20Trento> <http://knowdive.disi.unitn.it/etype#has_priceFA> "3.00" .
+<http://localhost:8080/source/URB_INTERA%20397-Biglietto%20Urbano%20Giornaliero%20Trento> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "86400" .
+<http://localhost:8080/source/URB_INTERA%20397-Biglietto%20Urbano%20Giornaliero%20Trento> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20397-Biglietto%20Urbano%20Giornaliero%20Trento> <http://www.w3.org/2000/01/rdf-schema#label> "3.00" .
+
+<http://localhost:8080/source/URB_INTERA%20613-Biglietto%20Funivia%20Trento-Sardagna%20Andata> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/URB_INTERA%20613-Biglietto%20Funivia%20Trento-Sardagna%20Andata> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20613-Biglietto%20Funivia%20Trento-Sardagna%20Andata> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20613-Biglietto%20Funivia%20Trento-Sardagna%20Andata> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "86400" .
+<http://localhost:8080/source/URB_INTERA%20613-Biglietto%20Funivia%20Trento-Sardagna%20Andata> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20613-Biglietto%20Funivia%20Trento-Sardagna%20Andata> <http://www.w3.org/2000/01/rdf-schema#label> "3.00" .
+<http://localhost:8080/source/URB_INTERA%20613-Biglietto%20Funivia%20Trento-Sardagna%20Andata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/URB_INTERA%20613-Biglietto%20Funivia%20Trento-Sardagna%20Andata> <http://knowdive.disi.unitn.it/etype#has_priceFA> "3.00" .
+
+<http://localhost:8080/source/URB_INTERA%20794-Biglietto%20Funivia%20Sardagna%20Andata%20E%20Ritorno> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20794-Biglietto%20Funivia%20Sardagna%20Andata%20E%20Ritorno> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20794-Biglietto%20Funivia%20Sardagna%20Andata%20E%20Ritorno> <http://www.w3.org/2000/01/rdf-schema#label> "5.00" .
+<http://localhost:8080/source/URB_INTERA%20794-Biglietto%20Funivia%20Sardagna%20Andata%20E%20Ritorno> <http://knowdive.disi.unitn.it/etype#has_priceFA> "5.00" .
+<http://localhost:8080/source/URB_INTERA%20794-Biglietto%20Funivia%20Sardagna%20Andata%20E%20Ritorno> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/URB_INTERA%20794-Biglietto%20Funivia%20Sardagna%20Andata%20E%20Ritorno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/URB_INTERA%20794-Biglietto%20Funivia%20Sardagna%20Andata%20E%20Ritorno> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/URB_INTERA%20794-Biglietto%20Funivia%20Sardagna%20Andata%20E%20Ritorno> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "86400" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%204%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%204%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%204%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%204%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "1.10" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%204%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%204%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%204%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%204%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "1.10" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%207%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%207%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%207%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%207%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "1.30" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%207%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%207%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "1.30" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%207%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%207%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2011%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2011%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "1.80" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2011%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "1.80" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2011%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2011%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2011%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2011%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2011%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2015%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2015%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2015%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2015%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2015%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "2.20" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2015%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2015%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "2.20" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2015%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2020%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2020%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2020%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2020%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2020%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "2.50" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2020%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "2.50" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2020%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2020%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2025%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "2.90" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2025%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2025%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2025%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2025%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2025%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "2.90" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2025%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2025%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2030%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2030%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2030%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2030%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2030%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2030%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "3.10" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2030%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2030%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "3.10" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2035%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2035%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2035%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2035%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2035%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2035%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "3.30" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2035%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "3.30" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2035%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2040%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "3.50" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2040%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2040%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2040%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2040%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2040%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "3.50" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2040%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2040%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2045%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2045%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "3.70" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2045%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "3.70" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2045%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2045%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2045%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2045%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2045%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2050%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "4.00" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2050%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2050%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2050%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2050%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2050%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2050%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "4.00" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2050%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2060%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2060%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2060%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2060%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2060%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2060%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "4.40" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2060%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "4.40" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2060%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2070%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2070%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2070%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2070%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2070%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "4.70" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2070%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2070%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2070%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "4.70" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2080%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2080%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "5.10" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2080%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2080%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2080%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2080%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2080%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "5.10" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2080%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2090%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2090%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2090%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2090%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2090%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2090%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "5.50" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2090%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "5.50" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%2090%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20100%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20100%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20100%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20100%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "5.80" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20100%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20100%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20100%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "5.80" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20100%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20110%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20110%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "6.10" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20110%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20110%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "6.10" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20110%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20110%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20110%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20110%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20120%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20120%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20120%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20120%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20120%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "6.40" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20120%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20120%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20120%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "6.40" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20130%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20130%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20130%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20130%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "6.70" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20130%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20130%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "6.70" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20130%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20130%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20140%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20140%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "7.00" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20140%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "7.00" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20140%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20140%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20140%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20140%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20140%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20150%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20150%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "7.30" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20150%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "7.30" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20150%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20150%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20150%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20150%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20150%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20160%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20160%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20160%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "7.60" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20160%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20160%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "7.60" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20160%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20160%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20160%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20170%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20170%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20170%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20170%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "7.90" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20170%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20170%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "7.90" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20170%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20170%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20180%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20180%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "8.20" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20180%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20180%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20180%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20180%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "8.20" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20180%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20180%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20190%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20190%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20190%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "8.50" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20190%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "8.50" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20190%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20190%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20190%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20190%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20200%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20200%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "8.80" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20200%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20200%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20200%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20200%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20200%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "8.80" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20200%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20210%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "9.10" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20210%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20210%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20210%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20210%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "9.10" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20210%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20210%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20210%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20220%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "9.40" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20220%20KM> <http://knowdive.disi.unitn.it/etype#has_paymentMethodFA> "1" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20220%20KM> <http://knowdive.disi.unitn.it/etype#has_transfersDurationFA> "21600" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20220%20KM> <http://knowdive.disi.unitn.it/etype#has_currencyTypeFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20220%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20220%20KM> <http://www.w3.org/2000/01/rdf-schema#label> "9.40" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20220%20KM> <http://knowdive.disi.unitn.it/etype#has_priceFA> "EUR" .
+<http://localhost:8080/source/EXT_INTERA%20ENTRO%20220%20KM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Fare_attribute> .
+
