@@ -1,0 +1,66 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/580b39de-2f53-4ae9-bc56-7c2c705a1b67>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Health" ;
+        dct:title        "Healthcare" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Location/62fb7a15-3fc1-4fe0-9230-c753b14876a5>
+        rdf:type       dct:Location ;
+        locn:geometry  "POLYGON((10.61279296875 45.475540271585665,11.865234375 45.483243508681944,11.920166015625 46.05036097561607,10.52490234375 46.11894150610681,10.61279296875 45.475540271585665))"^^gsp:wktLiteral .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/32cceae9-df26-4d3d-b513-eafa2a283860>
+        rdf:type         skos:Concept ;
+        skos:definition  "Withdrawal points" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/580b39de-2f53-4ae9-bc56-7c2c705a1b67> ;
+        skos:prefLabel   "Withdrawal_points" .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/deca63ea-1db6-4911-a535-9f49f66f6b96>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/62fb7a15-3fc1-4fe0-9230-c753b14876a5> ;
+        schema:dateModified   "2021-11-19T16:09:05Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-19T16:09:09Z"^^xsd:dateTime ;
+        schema:description    "owl's Trentino withdrawal points" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/withdrawal_points"^^xsd:anyURI ;
+        schema:name           "withdrawal_points_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/32cceae9-df26-4d3d-b513-eafa2a283860> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/6fe995eb-e3dc-4a69-b5c0-a1c32894ef6a>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/deca63ea-1db6-4911-a535-9f49f66f6b96> ;
+        dct:description   "Resource about Trentino withdrawal points" ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.place.Withdrawal_points.1" ;
+        dct:issued        "2022-11-19T16:03:51Z"^^xsd:dateTime ;
+        dct:language      "ita" ;
+        dct:modified      "2022-11-19T16:03:51Z"^^xsd:dateTime ;
+        dct:title         "withdrawal_points_final" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "20.244"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .

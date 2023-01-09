@@ -1,0 +1,66 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Location/44dd600c-94d3-408e-a9b1-8cfbf2a774eb>
+        rdf:type       dct:Location ;
+        locn:geometry  "POLYGON((10.5029296875 45.39844997630393,11.9091796875 45.39844997630393,11.6455078125 46.43785689502406,10.458984375 46.407563966300515,10.5029296875 45.39844997630393))"^^gsp:wktLiteral .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/ebe716b1-f274-4f21-93f4-11e0c25d3d33>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/2ee18158-5e3e-4812-b276-28eac088bc69> ;
+        dct:description   "Rsource of Trentino active parapharmacies" ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.place.Parapharmacies.1" ;
+        dct:issued        "2022-11-19T15:35:06Z"^^xsd:dateTime ;
+        dct:language      "ita" ;
+        dct:modified      "2022-11-19T15:35:06Z"^^xsd:dateTime ;
+        dct:title         "parapharmacies_final" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "6.928"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/5be39207-1ac9-4ccc-af91-cf0a8ff94d7b>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Health" ;
+        dct:title        "Health" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/8c4034b2-66d6-4bb8-adb4-b2b240d2bb9a>
+        rdf:type         skos:Concept ;
+        skos:definition  "parapharmacies" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/5be39207-1ac9-4ccc-af91-cf0a8ff94d7b> ;
+        skos:prefLabel   "parapharmacies" .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/2ee18158-5e3e-4812-b276-28eac088bc69>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/44dd600c-94d3-408e-a9b1-8cfbf2a774eb> ;
+        schema:dateModified   "2021-11-19T15:38:36Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-19T15:36:39Z"^^xsd:dateTime ;
+        schema:description    "owl's Trentino active parapharmacies schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/parapharmacies"^^xsd:anyURI ;
+        schema:name           "parapharmacies_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/8c4034b2-66d6-4bb8-adb4-b2b240d2bb9a> .

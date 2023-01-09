@@ -1,0 +1,105 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/1cd98207-f93d-4d58-ba61-4b7bf0a4bc7a>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Health data" ;
+        dct:title        "Health" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/689f189e-0764-4bd8-9fa0-0c78291f849e>
+        rdf:type                  schema:ContactPoint ;
+        schema:availableLanguage  "ita" ;
+        schema:contactType        "Official" ;
+        schema:email              "urp@apss.tn.it" ;
+        schema:telephone          "39 0461 904172" .
+
+<https://www.epos-eu.org/epos-dcat-ap#PeriodOfTime/2293ed44-a048-4b6a-8b3e-598c1f4174fe>
+        rdf:type          dct:PeriodOfTime ;
+        schema:endDate    "2017-12-31T10:42:25Z"^^xsd:dateTime ;
+        schema:startDate  "2017-12-01T10:42:25Z"^^xsd:dateTime .
+
+<https://www.epos-eu.org/epos-dcat-ap#Identifier/6e74ddb2-fcb7-44b4-85df-76e482b50d4e>
+        rdf:type           adms:Identifier ;
+        skos:notation      "apss_strutture-sanitarie-dell-azienda-sanitaria-e-convenzionate" ;
+        adms:schemeAgency  "Open Data Trentino" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/42b9560d-7f12-426a-b184-a5a2abbd7069>
+        rdf:type          dcat:Distribution ;
+        dct:description   "Resource about Trentino's public healthcare structure credited with Azienda Provinciale per i Servizi Sanitari" ;
+        dct:format        "csv" ;
+        dct:identifier    "430555a1-df10-487b-b678-7f723097def0" ;
+        dct:issued        "2022-11-20T10:49:04Z"^^xsd:dateTime ;
+        dct:language      "ita" ;
+        dct:license       "Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)" ;
+        dct:title         "Strutture sanitarie pubbliche e accreditate" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://dati.trentino.it/dataset/strutture-sanitarie-dell-azienda-sanitaria-e-convenzionate/resource/430555a1-df10-487b-b678-7f723097def0"^^xsd:anyURI ;
+        dcat:byteSize     "93.957"^^xsd:double ;
+        dcat:downloadURL  "https://servizi.apss.tn.it/opendata/SANSTRUT001.csv"^^xsd:anyURI ;
+        foaf:page         "http://servizi.apss.tn.it/opendata/SANSTRUT001_documentazione.pdf" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/2a695735-077c-448a-91d2-c17c72713694>
+        rdf:type         skos:Concept ;
+        skos:definition  "Healthcare_structure" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/1cd98207-f93d-4d58-ba61-4b7bf0a4bc7a> ;
+        skos:prefLabel   "Healthcare_structure" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/b0f494c7-991d-4100-9554-d40385149dfa>
+        rdf:type                dcat:Dataset ;
+        dct:accrualPeriodicity  "yearly"^^xsd:anyURI ;
+        dct:description         "Dataset about Trentino's public healthcare structure credited with Azienda Provinciale per i Servizi Sanitari" ;
+        dct:identifier          "apss_strutture-sanitarie-dell-azienda-sanitaria-e-convenzionate" ;
+        dct:issued              "2021-05-18T10:37:19Z"^^xsd:dateTime ;
+        dct:language            "ita" ;
+        dct:modified            "2021-04-12T10:37:19Z"^^xsd:dateTime ;
+        dct:publisher           <https://www.epos-eu.org/epos-dcat-ap#Organization/8fdf0725-b9f2-4d03-924c-8e922f264d1c> ;
+        dct:spatial             <https://www.epos-eu.org/epos-dcat-ap#Location/e0cb8af1-f39f-4858-ba08-ed0245c4ae56> ;
+        dct:temporal            <https://www.epos-eu.org/epos-dcat-ap#PeriodOfTime/2293ed44-a048-4b6a-8b3e-598c1f4174fe> ;
+        dct:title               "Strutture sanitarie pubbliche e accreditate" ;
+        dct:type                "file"^^xsd:anyURI ;
+        adms:identifier         <https://www.epos-eu.org/epos-dcat-ap#Identifier/6e74ddb2-fcb7-44b4-85df-76e482b50d4e> ;
+        adms:sample             <https://www.epos-eu.org/epos-dcat-ap#Distribution/42b9560d-7f12-426a-b184-a5a2abbd7069> ;
+        dcat:contactPoint       <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/689f189e-0764-4bd8-9fa0-0c78291f849e> ;
+        dcat:distribution       <https://www.epos-eu.org/epos-dcat-ap#Distribution/42b9560d-7f12-426a-b184-a5a2abbd7069> ;
+        dcat:keyword            "place" ;
+        dcat:landingPage        "https://dati.trentino.it/dataset/strutture-sanitarie-dell-azienda-sanitaria-e-convenzionate" ;
+        dcat:theme              <https://www.epos-eu.org/epos-dcat-ap#Concept/2a695735-077c-448a-91d2-c17c72713694> ;
+        foaf:page               "http://servizi.apss.tn.it/opendata/SANSTRUT001_documentazione.pdf" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/8fdf0725-b9f2-4d03-924c-8e922f264d1c>
+        rdf:type             schema:Organization ;
+        schema:address       " Via Alcide Degasperi 79 - 38123 Trento (Italia)" ;
+        schema:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/689f189e-0764-4bd8-9fa0-0c78291f849e> ;
+        schema:email         "urp@apss.tn.it" ;
+        schema:identifier    "APSS" ;
+        schema:legalName     "Azienda Provinciale per i Servizi Sanitari" ;
+        schema:telephone     "39 0461 904172" ;
+        schema:url           "https://www.apss.tn.it"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Location/e0cb8af1-f39f-4858-ba08-ed0245c4ae56>
+        rdf:type       dct:Location ;
+        locn:geometry  "POLYGON((10.48095703125 45.49864682342609,12.008056640625 45.452424241343095,12.10693359375 46.14939437647687,10.667724609375 46.24824991289166,10.48095703125 45.49864682342609))"^^gsp:wktLiteral .

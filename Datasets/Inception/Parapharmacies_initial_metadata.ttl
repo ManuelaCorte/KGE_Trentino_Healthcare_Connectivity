@@ -1,0 +1,99 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Location/4806b5ff-4341-4b99-ae94-589989d58dc1>
+        rdf:type       dct:Location ;
+        locn:geometry  "POLYGON((10.34912109375 45.18203683701569,11.44775390625 45.13555516012516,11.4697265625 45.67548217560626,10.5029296875 45.752193360630855,10.34912109375 45.18203683701569))"^^gsp:wktLiteral .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/37ba92eb-99ec-4b88-8353-f064d63dd8d3>
+        rdf:type         skos:Concept ;
+        skos:definition  "Parapharmacies data" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/5cecf7a4-db63-4909-9471-84d404546320> ;
+        skos:prefLabel   "Parapharmacies" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/e877ade3-a748-4c82-a4ae-325d934db4b0>
+        rdf:type             schema:Organization ;
+        schema:address       " Via Alcide Degasperi 79 - 38123 Trento (Italia)" ;
+        schema:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/621d1f10-c5af-46f4-bd4b-599b57b44518> ;
+        schema:email         "urp@apss.tn.it" ;
+        schema:identifier    "APSS" ;
+        schema:legalName     "Azienda Provinciale per i Servizi Sanitari - APSS" ;
+        schema:telephone     "39 0461 904172" ;
+        schema:url           "https://www.apss.tn.it/#"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/5cecf7a4-db63-4909-9471-84d404546320>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Health data" ;
+        dct:title        "Health" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/b86d5e62-144c-42b8-834a-a984471c6aab>
+        rdf:type                dcat:Dataset ;
+        dct:accrualPeriodicity  "yearly"^^xsd:anyURI ;
+        dct:created             "2022-11-18T19:31:40Z"^^xsd:dateTime ;
+        dct:description         "Dataset of Trentino active parapharmacies" ;
+        dct:identifier          "apss_parafarmacie-pat" ;
+        dct:issued              "2016-05-18T19:31:40Z"^^xsd:dateTime ;
+        dct:language            "ita" ;
+        dct:modified            "2018-05-25T19:31:40Z"^^xsd:dateTime ;
+        dct:publisher           <https://www.epos-eu.org/epos-dcat-ap#Organization/e877ade3-a748-4c82-a4ae-325d934db4b0> ;
+        dct:spatial             <https://www.epos-eu.org/epos-dcat-ap#Location/4806b5ff-4341-4b99-ae94-589989d58dc1> ;
+        dct:temporal            <https://www.epos-eu.org/epos-dcat-ap#PeriodOfTime/21f73f1b-f230-4958-844b-2de2256a049d> ;
+        dct:title               "Parafarmacie nella Provincia di Trento" ;
+        dct:type                "file"^^xsd:anyURI ;
+        adms:sample             <https://www.epos-eu.org/epos-dcat-ap#Distribution/edc265a2-fe95-4668-9941-519ba2acf5cc> ;
+        dcat:contactPoint       <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/621d1f10-c5af-46f4-bd4b-599b57b44518> ;
+        dcat:distribution       <https://www.epos-eu.org/epos-dcat-ap#Distribution/edc265a2-fe95-4668-9941-519ba2acf5cc> ;
+        dcat:keyword            "Place" ;
+        dcat:landingPage        "https://dati.trentino.it/dataset/parafarmacie-pat" ;
+        dcat:theme              <https://www.epos-eu.org/epos-dcat-ap#Concept/37ba92eb-99ec-4b88-8353-f064d63dd8d3> ;
+        foaf:page               "http://servizi.apss.tn.it/opendata/PARAFARM001_documentazione.pdf" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/edc265a2-fe95-4668-9941-519ba2acf5cc>
+        rdf:type          dcat:Distribution ;
+        dct:description   "Rsource of Trentino active parapharmacies" ;
+        dct:format        "csv" ;
+        dct:identifier    "e73447ff-e7fe-4f21-90a7-39fd16e68a6f" ;
+        dct:language      "ita" ;
+        dct:license       "Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)" ;
+        dct:title         "Parafarmacie nella Provincia di Trento" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://dati.trentino.it/dataset/parafarmacie-pat/resource/e73447ff-e7fe-4f21-90a7-39fd16e68a6f"^^xsd:anyURI ;
+        dcat:byteSize     "8.204"^^xsd:double ;
+        dcat:downloadURL  "https://servizi.apss.tn.it/opendata/PARAFARM001.csv"^^xsd:anyURI ;
+        foaf:page         "http://servizi.apss.tn.it/opendata/PARAFARM001_documentazione.pdf" .
+
+<https://www.epos-eu.org/epos-dcat-ap#PeriodOfTime/21f73f1b-f230-4958-844b-2de2256a049d>
+        rdf:type          dct:PeriodOfTime ;
+        schema:endDate    "2017-12-31T19:50:17Z"^^xsd:dateTime ;
+        schema:startDate  "2017-01-01T19:50:17Z"^^xsd:dateTime .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/621d1f10-c5af-46f4-bd4b-599b57b44518>
+        rdf:type                  schema:ContactPoint ;
+        schema:availableLanguage  "ita" ;
+        schema:contactType        "Official" ;
+        schema:email              "urp@apss.tn.it" ;
+        schema:telephone          "39 0461 904172" .

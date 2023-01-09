@@ -1,0 +1,136 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/3e71d13f-f1cd-4487-91aa-44e9ed5e8ede>
+        rdf:type                  schema:ContactPoint ;
+        schema:availableLanguage  "ita" ;
+        schema:contactType        "Official" ;
+        schema:email              "info@trentinotrasporti.it" ;
+        schema:telephone          "0461 821000" .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/e2710637-a424-46f5-bb90-2d79dcce4ecc>
+        rdf:type            epos:WebService ;
+        dct:license         "Creative Commons Attribution 4.0 License" ;
+        schema:description  "The General Transit Feed Specification (GTFS), also known as GTFS static or static transit to differentiate it from the GTFS realtime extension, defines a common format for public transportation schedules and associated geographic information. " ;
+        schema:identifier   "GTFS static" ;
+        schema:name         "GTFS (General Transit Feed Specification) static" ;
+        schema:provider     <https://www.epos-eu.org/epos-dcat-ap#Organization/c43e6065-b514-45fc-9c09-73a019066fa2> ;
+        dcat:theme          <https://www.epos-eu.org/epos-dcat-ap#Concept/c710e151-4390-4b5c-bed4-de43f4f37541> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/c43e6065-b514-45fc-9c09-73a019066fa2>
+        rdf:type           schema:Organization ;
+        schema:identifier  "Google transit" ;
+        schema:legalName   "Google Transit" ;
+        schema:url         "https://developers.google.com/transit"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/3385509b-999c-4119-8c22-d3b738601115>
+        rdf:type         skos:Concept ;
+        skos:definition  "Transport data" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/be34a1dc-e3bc-4f43-9f1b-f824da7b15c3> ;
+        skos:prefLabel   "Transport" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/08b60de8-fb71-4ce7-a98f-2e0af93ef0be>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Transport" ;
+        dct:title        "Transport" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/fe8ef64f-29a0-4dc7-93ba-ae95640caa65>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/e2710637-a424-46f5-bb90-2d79dcce4ecc> ;
+        dct:description   "Resource about urban public transport data in GTFS format" ;
+        dct:format        "csv" ;
+        dct:identifier    "google_transit_urbano_tte" ;
+        dct:issued        "2033-11-20T12:15:43Z"^^xsd:dateTime ;
+        dct:language      "eng" ;
+        dct:license       "CC BY 2.5" ;
+        dct:title         "google_transit_urbano_tte" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://www.trentinotrasporti.it/open-data"^^xsd:anyURI ;
+        dcat:downloadURL  "https://www.trentinotrasporti.it/opendata/google_transit_urbano_tte.zip"^^xsd:anyURI ;
+        foaf:page         "https://developers.google.com/transit/gtfs/reference" .
+
+<https://www.epos-eu.org/epos-dcat-ap#PeriodOfTime/5508360f-4b34-4af3-913e-27d22f052956>
+        rdf:type          dct:PeriodOfTime ;
+        schema:endDate    "2023-06-09T12:14:42Z"^^xsd:dateTime ;
+        schema:startDate  "2022-06-11T12:14:42Z"^^xsd:dateTime .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/c710e151-4390-4b5c-bed4-de43f4f37541>
+        rdf:type         skos:Concept ;
+        skos:definition  "Transport" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/08b60de8-fb71-4ce7-a98f-2e0af93ef0be> ;
+        skos:prefLabel   "Transport" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/be34a1dc-e3bc-4f43-9f1b-f824da7b15c3>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Transport" ;
+        dct:title        "Transport" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/3e4316a0-b985-450d-8be8-8e2fdc3940cd>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/e2710637-a424-46f5-bb90-2d79dcce4ecc> ;
+        dct:description   "Resource about extraurbano public transport data in GTFS format" ;
+        dct:format        "csv" ;
+        dct:identifier    "google_transit_extraurbano_tte" ;
+        dct:language      "eng" ;
+        dct:license       "CCBY2.5"^^xsd:anyURI ;
+        dct:title         "google_transit_extraurbano_tte" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://www.trentinotrasporti.it/open-data"^^xsd:anyURI ;
+        dcat:downloadURL  "https://www.trentinotrasporti.it/opendata/google_transit_extraurbano_tte.zip"^^xsd:anyURI ;
+        foaf:page         "https://developers.google.com/transit/gtfs/reference" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/b159a2a1-3f46-4ee8-bc76-2bf9763d0776>
+        rdf:type             schema:Organization ;
+        schema:address       "Via Innsbruck, 65 - 38121 TRENTO" ;
+        schema:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/3e71d13f-f1cd-4487-91aa-44e9ed5e8ede> ;
+        schema:email         "info@trentinotrasporti.it" ;
+        schema:identifier    "Trentino Trasporti S.p.A." ;
+        schema:legalName     "Trentino Trasporti S.p.A." ;
+        schema:telephone     "0461 821000" ;
+        schema:url           "https://www.trentinotrasporti.it"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Location/322c5798-8e5c-4136-a62b-a06f30998957>
+        rdf:type  dct:Location .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/600c9cd2-17ae-4f02-8a3d-0615360c4706>
+        rdf:type                dcat:Dataset ;
+        dct:accrualPeriodicity  "05/09/2022"^^xsd:anyURI ;
+        dct:description         "Dataset about urban and suburban public transport data in GTFS format" ;
+        dct:identifier          "Trentino Trasporti S.p.A." ;
+        dct:language            "eng" ;
+        dct:publisher           <https://www.epos-eu.org/epos-dcat-ap#Organization/b159a2a1-3f46-4ee8-bc76-2bf9763d0776> ;
+        dct:spatial             <https://www.epos-eu.org/epos-dcat-ap#Location/322c5798-8e5c-4136-a62b-a06f30998957> ;
+        dct:temporal            <https://www.epos-eu.org/epos-dcat-ap#PeriodOfTime/5508360f-4b34-4af3-913e-27d22f052956> ;
+        dct:title               "Trentino Trasporti" ;
+        dct:type                "file"^^xsd:anyURI ;
+        adms:sample             <https://www.epos-eu.org/epos-dcat-ap#Distribution/3e4316a0-b985-450d-8be8-8e2fdc3940cd> ;
+        dcat:contactPoint       <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/3e71d13f-f1cd-4487-91aa-44e9ed5e8ede> ;
+        dcat:distribution       <https://www.epos-eu.org/epos-dcat-ap#Distribution/3e4316a0-b985-450d-8be8-8e2fdc3940cd> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/fe8ef64f-29a0-4dc7-93ba-ae95640caa65> ;
+        dcat:keyword            "tranport" ;
+        dcat:landingPage        "https://www.trentinotrasporti.it/open-data" ;
+        dcat:theme              <https://www.epos-eu.org/epos-dcat-ap#Concept/3385509b-999c-4119-8c22-d3b738601115> ;
+        foaf:page               "https://developers.google.com/transit/gtfs/reference" .

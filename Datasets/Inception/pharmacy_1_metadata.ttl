@@ -1,0 +1,67 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Location/8f2240a3-5c9d-41f6-9c45-8bc80c1b410b>
+        rdf:type       dct:Location ;
+        locn:geometry  "POLYGON((10.2777099609375 45.4312262203344,11.7169189453125 45.34635448859433,11.7938232421875 46.02938880791628,10.4315185546875 46.044642082970014,10.2777099609375 45.4312262203344))"^^gsp:wktLiteral .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/7d686473-ed0f-4e7b-8236-e846c0a504be>
+        rdf:type         skos:Concept ;
+        skos:definition  "pharmacies" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/552aa0ff-44f3-4de8-9e40-3af7157772b1> ;
+        skos:prefLabel   "pharmacies" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/1524559f-8d27-4c6b-ae2f-e916622a7192>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/5fa94556-5fe0-43f0-8dcc-74220633a00d> ;
+        dct:description   "Informations of all active pharmacies in Trentino" ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.place.pharmacies.1" ;
+        dct:issued        "2022-11-13T18:43:33Z"^^xsd:dateTime ;
+        dct:language      "ita" ;
+        dct:modified      "2022-11-12T19:03:19Z"^^xsd:dateTime ;
+        dct:title         "pharmacies" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "28.302"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/5fa94556-5fe0-43f0-8dcc-74220633a00d>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/8f2240a3-5c9d-41f6-9c45-8bc80c1b410b> ;
+        schema:dateModified   "2022-11-12T18:44:34Z"^^xsd:dateTime ;
+        schema:datePublished  "2027-11-13T18:44:34Z"^^xsd:dateTime ;
+        schema:description    "owl Trentino's pharmacies schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/schema_pharmacies" ;
+        schema:keywords       "Place" ;
+        schema:name           "schema_pharmacies" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/7d686473-ed0f-4e7b-8236-e846c0a504be> .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/552aa0ff-44f3-4de8-9e40-3af7157772b1>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Health" ;
+        dct:title        "Healthcare" .

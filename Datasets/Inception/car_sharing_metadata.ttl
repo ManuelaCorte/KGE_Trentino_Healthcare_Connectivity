@@ -1,0 +1,66 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/9f28b336-6346-482c-adca-8ee3f62e82e9>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/43bd8b33-98b8-4b25-9ad8-7d7a183267c1> ;
+        dct:description   "Car sharing station position resource dedicated to the collection and delivery of Car sharing vehicles." ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.place.car_sharing.1" ;
+        dct:issued        "2022-11-19T14:46:46Z"^^xsd:dateTime ;
+        dct:language      "ita" ;
+        dct:modified      "2022-11-19T14:44:02Z"^^xsd:dateTime ;
+        dct:title         "cars_final" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "1.198"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Location/b886cbb6-0d56-4d36-b8dd-df793bab6e5b>
+        rdf:type       dct:Location ;
+        locn:geometry  "POLYGON((10.546875 45.444716791595454,11.97509765625 45.39844997630399,11.88720703125 46.103708755980165,10.74462890625 46.164614496897016,10.546875 45.444716791595454))"^^gsp:wktLiteral .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/1b419507-777a-4c09-b657-2a396c11a862>
+        rdf:type         skos:Concept ;
+        skos:definition  "Car sharing" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/0ab4ee0c-2203-4eda-a17e-fb02a44305c1> ;
+        skos:prefLabel   "Car sharing" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/0ab4ee0c-2203-4eda-a17e-fb02a44305c1>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Transport data" ;
+        dct:title        "Transport" .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/43bd8b33-98b8-4b25-9ad8-7d7a183267c1>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/b886cbb6-0d56-4d36-b8dd-df793bab6e5b> ;
+        schema:dateModified   "2022-11-19T14:47:50Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-19T14:25:50Z"^^xsd:dateTime ;
+        schema:description    "owl Trentino's car sharing stations schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/Car_sharing"^^xsd:anyURI ;
+        schema:name           "cars_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/1b419507-777a-4c09-b657-2a396c11a862> .

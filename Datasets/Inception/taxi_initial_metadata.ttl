@@ -1,0 +1,104 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/a88f6bcc-a490-45b1-9efd-e8bb72f9bbf5>
+        rdf:type                  schema:ContactPoint ;
+        schema:availableLanguage  "ita" ;
+        schema:contactType        "Official" ;
+        schema:email              "comurp@comune.trento.it" ;
+        schema:telephone          " 0461 884111" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/bb4f6a7c-b081-47f0-bacd-621e0e1bc6bc>
+        rdf:type                dcat:Dataset ;
+        dct:accrualPeriodicity  "continued"^^xsd:anyURI ;
+        dct:created             "2022-11-19T12:34:15Z"^^xsd:dateTime ;
+        dct:description         "Dataset of Trento's taxi stations" ;
+        dct:identifier          "c_l378-1157755" ;
+        dct:issued              "2018-05-04T12:34:15Z"^^xsd:dateTime ;
+        dct:language            "ita" ;
+        dct:modified            "2021-07-08T12:34:15Z"^^xsd:dateTime ;
+        dct:publisher           <https://www.epos-eu.org/epos-dcat-ap#Organization/668c0e13-c516-4a70-a4e6-788a6d278053> ;
+        dct:spatial             <https://www.epos-eu.org/epos-dcat-ap#Location/b783c946-628a-4e35-99ae-8fc347761ec4> ;
+        dct:title               "Taxi (Open data)" ;
+        dct:type                "file"^^xsd:anyURI ;
+        adms:identifier         <https://www.epos-eu.org/epos-dcat-ap#Identifier/1c147ea7-c151-42ee-8aa1-2e5b1ce31c9c> ;
+        adms:sample             <https://www.epos-eu.org/epos-dcat-ap#Distribution/0f127799-25da-4460-a111-5f0a272c3b2d> ;
+        dcat:contactPoint       <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/a88f6bcc-a490-45b1-9efd-e8bb72f9bbf5> ;
+        dcat:distribution       <https://www.epos-eu.org/epos-dcat-ap#Distribution/0f127799-25da-4460-a111-5f0a272c3b2d> ;
+        dcat:keyword            "place" ;
+        dcat:landingPage        "https://dati.trentino.it/dataset/taxi-open-data" ;
+        dcat:theme              <https://www.epos-eu.org/epos-dcat-ap#Concept/f752817f-4001-49e2-867c-ee93b37ced7c> , <https://www.epos-eu.org/epos-dcat-ap#Concept/32bfffa1-2c3c-4e8b-9309-d394cb93ba8b> ;
+        foaf:page               "http://www.comune.trento.it/Aree-tematiche/Cartografia/Download/Taxi" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/f752817f-4001-49e2-867c-ee93b37ced7c>
+        rdf:type         skos:Concept ;
+        skos:definition  "Region data" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/26c09044-4b83-4128-a02b-0a95a325ed16> ;
+        skos:prefLabel   "Regions" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Location/b783c946-628a-4e35-99ae-8fc347761ec4>
+        rdf:type       dct:Location ;
+        locn:geometry  "POLYGON((10.821533203125 45.4447167915954,11.942138671875 45.43700828867374,11.88720703125 46.00459325574467,10.975341796875 45.981695185122135,10.821533203125 45.4447167915954))"^^gsp:wktLiteral .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/0f127799-25da-4460-a111-5f0a272c3b2d>
+        rdf:type          dcat:Distribution ;
+        dct:description   "Resource of Trento's taxi stations" ;
+        dct:format        "aa8f9fcc-6d19-40b9-9210-f0eb3bb2e689" ;
+        dct:language      "ita" ;
+        dct:license       "Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)" ;
+        dct:title         "DOWNLOAD GML" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://dati.trentino.it/dataset/taxi-open-data/resource/aa8f9fcc-6d19-40b9-9210-f0eb3bb2e689"^^xsd:anyURI ;
+        dcat:byteSize     "4.605"^^xsd:double ;
+        dcat:downloadURL  "https://webapps.comune.trento.it/cartodownload/cartografia/gis/dbexport?db=base&sc=mobilita&ly=taxi&fr=gml"^^xsd:anyURI ;
+        foaf:page         "http://www.comune.trento.it/Aree-tematiche/Cartografia/Download/Taxi" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/32bfffa1-2c3c-4e8b-9309-d394cb93ba8b>
+        rdf:type         skos:Concept ;
+        skos:definition  "City data" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/26c09044-4b83-4128-a02b-0a95a325ed16> ;
+        skos:prefLabel   "Cities" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/668c0e13-c516-4a70-a4e6-788a6d278053>
+        rdf:type             schema:Organization ;
+        schema:address       " via Belenzani, 19 - 38122 Trento\n" ;
+        schema:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/a88f6bcc-a490-45b1-9efd-e8bb72f9bbf5> ;
+        schema:email         "comurp@comune.trento.it" ;
+        schema:identifier    "38122" ;
+        schema:legalName     "Comune di Trento" ;
+        schema:telephone     " 0461 884111" ;
+        schema:url           "https://www.comune.trento.it"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/26c09044-4b83-4128-a02b-0a95a325ed16>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Transport data" ;
+        dct:title        "Transport" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Identifier/1c147ea7-c151-42ee-8aa1-2e5b1ce31c9c>
+        rdf:type           adms:Identifier ;
+        skos:notation      "c_l378-1157755" ;
+        adms:schemeAgency  "Opena data Trentino" .

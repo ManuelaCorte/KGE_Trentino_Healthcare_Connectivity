@@ -1,0 +1,425 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/71c06546-e29f-4d26-ac70-a77d92af6ebc>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/ebbcf98f-2780-404d-bd30-12e9b41c1a78> ;
+        schema:dateModified   "2022-11-23T12:49:48Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-23T12:49:43Z"^^xsd:dateTime ;
+        schema:description    "owl's routes schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/transport_route"^^xsd:anyURI ;
+        schema:name           "Route_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/62d42060-4840-4455-be6d-cb9837ec689a> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/788c6d9c-f2dc-49fd-8cb4-ce86eb9934aa>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/d232d606-cf7f-4c41-8cac-2e83383143bc> ;
+        dct:description   "Service dates specified using a weekly schedule with start and end dates. This file is required unless all dates of service are defined in calendar_dates.txt." ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.transport.Trentino_trasporti.calendar" ;
+        dct:issued        "2022-11-23T12:27:28Z"^^xsd:dateTime ;
+        dct:language      "eng" ;
+        dct:modified      "2022-11-23T12:27:16Z"^^xsd:dateTime ;
+        dct:title         "calendar" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "3.687"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/a084e663-e60f-441b-bb4a-7e6f89b82817>
+        rdf:type             epos:WebService ;
+        dct:spatial          <https://www.epos-eu.org/epos-dcat-ap#Location/ebbcf98f-2780-404d-bd30-12e9b41c1a78> ;
+        schema:dateModified  "2019-11-23T12:52:50Z"^^xsd:dateTime ;
+        schema:description   "owl's change info schema" ;
+        schema:identifier    "http://www.semanticweb.org/parallels/ontologies/2022/10/transport_transfer"^^xsd:anyURI ;
+        schema:name          "Transfer_schema" ;
+        dcat:theme           <https://www.epos-eu.org/epos-dcat-ap#Concept/2032978a-7996-4055-84e7-b7efa1a10f25> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/b62f050a-93e9-426d-8baa-2e5c6f43faea>
+        rdf:type         skos:Concept ;
+        skos:definition  "Agency" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cbff3337-4ef5-4696-a54d-94a8ff698bce> ;
+        skos:prefLabel   "Agency" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/10a375ff-b9ae-4426-9dce-aafaa947e830>
+        rdf:type         skos:Concept ;
+        skos:definition  "Schedule stops time" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cbff3337-4ef5-4696-a54d-94a8ff698bce> ;
+        skos:prefLabel   "Schedule_stops_time" .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/f67fe989-5fd0-4270-ab3b-f83b7572b8fc>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/ebbcf98f-2780-404d-bd30-12e9b41c1a78> ;
+        schema:dateModified   "2022-11-23T12:48:13Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-23T12:48:09Z"^^xsd:dateTime ;
+        schema:description    "owl's fare attributes schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/transport_fareAttribute"^^xsd:anyURI ;
+        schema:name           "FareAttribute_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/749be1d3-0850-44ef-9318-03864fa3e009> .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/d232d606-cf7f-4c41-8cac-2e83383143bc>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/ebbcf98f-2780-404d-bd30-12e9b41c1a78> ;
+        schema:dateModified   "2022-11-23T12:47:40Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-23T12:47:33Z"^^xsd:dateTime ;
+        schema:description    "owl's available transport dates schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/transport_calendar"^^xsd:anyURI ;
+        schema:name           "Calendar_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/ea9683da-66c5-42fe-aaa9-d7a82e8c6828> .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/66c20349-f417-4cbf-82bc-b084629c6567>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/ebbcf98f-2780-404d-bd30-12e9b41c1a78> ;
+        schema:dateModified   "2022-11-23T12:45:37Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-23T12:45:36Z"^^xsd:dateTime ;
+        schema:description    "owl's agency schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/transport_agency"^^xsd:anyURI ;
+        schema:name           "Agency_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/b62f050a-93e9-426d-8baa-2e5c6f43faea> .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/e8ebc878-abfe-4d55-9cbc-0b241ba65ef7>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/ebbcf98f-2780-404d-bd30-12e9b41c1a78> ;
+        schema:dateModified   "2021-11-23T12:45:41Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-23T12:46:35Z"^^xsd:dateTime ;
+        schema:description    "owl' exeption tranport dates schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/transport_calendarDate"^^xsd:anyURI ;
+        schema:name           "CalendarDate_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/c10d1828-f2a7-497f-b091-67c2d6d58362> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/4fe0303a-b978-42e5-ae2b-48b6906f6014>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/f67fe989-5fd0-4270-ab3b-f83b7572b8fc> ;
+        dct:description   "Fare information for a transit agency's routes." ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.transport.Trentino_trasporti.fareAttribute" ;
+        dct:issued        "2022-11-23T12:27:50Z"^^xsd:dateTime ;
+        dct:language      "eng" ;
+        dct:modified      "2022-11-23T12:27:38Z"^^xsd:dateTime ;
+        dct:title         "fare_attributes" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "1.264"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/b7445e44-1de8-4439-b7d4-0f850af92dfb>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/ebbcf98f-2780-404d-bd30-12e9b41c1a78> ;
+        schema:dateModified   "2022-11-23T12:48:53Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-23T12:48:49Z"^^xsd:dateTime ;
+        schema:description    "owl's fare rules schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/transport_fareRule"^^xsd:anyURI ;
+        schema:name           "FareRule_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/ae1581fc-9cba-4314-bffd-9eed95993d77> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/9de6aca5-765b-4bce-9138-1d8cbfac6c73>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/f0dc0432-8578-4156-87b0-5479b02566c5> ;
+        dct:description   "Times that a vehicle arrives at and departs from stops for each trip." ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.transport.Trentino_trasporti.stopTime" ;
+        dct:issued        "2022-11-23T13:18:24Z"^^xsd:dateTime ;
+        dct:language      "eng" ;
+        dct:modified      "2022-11-23T12:29:54Z"^^xsd:dateTime ;
+        dct:title         "stop_times" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/ea9683da-66c5-42fe-aaa9-d7a82e8c6828>
+        rdf:type         skos:Concept ;
+        skos:definition  "Schedule" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cbff3337-4ef5-4696-a54d-94a8ff698bce> ;
+        skos:prefLabel   "Schedule" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/6a8e92d3-ea3b-4dc6-9164-2f2c65b28d84>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/1b04815f-b8f5-4f7b-a7f5-380b68cb52a8> ;
+        dct:description   "Positions and names of zones where the dataset applies" ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.transport.Trentino_trasporti.zone" ;
+        dct:issued        "2022-11-23T12:32:13Z"^^xsd:dateTime ;
+        dct:language      "eng" ;
+        dct:modified      "2022-11-23T12:32:04Z"^^xsd:dateTime ;
+        dct:title         "zones" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "25.056"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/2032978a-7996-4055-84e7-b7efa1a10f25>
+        rdf:type         skos:Concept ;
+        skos:definition  "Transfer" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cbff3337-4ef5-4696-a54d-94a8ff698bce> ;
+        skos:prefLabel   "Trensfer" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/543c24fa-f054-4197-8588-339ff935a04e>
+        rdf:type         skos:Concept ;
+        skos:definition  "Stops" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cbff3337-4ef5-4696-a54d-94a8ff698bce> ;
+        skos:prefLabel   "Stops" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/ae1581fc-9cba-4314-bffd-9eed95993d77>
+        rdf:type         skos:Concept ;
+        skos:definition  "Fare rules" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cbff3337-4ef5-4696-a54d-94a8ff698bce> ;
+        skos:prefLabel   "Fare_rules" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/a34234aa-ae07-427e-9b50-d3d50e3809a5>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/06a167ab-143c-4d81-b31d-33017e9fe886> ;
+        dct:description   "Stops where vehicles pick up or drop off riders. Also defines stations and station entrances." ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.transport.Trentino_trasporti.stop" ;
+        dct:issued        "2022-11-23T12:30:54Z"^^xsd:dateTime ;
+        dct:language      "eng" ;
+        dct:modified      "2022-11-23T12:30:44Z"^^xsd:dateTime ;
+        dct:title         "stops" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "156.03"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cbff3337-4ef5-4696-a54d-94a8ff698bce>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Transport" ;
+        dct:title        "Transport" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/130f72ee-9493-4314-bf65-1fc25799945a>
+        rdf:type           dcat:Dataset ;
+        dct:created        "2022-11-23T12:01:11Z"^^xsd:dateTime ;
+        dct:description    "Dataset about urban and suburban public transport data in Trentino" ;
+        dct:identifier     "KGE.Healthcare_Connectivity.transport.Trentino_trasporti" ;
+        dct:issued         "2022-11-23T12:03:35Z"^^xsd:dateTime ;
+        dct:language       "eng" ;
+        dct:modified       "2022-11-23T12:01:04Z"^^xsd:dateTime ;
+        dct:spatial        <https://www.epos-eu.org/epos-dcat-ap#Location/ebbcf98f-2780-404d-bd30-12e9b41c1a78> ;
+        dct:title          "Trentino_trasporti" ;
+        dct:type           "file"^^xsd:anyURI ;
+        adms:sample        <https://www.epos-eu.org/epos-dcat-ap#Distribution/21840c3d-646a-4a03-b02b-ad651a1dbd3e> ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/3595d9cd-01b7-41f1-abed-f6a3fd770f1e> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/2b0e4492-f90f-4a17-ae4a-16772d3947de> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/117238b7-7e0f-43b8-b78e-1b421be6a20f> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/6a8e92d3-ea3b-4dc6-9164-2f2c65b28d84> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/9de6aca5-765b-4bce-9138-1d8cbfac6c73> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/4fe0303a-b978-42e5-ae2b-48b6906f6014> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/788c6d9c-f2dc-49fd-8cb4-ce86eb9934aa> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/d3245f07-fd37-4d98-ad3a-9e65a17cfec9> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/561451c3-66ab-490f-ad70-3315c51bf440> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/a34234aa-ae07-427e-9b50-d3d50e3809a5> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/b78badf5-440d-413d-a51c-a058f60b0177> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/21840c3d-646a-4a03-b02b-ad651a1dbd3e> ;
+        dcat:keyword       "transport" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/b4daed37-8d00-4f85-992e-c73897badc97> .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/6befb3a4-c1a6-4583-b53c-2bccf7331d9a>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/ebbcf98f-2780-404d-bd30-12e9b41c1a78> ;
+        schema:dateModified   "2022-11-23T12:50:34Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-23T12:50:30Z"^^xsd:dateTime ;
+        schema:description    "owl's shapes schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/transport_shape"^^xsd:anyURI ;
+        schema:name           "Shape_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/de3c4a69-4797-4cf8-8702-7a5ddd08379b> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/8aaefb8b-399d-428b-8b74-110491eacf4f>
+        rdf:type         skos:Concept ;
+        skos:definition  "zones" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cbff3337-4ef5-4696-a54d-94a8ff698bce> ;
+        skos:prefLabel   "zones" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Location/ebbcf98f-2780-404d-bd30-12e9b41c1a78>
+        rdf:type       dct:Location ;
+        locn:geometry  "POLYGON((10.909423828125 45.59097824945185,12.161865234375 45.54483149242454,12.139892578125 46.30899569419851,11.041259765625 46.34692761055668,10.909423828125 45.59097824945185))"^^gsp:wktLiteral .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/2b96759b-9be1-4c03-91dc-494cb6702818>
+        rdf:type         skos:Concept ;
+        skos:definition  "Trips" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cbff3337-4ef5-4696-a54d-94a8ff698bce> ;
+        skos:prefLabel   "Trips" .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/06a167ab-143c-4d81-b31d-33017e9fe886>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/ebbcf98f-2780-404d-bd30-12e9b41c1a78> ;
+        schema:dateModified   "2022-11-23T12:51:58Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-23T12:51:54Z"^^xsd:dateTime ;
+        schema:description    "owl's stops schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/transport_stop"^^xsd:anyURI ;
+        schema:name           "Stop_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/543c24fa-f054-4197-8588-339ff935a04e> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/2b0e4492-f90f-4a17-ae4a-16772d3947de>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/a084e663-e60f-441b-bb4a-7e6f89b82817> ;
+        dct:description   "Rules for making connections at transfer points between routes." ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.transport.Trentino_trasporti.transfer" ;
+        dct:issued        "2022-11-23T12:31:37Z"^^xsd:dateTime ;
+        dct:language      "eng" ;
+        dct:modified      "2022-11-23T12:31:24Z"^^xsd:dateTime ;
+        dct:title         "transfers" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "25.977"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/561451c3-66ab-490f-ad70-3315c51bf440>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/66c20349-f417-4cbf-82bc-b084629c6567> ;
+        dct:description   "Transit agencies with service represented in this dataset." ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.transport.Trentino_trasporti.agency" ;
+        dct:issued        "2022-11-23T12:26:30Z"^^xsd:dateTime ;
+        dct:language      "eng" ;
+        dct:modified      "2022-11-23T12:26:24Z"^^xsd:dateTime ;
+        dct:title         "agency" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "173.0"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/21840c3d-646a-4a03-b02b-ad651a1dbd3e>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/e8ebc878-abfe-4d55-9cbc-0b241ba65ef7> ;
+        dct:description   "Exceptions for the services defined in the calendar.txt. If calendar.txt is omitted, then calendar_dates.txt is required and must contain all dates of service." ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.transport.Trentino_trasporti.calendarDates" ;
+        dct:issued        "2022-11-23T12:27:00Z"^^xsd:dateTime ;
+        dct:language      "eng" ;
+        dct:modified      "2022-11-23T12:26:48Z"^^xsd:dateTime ;
+        dct:title         "calendar_dates" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "59.885"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/b4daed37-8d00-4f85-992e-c73897badc97>
+        rdf:type         skos:Concept ;
+        skos:definition  "pubblic transport" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cbff3337-4ef5-4696-a54d-94a8ff698bce> ;
+        skos:prefLabel   "pubblic_transport" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/b78badf5-440d-413d-a51c-a058f60b0177>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/83ae3a44-a3a4-456b-ae53-95a3a18ad7fd> ;
+        dct:description   "Trips for each route. A trip is a sequence of two or more stops that occur during a specific time period." ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.transport.Trentino_trasporti.trip" ;
+        dct:issued        "2022-11-23T12:31:55Z"^^xsd:dateTime ;
+        dct:language      "eng" ;
+        dct:modified      "2022-11-23T12:31:46Z"^^xsd:dateTime ;
+        dct:title         "trips" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "269.408"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/de3c4a69-4797-4cf8-8702-7a5ddd08379b>
+        rdf:type         skos:Concept ;
+        skos:definition  "Shape trip" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cbff3337-4ef5-4696-a54d-94a8ff698bce> ;
+        skos:prefLabel   "Shape_trip" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/c10d1828-f2a7-497f-b091-67c2d6d58362>
+        rdf:type         skos:Concept ;
+        skos:definition  "Exception_date" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cbff3337-4ef5-4696-a54d-94a8ff698bce> ;
+        skos:prefLabel   "Exception_date" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/117238b7-7e0f-43b8-b78e-1b421be6a20f>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/b7445e44-1de8-4439-b7d4-0f850af92dfb> ;
+        dct:description   "Rules to apply fares for itineraries." ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.transport.Trentino_trasporti.fareRule" ;
+        dct:issued        "2022-11-23T12:29:03Z"^^xsd:dateTime ;
+        dct:language      "eng" ;
+        dct:modified      "2022-11-23T12:28:00Z"^^xsd:dateTime ;
+        dct:title         "fare_rules" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/62d42060-4840-4455-be6d-cb9837ec689a>
+        rdf:type         skos:Concept ;
+        skos:definition  "Routes" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cbff3337-4ef5-4696-a54d-94a8ff698bce> ;
+        skos:prefLabel   "Routes" .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/f0dc0432-8578-4156-87b0-5479b02566c5>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/ebbcf98f-2780-404d-bd30-12e9b41c1a78> ;
+        schema:dateModified   "2022-11-23T12:51:13Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-23T12:51:09Z"^^xsd:dateTime ;
+        schema:description    "owl's stop schedules schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/transport_stopTime"^^xsd:anyURI ;
+        schema:name           "StopTime_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/10a375ff-b9ae-4426-9dce-aafaa947e830> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/3595d9cd-01b7-41f1-abed-f6a3fd770f1e>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/6befb3a4-c1a6-4583-b53c-2bccf7331d9a> ;
+        dct:description   "Rules for mapping vehicle travel paths, sometimes referred to as route alignments." ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.transport.Trentino_trasporti.shape" ;
+        dct:issued        "2022-11-23T12:29:45Z"^^xsd:dateTime ;
+        dct:language      "eng" ;
+        dct:modified      "2022-11-23T12:29:32Z"^^xsd:dateTime ;
+        dct:title         "shapes" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/d3245f07-fd37-4d98-ad3a-9e65a17cfec9>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/71c06546-e29f-4d26-ac70-a77d92af6ebc> ;
+        dct:description   "Transit routes. A route is a group of trips that are displayed to riders as a single service." ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.transport.Trentino_trasporti.route" ;
+        dct:issued        "2022-11-23T12:29:22Z"^^xsd:dateTime ;
+        dct:language      "eng" ;
+        dct:modified      "2022-11-23T12:29:13Z"^^xsd:dateTime ;
+        dct:title         "routes" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "6.459"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/83ae3a44-a3a4-456b-ae53-95a3a18ad7fd>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/ebbcf98f-2780-404d-bd30-12e9b41c1a78> ;
+        schema:dateModified   "2022-11-23T12:54:18Z"^^xsd:dateTime ;
+        schema:datePublished  "2018-11-23T12:54:13Z"^^xsd:dateTime ;
+        schema:description    "owl's trip schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/transport_trip"^^xsd:anyURI ;
+        schema:name           "Trip_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/2b96759b-9be1-4c03-91dc-494cb6702818> .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/1b04815f-b8f5-4f7b-a7f5-380b68cb52a8>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/ebbcf98f-2780-404d-bd30-12e9b41c1a78> ;
+        schema:dateModified   "2021-11-23T12:55:05Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-23T12:55:01Z"^^xsd:dateTime ;
+        schema:description    "owl's zones schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/transport_zone"^^xsd:anyURI ;
+        schema:name           "Zone_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/8aaefb8b-399d-428b-8b74-110491eacf4f> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/749be1d3-0850-44ef-9318-03864fa3e009>
+        rdf:type         skos:Concept ;
+        skos:definition  "Fare attributes" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cbff3337-4ef5-4696-a54d-94a8ff698bce> ;
+        skos:prefLabel   "Fare_attributes" .

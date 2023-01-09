@@ -1,0 +1,107 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/e6d2bfb8-c2cd-4d55-93a5-588eeb97dc73>
+        rdf:type                dcat:Dataset ;
+        dct:accrualPeriodicity  "yearly"^^xsd:anyURI ;
+        dct:description         "Dataset about Trentino withdrawal points" ;
+        dct:identifier          "apss_punti-prelievo" ;
+        dct:issued              "2017-07-28T11:02:15Z"^^xsd:dateTime ;
+        dct:language            "ita" ;
+        dct:modified            "2017-07-28T11:02:15Z"^^xsd:dateTime ;
+        dct:publisher           <https://www.epos-eu.org/epos-dcat-ap#Organization/4352a8f0-3576-48ff-bde9-d2f38b3010e3> ;
+        dct:spatial             <https://www.epos-eu.org/epos-dcat-ap#Location/5cdf3571-e91e-4dd4-946e-3e6d942086e0> ;
+        dct:temporal            <https://www.epos-eu.org/epos-dcat-ap#PeriodOfTime/6b5d6b3c-daaf-4d93-b527-c82fd9aaebec> ;
+        dct:title               "Punti prelievo analisi salute" ;
+        dct:type                "file"^^xsd:anyURI ;
+        adms:identifier         <https://www.epos-eu.org/epos-dcat-ap#Identifier/f20bd90a-d453-40e4-aa01-cabc064409fd> ;
+        adms:sample             <https://www.epos-eu.org/epos-dcat-ap#Distribution/5e47ac28-d1e3-44dd-9f5c-b4188c9b9d7d> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/3e0dabdf-fd0b-4549-90a3-3f9b459ee4f5> ;
+        dcat:contactPoint       <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/b6713d7c-842a-4b87-aefd-81ef01d494d9> ;
+        dcat:distribution       <https://www.epos-eu.org/epos-dcat-ap#Distribution/5e47ac28-d1e3-44dd-9f5c-b4188c9b9d7d> ;
+        dcat:keyword            "Place" ;
+        dcat:landingPage        "https://dati.trentino.it/dataset/punti-prelievo" ;
+        dcat:theme              <https://www.epos-eu.org/epos-dcat-ap#Concept/25518173-5c5d-45d1-817f-5b12078d3e53> ;
+        foaf:page               "http://servizi.apss.tn.it/opendata/PUNTIPREL001_documentazione.pdf" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/3e0dabdf-fd0b-4549-90a3-3f9b459ee4f5>
+        rdf:type  dcat:Distribution .
+
+<https://www.epos-eu.org/epos-dcat-ap#Identifier/f20bd90a-d453-40e4-aa01-cabc064409fd>
+        rdf:type           adms:Identifier ;
+        skos:notation      "apss_punti-prelievo" ;
+        adms:schemeAgency  "Open data Trentino" .
+
+<https://www.epos-eu.org/epos-dcat-ap#PeriodOfTime/6b5d6b3c-daaf-4d93-b527-c82fd9aaebec>
+        rdf:type          dct:PeriodOfTime ;
+        schema:endDate    "2017-12-31T11:13:04Z"^^xsd:dateTime ;
+        schema:startDate  "2017-01-01T11:13:04Z"^^xsd:dateTime .
+
+<https://www.epos-eu.org/epos-dcat-ap#Location/5cdf3571-e91e-4dd4-946e-3e6d942086e0>
+        rdf:type       dct:Location ;
+        locn:geometry  "POLYGON((10.3271484375 45.55252525133991,12.10693359375 45.475540271585714,11.953125 46.225452882269174,10.61279296875 46.34692761055654,10.3271484375 45.55252525133991))"^^gsp:wktLiteral .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/5e47ac28-d1e3-44dd-9f5c-b4188c9b9d7d>
+        rdf:type          dcat:Distribution ;
+        dct:description   "Resource about Trentino withdrawal points" ;
+        dct:format        "csv" ;
+        dct:identifier    "d9b457b0-8fbd-43ce-a0c4-2ff9178d4e59" ;
+        dct:language      "ita" ;
+        dct:license       "Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)" ;
+        dct:title         "Punti prelievo" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://dati.trentino.it/dataset/punti-prelievo/resource/d9b457b0-8fbd-43ce-a0c4-2ff9178d4e59"^^xsd:anyURI ;
+        dcat:byteSize     "23.781"^^xsd:double ;
+        dcat:downloadURL  "https://servizi.apss.tn.it/opendata/PUNTIPREL001.csv"^^xsd:anyURI ;
+        foaf:page         "http://servizi.apss.tn.it/opendata/PUNTIPREL001_documentazione.pdf" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/b6713d7c-842a-4b87-aefd-81ef01d494d9>
+        rdf:type                  schema:ContactPoint ;
+        schema:availableLanguage  "ita" ;
+        schema:contactType        "Official" ;
+        schema:email              "urp@apss.tn.it" ;
+        schema:telephone          "39 0461 904172" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/4352a8f0-3576-48ff-bde9-d2f38b3010e3>
+        rdf:type             schema:Organization ;
+        schema:address       " Via Alcide Degasperi 79 - 38123 Trento (Italia)" ;
+        schema:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/b6713d7c-842a-4b87-aefd-81ef01d494d9> ;
+        schema:email         "urp@apss.tn.it" ;
+        schema:identifier    "APSS" ;
+        schema:legalName     "Azienda Provinciale per i Servizi Sanitari - APSS" ;
+        schema:telephone     "39 0461 904172" ;
+        schema:url           "https://www.apss.tn.it"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/a975993e-b871-4eba-b3b7-799d4d0d91ea>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Health data" ;
+        dct:title        "Health" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/25518173-5c5d-45d1-817f-5b12078d3e53>
+        rdf:type         skos:Concept ;
+        skos:definition  "withdrawal points data" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/a975993e-b871-4eba-b3b7-799d4d0d91ea> ;
+        skos:prefLabel   "withdrawal points" .

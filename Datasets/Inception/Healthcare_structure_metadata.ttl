@@ -1,0 +1,274 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/7e0e40d8-9288-477a-a00e-5d0eafdf1a0b>
+        rdf:type         skos:Concept ;
+        skos:definition  "Sert" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/6a583814-072c-40a9-90ec-2d971a7a9c7a> ;
+        skos:prefLabel   "Sert" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/9c4295c8-c402-475f-bdeb-66e70c96d722>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/cf0438fc-0a67-4886-a04b-0d9034d8dfee> ;
+        dct:description   "Resource about Trentino's consultancies credited with Azienda Provinciale per i Servizi Sanitari" ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.place.Healthcare_structure.Consultancy.1" ;
+        dct:issued        "2022-11-22T13:44:22Z"^^xsd:dateTime ;
+        dct:language      "ita" ;
+        dct:modified      "2022-11-22T13:49:46Z"^^xsd:dateTime ;
+        dct:title         "consultori" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "3.18"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/726aeeec-8812-4cb9-92d5-d075e8d75205>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/4bc9a9d1-4da4-48d2-8073-7d1a63722888> ;
+        dct:description   "Resource about Trentino's psychiatrics credited with Azienda Provinciale per i Servizi Sanitari" ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.place.Healthcare_structure.Psychiatric.1" ;
+        dct:issued        "2022-11-22T13:44:08Z"^^xsd:dateTime ;
+        dct:language      "ita" ;
+        dct:modified      "2022-11-22T13:49:19Z"^^xsd:dateTime ;
+        dct:title         "psychiatric" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "11.958"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/17a7124c-4582-42a6-a0fd-96241fe74b6e>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/01a4fb34-8cdc-4839-a656-2633f1ecdfe4> ;
+        dct:description   "Resource about Trentino's spa credited with Azienda Provinciale per i Servizi Sanitari" ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.place.Healthcare_structure.Spa.1" ;
+        dct:issued        "2022-11-22T13:43:35Z"^^xsd:dateTime ;
+        dct:language      "ita" ;
+        dct:modified      "2022-11-22T13:49:01Z"^^xsd:dateTime ;
+        dct:title         "terme" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "1.696"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/1b52b8c9-a18d-4659-91c8-d9c66db2717e>
+        rdf:type         skos:Concept ;
+        skos:definition  "Consultancy" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/6a583814-072c-40a9-90ec-2d971a7a9c7a> ;
+        skos:prefLabel   "Consultancy" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/de1af5bf-1b94-4646-8d9f-d668b112155a>
+        rdf:type         skos:Concept ;
+        skos:definition  "Healthcare structure" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/6a583814-072c-40a9-90ec-2d971a7a9c7a> ;
+        skos:prefLabel   "Healthcare_Structure" .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/01a4fb34-8cdc-4839-a656-2633f1ecdfe4>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/999f395b-6c8c-4c30-895d-42f249f55e50> ;
+        schema:dateModified   "2022-11-22T14:03:52Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-22T14:03:55Z"^^xsd:dateTime ;
+        schema:description    "owl's Trentino spa schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/Healthcare_spa"^^xsd:anyURI ;
+        schema:name           "Spa_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/539fc211-f427-4bff-a04c-c81e08b90b2b> .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/8027f221-fd52-4eee-909a-db7edb4df328>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/999f395b-6c8c-4c30-895d-42f249f55e50> ;
+        schema:dateModified   "2022-11-22T14:04:14Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-22T14:04:17Z"^^xsd:dateTime ;
+        schema:description    "owl's Trentino RSA schema for elderly people" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/Healthcare_RSAelderlyPeople"^^xsd:anyURI ;
+        schema:name           "RSAelderlyPeople_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/bc8b3064-802e-455a-8be7-d7d0bf82bb24> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/7b6d7fa3-2d66-45b6-b7ee-75a3f637b581>
+        rdf:type         skos:Concept ;
+        skos:definition  "Psychiatric" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/6a583814-072c-40a9-90ec-2d971a7a9c7a> ;
+        skos:prefLabel   "Psychiatric" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/139a6dfb-2ccc-436f-a82d-af43b4818c07>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/8027f221-fd52-4eee-909a-db7edb4df328> ;
+        dct:description   "Resource about Trentino's RSA for elderly people credited with Azienda Provinciale per i Servizi Sanitari" ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.place.Healthcare_structure.RSAelderlyPeople.1" ;
+        dct:issued        "2022-11-22T13:43:50Z"^^xsd:dateTime ;
+        dct:language      "ita" ;
+        dct:modified      "2022-11-22T13:49:14Z"^^xsd:dateTime ;
+        dct:title         "rsa_anziani" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception" ;
+        dcat:byteSize     "22.384"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Location/999f395b-6c8c-4c30-895d-42f249f55e50>
+        rdf:type       dct:Location ;
+        locn:geometry  "POLYGON((10.92041015625 45.35986533395968,11.84326171875 45.36758436884973,11.810302734375 45.882360730183976,10.9423828125 45.92822950933611,10.92041015625 45.35986533395968))"^^gsp:wktLiteral .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/0825cd32-9227-4ba2-b4b9-5751a0a32a3a>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/999f395b-6c8c-4c30-895d-42f249f55e50> ;
+        schema:dateModified   "2022-11-22T14:04:04Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-22T14:04:07Z"^^xsd:dateTime ;
+        schema:description    "owl's Trentino serts schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/Healthcare_sert"^^xsd:anyURI ;
+        schema:name           "Sert_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/7e0e40d8-9288-477a-a00e-5d0eafdf1a0b> .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/36b642d7-580b-44c3-b5f6-c90e84aa1a98>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/999f395b-6c8c-4c30-895d-42f249f55e50> ;
+        schema:dateModified   "2022-11-22T14:05:00Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-22T14:05:05Z"^^xsd:dateTime ;
+        schema:description    "owl's Trentino clinic labs schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/Healthcare_clinicLab"^^xsd:anyURI ;
+        schema:name           "ClinicLab_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/acb02ca3-031d-4acd-902e-86fcb3cffd2d> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/acb02ca3-031d-4acd-902e-86fcb3cffd2d>
+        rdf:type         skos:Concept ;
+        skos:definition  "Clinic Lab" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/6a583814-072c-40a9-90ec-2d971a7a9c7a> ;
+        skos:prefLabel   "ClinicLab" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/7ef80054-defe-405f-9afc-e2fa594c0af9>
+        rdf:type           dcat:Dataset ;
+        dct:created        "2022-11-22T13:09:30Z"^^xsd:dateTime ;
+        dct:description    "Dataset about Trentino's public healthcare structure credited with Azienda Provinciale per i Servizi Sanitari" ;
+        dct:identifier     "KGE.Healthcare_Connectivity.place.Healthcare_structure" ;
+        dct:issued         "2022-11-22T13:12:44Z"^^xsd:dateTime ;
+        dct:language       "ita" ;
+        dct:modified       "2022-11-22T13:09:23Z"^^xsd:dateTime ;
+        dct:spatial        <https://www.epos-eu.org/epos-dcat-ap#Location/999f395b-6c8c-4c30-895d-42f249f55e50> ;
+        dct:title          "Healthcare_structure" ;
+        dct:type           "file"^^xsd:anyURI ;
+        adms:sample        <https://www.epos-eu.org/epos-dcat-ap#Distribution/dab08a8a-72df-4d13-ab49-32f788d767e0> ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/9c4295c8-c402-475f-bdeb-66e70c96d722> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/dab08a8a-72df-4d13-ab49-32f788d767e0> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/726aeeec-8812-4cb9-92d5-d075e8d75205> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/f0bd3b71-3a9f-42cc-a570-d7d5a9024300> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/139a6dfb-2ccc-436f-a82d-af43b4818c07> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/17a7124c-4582-42a6-a0fd-96241fe74b6e> , <https://www.epos-eu.org/epos-dcat-ap#Distribution/bb460e01-649a-464b-8ed0-23810cfde5bf> ;
+        dcat:keyword       "place" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/de1af5bf-1b94-4646-8d9f-d668b112155a> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/f0bd3b71-3a9f-42cc-a570-d7d5a9024300>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/987b2e5e-4ecd-4458-961e-be9eb6014b71> ;
+        dct:description   "Resource about Trentino's hospices credited with Azienda Provinciale per i Servizi Sanitari" ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.place.Healthcare_structure.Hospice.1" ;
+        dct:issued        "2022-11-22T13:44:16Z"^^xsd:dateTime ;
+        dct:language      "ita" ;
+        dct:modified      "2022-11-22T13:19:29Z"^^xsd:dateTime ;
+        dct:title         "hospice" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "871.0"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/987b2e5e-4ecd-4458-961e-be9eb6014b71>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/999f395b-6c8c-4c30-895d-42f249f55e50> ;
+        schema:dateModified   "2022-11-22T14:04:36Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-22T14:04:40Z"^^xsd:dateTime ;
+        schema:description    "owl's Trentino hospice schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/Healthcare_hospice"^^xsd:anyURI ;
+        schema:name           "Hospice_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/90a3f082-c384-4b03-861b-49da52f5996e> .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/4bc9a9d1-4da4-48d2-8073-7d1a63722888>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/999f395b-6c8c-4c30-895d-42f249f55e50> ;
+        schema:dateModified   "2022-11-22T14:04:26Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-22T14:04:29Z"^^xsd:dateTime ;
+        schema:description    "owl's Trentino psychiatrics schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/Healthcare_psychiatric"^^xsd:anyURI ;
+        schema:name           "Psychiatric_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/7b6d7fa3-2d66-45b6-b7ee-75a3f637b581> .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/6a583814-072c-40a9-90ec-2d971a7a9c7a>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Health data\n" ;
+        dct:title        "Health" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/90a3f082-c384-4b03-861b-49da52f5996e>
+        rdf:type         skos:Concept ;
+        skos:definition  "Hospice" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/6a583814-072c-40a9-90ec-2d971a7a9c7a> ;
+        skos:prefLabel   "Hospice" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/bb460e01-649a-464b-8ed0-23810cfde5bf>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/0825cd32-9227-4ba2-b4b9-5751a0a32a3a> ;
+        dct:description   "Resource about Trentino's serts credited with Azienda Provinciale per i Servizi Sanitari" ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.place.Healthcare_structure.Sert.1" ;
+        dct:issued        "2020-11-22T13:43:42Z"^^xsd:dateTime ;
+        dct:language      "ita" ;
+        dct:modified      "2022-11-22T13:49:08Z"^^xsd:dateTime ;
+        dct:title         "sert" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "1.91"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/dab08a8a-72df-4d13-ab49-32f788d767e0>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    <https://www.epos-eu.org/epos-dcat-ap#WebService/36b642d7-580b-44c3-b5f6-c90e84aa1a98> ;
+        dct:description   "Resource about Trentino's clinic labs credited with Azienda Provinciale per i Servizi Sanitari" ;
+        dct:format        "csv" ;
+        dct:identifier    "KGE.Healthcare_Connectivity.place.Healthcare_structure.ClinicLab.1" ;
+        dct:issued        "2024-11-22T13:44:29Z"^^xsd:dateTime ;
+        dct:language      "ita" ;
+        dct:modified      "2022-11-22T13:49:53Z"^^xsd:dateTime ;
+        dct:title         "ambulatorio_lab" ;
+        dct:type          "file"^^xsd:anyURI ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI ;
+        dcat:byteSize     "6.823"^^xsd:double ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Project_Connectivity/tree/main/Datasets/Inception"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#WebService/cf0438fc-0a67-4886-a04b-0d9034d8dfee>
+        rdf:type              epos:WebService ;
+        dct:spatial           <https://www.epos-eu.org/epos-dcat-ap#Location/999f395b-6c8c-4c30-895d-42f249f55e50> ;
+        schema:dateModified   "2022-11-22T14:04:48Z"^^xsd:dateTime ;
+        schema:datePublished  "2022-11-22T14:04:53Z"^^xsd:dateTime ;
+        schema:description    "owl's Trentino consultancies schema" ;
+        schema:identifier     "http://www.semanticweb.org/parallels/ontologies/2022/10/Healthcare_consultancy"^^xsd:anyURI ;
+        schema:name           "Consultancy_schema" ;
+        dcat:theme            <https://www.epos-eu.org/epos-dcat-ap#Concept/1b52b8c9-a18d-4659-91c8-d9c66db2717e> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/bc8b3064-802e-455a-8be7-d7d0bf82bb24>
+        rdf:type         skos:Concept ;
+        skos:definition  "RSA for elderly people" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/6a583814-072c-40a9-90ec-2d971a7a9c7a> ;
+        skos:prefLabel   "RSA_elderly_people" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/539fc211-f427-4bff-a04c-c81e08b90b2b>
+        rdf:type         skos:Concept ;
+        skos:definition  "Spa" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/6a583814-072c-40a9-90ec-2d971a7a9c7a> ;
+        skos:prefLabel   "Spa" .
