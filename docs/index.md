@@ -1,6 +1,6 @@
 # Trentino Transportation
 
-By Manuela Corte Pause and Guglielmo ZOcca
+By Manuela Corte Pause and Guglielmo Zocca
 
 ## Links to the material
 
@@ -53,11 +53,15 @@ The 7 initial datasets we used in total and the brief descriptions are delineate
 ## Teleontology
  <https://drive.google.com/file/d/19f85ibLduqMzDH8xPaH5HkT3vDdXeJNh/view?usp=share_link>
 
+<p align="center">
 <img src="./teleontology.png" width="520px" alt="Teleontology"/>
+</p>
 
 
 ## Final Graph RDF
-<https://drive.google.com/file/d/1bWJLL0qrU7Zc3MsbvP2_w6f5Dhr7mKJl/view?usp=share_link>
+<https://github.com/ManuelaCorte/KGE_Trentino_Healthcare_Connectivity/tree/main/Datasets/Data%20Integration>
 
 Below a snaphsot of part of the final graph.
+<p align="center">
 <img src="./graph_snapshot.png" width="520px" alt="Graph"/>
+</p>
