@@ -11,7 +11,7 @@ By Manuela Corte Pause and Guglielmo Zocca
 <https://drive.google.com/drive/folders/1URm3GYskjv0gTmxl_dMn_fB4hyTEWr4f?usp=share_link>
 
 ### Report
-<https://docs.google.com/presentation/d/1aBu4kIEsTBMBYuyMmyZuJ49gKM4YA0YH/edit?usp=share_link&ouid=113661818716318435556&rtpof=true&sd=true>
+<https://drive.google.com/file/d/1YqxSc1A6hdu4ZJxZg5GdsSBGDCEd7crg/view?usp=share_link>
 
 ### Presentation
 <https://docs.google.com/presentation/d/1aBu4kIEsTBMBYuyMmyZuJ49gKM4YA0YH/edit?usp=share_link&ouid=113661818716318435556&rtpof=true&sd=true>
