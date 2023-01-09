@@ -1,0 +1,163 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Agent/93c8816c-28dc-40cb-bf3e-86166b7cc268>
+        rdf:type   foaf:Agent ;
+        foaf:name  "Manuela Corte Pause" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/9f3d30f6-2021-436f-b63d-52b72c47beb9>
+        rdf:type         skos:Concept ;
+        skos:definition  "Containing all the necessary parts, answers, or information." ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/4f5ec0ed-4de5-4d67-9b3e-f93685eb3d3e> ;
+        skos:prefLabel   "Completed" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/7fdfaa57-3c42-48ec-a655-087aa8c710da>
+        rdf:type         skos:Concept ;
+        skos:definition  "Trentino urban and suburban public transportation information" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/48161fc0-816c-4377-b8f5-6b1b66752197> ;
+        skos:prefLabel   "Trentino urban and suburban public transport" .
+
+<https://www.epos-eu.org/epos-dcat-ap#PostalAddress/5f4e06ce-0b81-403d-a8c4-1ea742ad4baf>
+        rdf:type                schema:PostalAddress ;
+        schema:addressCountry   "IT" ;
+        schema:addressLocality  "Povo (TN)" ;
+        schema:postalCode       "I-38123" ;
+        schema:streetAddress    "Via Sommarive 9" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Location/4f91372b-2440-44be-90ad-505207e29844>
+        rdf:type       dct:Location ;
+        locn:geometry  "POLYGON((10.65673828125 45.32125436117139,11.66748046875 45.243953422623164,11.57958984375 45.92058734473357,10.65673828125 46.02748185248655,10.65673828125 45.32125436117139))"^^gsp:wktLiteral .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/4332d43b-a075-4f00-a626-8c47b1c7ba59>
+        rdf:type          dcat:Distribution ;
+        dct:conformsTo    "https://github.com/ManuelaCorte/KGE_Trentino_Healthcare_Connectivity/tree/main/Teleologies/Data%20Integration/" ;
+        dct:description   "Knowledge Graph in RDF format." ;
+        dct:format        "https://www.w3.org/RDF/"^^xsd:anyURI ;
+        dct:identifier    "https://github.com/ManuelaCorte/KGE_Trentino_Healthcare_Connectivity/tree/main/Datasets/Data%20Integration/"^^xsd:anyURI ;
+        dct:issued        "2023-01-09T17:11:10Z"^^xsd:dateTime ;
+        dct:language      "eng" ;
+        dct:modified      "2023-01-04T20:15:55Z"^^xsd:dateTime ;
+        dct:title         "Trentino Healthcare Connectivity" ;
+        dct:type          "Collection"^^xsd:anyURI ;
+        adms:status       <https://www.epos-eu.org/epos-dcat-ap#Concept/9f3d30f6-2021-436f-b63d-52b72c47beb9> ;
+        dcat:accessURL    "https://github.com/ManuelaCorte/KGE_Trentino_Healthcare_Connectivity/tree/main/Datasets/Data%20Integration"^^xsd:anyURI ;
+        dcat:downloadURL  "https://github.com/ManuelaCorte/KGE_Trentino_Healthcare_Connectivity/tree/main/Datasets/Data%20Integration/"^^xsd:anyURI ;
+        foaf:page         "https://github.com/ManuelaCorte/KGE_Trentino_Healthcare_Connectivity" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/d33c37e7-fed2-4a32-b43a-dddad67177f0>
+        rdf:type         skos:Concept ;
+        skos:definition  "Trentino healthcare structure information" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/62730970-f13c-4b33-8d69-3f60667ebb51> ;
+        skos:prefLabel   "Trentino healthcare structure" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/b5f8218e-455a-4708-80f9-07a20fd64939>
+        rdf:type           schema:Organization ;
+        schema:address     <https://www.epos-eu.org/epos-dcat-ap#PostalAddress/4137f148-d85c-4573-b272-900c7a1bd6c6> ;
+        schema:email       "ateneo@unitn.it" ;
+        schema:identifier  "www.unitn.it"^^xsd:anyURI ;
+        schema:legalName   "Università degli Studi di Trento" ;
+        schema:leiCode     "00340520220" ;
+        schema:telephone   "0461281111" ;
+        schema:url         "www.unitn.it"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/fa2dc76d-4159-466e-8a7a-0ef330ed2650>
+        rdf:type           schema:Organization ;
+        schema:address     <https://www.epos-eu.org/epos-dcat-ap#PostalAddress/5f4e06ce-0b81-403d-a8c4-1ea742ad4baf> ;
+        schema:email       "knowdive@disi.unitn.it" ;
+        schema:identifier  "http://knowdive.disi.unitn.it"^^xsd:anyURI ;
+        schema:legalName   "Knowdive" ;
+        schema:leiCode     "http://knowdive.disi.unitn.it" ;
+        schema:logo        "http://knowdive.disi.unitn.it/wp-content/uploads/knowdive-new-logo.png"^^xsd:anyURI ;
+        schema:memberOf    <https://www.epos-eu.org/epos-dcat-ap#Organization/b5f8218e-455a-4708-80f9-07a20fd64939> ;
+        schema:url         "http://knowdive.disi.unitn.it"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#PeriodOfTime/1080c4d1-5e22-421a-81d9-614041bbc7d3>
+        rdf:type          dct:PeriodOfTime ;
+        schema:endDate    "2023-01-06T19:17:27Z"^^xsd:dateTime ;
+        schema:startDate  "2022-09-13T19:17:27Z"^^xsd:dateTime .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/62730970-f13c-4b33-8d69-3f60667ebb51>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Health" ;
+        dct:title        "Health" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/6f611d6a-ff4d-4a04-93e2-e066957ea26e>
+        rdf:type                  schema:ContactPoint ;
+        schema:availableLanguage  "eng, it" ;
+        schema:contactType        "Member" ;
+        schema:email              "gugleilmo.zocca@studenti.unitn.it" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/4f5ec0ed-4de5-4d67-9b3e-f93685eb3d3e>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Status of the KG" ;
+        dct:title        "Status" .
+
+<https://www.epos-eu.org/epos-dcat-ap#PostalAddress/4137f148-d85c-4573-b272-900c7a1bd6c6>
+        rdf:type                schema:PostalAddress ;
+        schema:addressCountry   "IT" ;
+        schema:addressLocality  "Trento" ;
+        schema:postalCode       "38122" ;
+        schema:streetAddress    "Via Calepina 14" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/58729a7a-91e4-4153-8c7f-c17c70c3495d>
+        rdf:type                  schema:ContactPoint ;
+        schema:availableLanguage  "eng, it" ;
+        schema:contactType        "Member" ;
+        schema:email              "manuela.cortepause@studenti.unitn.it" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/c6b28559-eb3e-4a78-a38a-301d2f72571e>
+        rdf:type                dcat:Dataset ;
+        dct:accessRights        "Public" ;
+        dct:accrualPeriodicity  "Once"^^xsd:anyURI ;
+        dct:conformsTo          "iTelos" ;
+        dct:created             "2022-12-30T19:12:57Z"^^xsd:dateTime ;
+        dct:description         "The project 'Trentino Healthcare Connectivity' of Knowledge Graph Engineering" ;
+        dct:identifier          "https://github.com/ManuelaCorte/KGE_Trentino_Healthcare_Connectivity/tree/main/Datasets/Data%20Integration"^^xsd:anyURI ;
+        dct:issued              "2023-01-13T18:37:46Z"^^xsd:dateTime ;
+        dct:language            "eng" ;
+        dct:modified            "2023-01-04T19:08:30Z"^^xsd:dateTime ;
+        dct:publisher           <https://www.epos-eu.org/epos-dcat-ap#Agent/4d58539f-b400-4c2b-9e41-0ff2c4d4155e> , <https://www.epos-eu.org/epos-dcat-ap#Agent/93c8816c-28dc-40cb-bf3e-86166b7cc268> , <https://www.epos-eu.org/epos-dcat-ap#Organization/fa2dc76d-4159-466e-8a7a-0ef330ed2650> ;
+        dct:spatial             <https://www.epos-eu.org/epos-dcat-ap#Location/4f91372b-2440-44be-90ad-505207e29844> ;
+        dct:temporal            <https://www.epos-eu.org/epos-dcat-ap#PeriodOfTime/1080c4d1-5e22-421a-81d9-614041bbc7d3> ;
+        dct:title               "Knowledge Graph Metadata" ;
+        dct:type                "Collection"^^xsd:anyURI ;
+        adms:sample             <https://www.epos-eu.org/epos-dcat-ap#Distribution/4332d43b-a075-4f00-a626-8c47b1c7ba59> ;
+        dcat:contactPoint       <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/6f611d6a-ff4d-4a04-93e2-e066957ea26e> , <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/58729a7a-91e4-4153-8c7f-c17c70c3495d> ;
+        dcat:distribution       <https://www.epos-eu.org/epos-dcat-ap#Distribution/4332d43b-a075-4f00-a626-8c47b1c7ba59> ;
+        dcat:keyword            "\\Fausto Giunchiglia\\, \\fare\\, \\train\\, \\bus\\, \\Knowledge Graph Engineering\\,  \\Simone Bocca\\, \\extra-urban transport\\, \\trentino trasporti\\, \\car sharing\\, \\KGE\\, \\iTelos\\, \\public transport\\, \\UniTN\\, \\taxi\\, \\trento\\, \\transport\\ , \\price\\ , \\trentino\\, \\trip\\, \\ticket\\ , \\route\\, \\urban transport\\, \\clinical lab\\, \\sert\\, \\spa\\, \\psychiatric\\, \\consultancy\\, \\hospice\\, \\RSA\\, \\withdrawal points\\, \\pharmacy\\, \\parapharmacies\\, \\timetable\\" ;
+        dcat:landingPage        "https://github.com/ManuelaCorte/KGE_Trentino_Healthcare_Connectivity" ;
+        dcat:theme              <https://www.epos-eu.org/epos-dcat-ap#Concept/d33c37e7-fed2-4a32-b43a-dddad67177f0> , <https://www.epos-eu.org/epos-dcat-ap#Concept/7fdfaa57-3c42-48ec-a655-087aa8c710da> ;
+        foaf:page               "https://github.com/ManuelaCorte/KGE_Trentino_Healthcare_Connectivity" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/48161fc0-816c-4377-b8f5-6b1b66752197>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Transport" ;
+        dct:title        "Transport" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Agent/4d58539f-b400-4c2b-9e41-0ff2c4d4155e>
+        rdf:type   foaf:Agent ;
+        foaf:name  "Guglielmo Zocca" .
