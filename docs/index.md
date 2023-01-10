@@ -51,7 +51,7 @@ The 7 initial datasets we used in total and the brief descriptions are delineate
     The World Wide Web Consortium (W3C) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards. In particular from W3C we’ll use a vocabulary to describe geographical coordinate.
 
 ## Teleontology
- <https://drive.google.com/file/d/19f85ibLduqMzDH8xPaH5HkT3vDdXeJNh/view?usp=share_link>
+ <https://github.com/ManuelaCorte/KGE_Trentino_Healthcare_Connectivity/blob/main/Teleologies/Formal%20Modeling/Teleontology_aligned.owl>
 
 <p align="center">
 <img src="./teleontology.png" width="520px" alt="Teleontology"/>
